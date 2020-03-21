@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="2.06">
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Synthesizer>
+      </Synthesizer>
+    <Division>480</Division>
+    <Style>
+      <lyricsMinBottomDistance>6</lyricsMinBottomDistance>
+      <frameSystemDistance>1</frameSystemDistance>
+      <minMeasureWidth>4</minMeasureWidth>
+      <endBarDistance>0.3</endBarDistance>
+      <bracketWidth>0.35</bracketWidth>
+      <bracketDistance>0.25</bracketDistance>
+      <clefLeftMargin>0.5</clefLeftMargin>
+      <minNoteDistance>0.4</minNoteDistance>
+      <measureSpacing>1.14</measureSpacing>
+      <ledgerLineWidth>0.12</ledgerLineWidth>
+      <beamWidth>0.48</beamWidth>
+      <beamMinLen>1.25</beamMinLen>
+      <propertyDistanceStem>0.5</propertyDistanceStem>
+      <harmonyY>0</harmonyY>
+      <chordStyle>custom</chordStyle>
+      <chordsXmlFile>1</chordsXmlFile>
+      <chordDescriptionFile>stdchords.xml</chordDescriptionFile>
+      <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
+      <voltaY>-2</voltaY>
+      <keySigNaturals>1</keySigNaturals>
+      <tupletOufOfStaff>0</tupletOufOfStaff>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Chord Symbol</name>
+        <family>FreeSerif</family>
+        <size>12</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <page-layout>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
+        <page-margins type="even">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        <page-margins type="odd">
+          <left-margin>56.6929</left-margin>
+          <right-margin>56.6929</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>113.386</bottom-margin>
+          </page-margins>
+        </page-layout>
+      <Spatium>1.764</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2019-03-29</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle"></metaTag>
+    <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      </PageList>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          </StaffType>
+        <bracket type="1" span="2"/>
+        </Staff>
+      <trackName>Piano</trackName>
+      <Instrument>
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="0"/>
+          <controller ctrl="93" value="30"/>
+          <controller ctrl="91" value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <bottomGap>7</bottomGap>
+        <Text>
+          <style>Title</style>
+          <text><font face="Calibri"/>Hallelu, Hallelu</text>
+          </Text>
+        </VBox>
+      <Measure number="1" len="1/4">
+        <Clef>
+          <concertClefType>G</concertClefType>
+          <transposingClefType>G</transposingClefType>
+          </Clef>
+        <KeySig>
+          <accidental>1</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>4</sigN>
+          <sigD>4</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Beam id="1">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>1</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Beam id="2">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>2</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>2</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Beam id="3">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>3</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>3</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="3">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Beam id="4">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>4</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>4</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>lu</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>jah!</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="4">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="5">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord!</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Beam id="5">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>5</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>5</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="6">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Beam id="6">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>6</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>6</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Beam id="7">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>7</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>7</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="7">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>lu,</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Beam id="8">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>8</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>8</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>lu</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>jah!</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="8">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="9">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord!</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="10">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="11">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord,</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Beam id="9">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>9</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>9</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>lu</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>jah!</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="12">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="13">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord,</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Beam id="10">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>10</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>10</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>lu</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>jah!</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="14">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="15">
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord,</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Beam id="11">
+          </Beam>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>11</Beam>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text><font face="Calibri"/>Hal</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Beam>11</Beam>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>le</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>middle</syllabic>
+            <text><font face="Calibri"/>lu</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text><font face="Calibri"/>jah!</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="16">
+        <Chord>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Praise</text>
+            </Lyrics>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>ye</text>
+            </Lyrics>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="17">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Lyrics>
+            <text><font face="Calibri"/>Lord!</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
