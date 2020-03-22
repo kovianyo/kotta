@@ -8,6 +8,9 @@ if [ ! -d "$FOLDERPATH" ]; then
   exit
 fi
 
+# remova trailing slash
+FOLDERPATH=${@%/}
+
 FILES="$FOLDERPATH/*.mscx"
 #echo $FILES
 
