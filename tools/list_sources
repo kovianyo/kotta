@@ -1,0 +1,19 @@
+# first argument: path to folder
+
+FOLDERPATH=$1
+
+if [ ! -d "$FOLDERPATH" ]; then
+  echo lists the urls of the scores on musescore.com
+  echo "usage: $0 <path to folder>"
+  exit
+fi
+
+FILES="$FOLDERPATH/*.mscx"
+#echo $FILES
+
+for filePath in $FILES
+do 
+  #echo "$filePath"
+  source=`xmllint --xpath '//museScore/Score/metaTag[@name="source"]/text()' $filePath 2>/dev/null`
+  echo "$filePath; $source"
+done
