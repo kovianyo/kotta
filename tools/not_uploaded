@@ -1,0 +1,21 @@
+# first argument: path to folder
+
+FOLDERPATH=$1
+
+if [ ! -d "$FOLDERPATH" ]; then
+  echo lists the scores that are not uploaded to musescore.com
+  echo "usage: $0 <path to folder>"
+  exit
+fi
+
+FILES="$FOLDERPATH/*.mscx"
+#echo $FILES
+
+for filePath in $FILES
+do 
+  #echo "$filePath"
+  source=`xmllint --xpath '//museScore/Score/metaTag[@name="source"]/text()' $filePath 2>/dev/null`
+  if [ -z "$source" ]; then  
+    echo "$filePath"
+  fi
+done
