@@ -718,6 +718,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tele van a temető árka vízzel,
+Televan a szívem keserűséggel! 
+Jó az Isten, leapasztja a vizet, 
+Sej, viszsza hozza a régi szeretőmet!
+
+
+Hideg sincsen, mégis befagyott a tó,
+Ihatnék az én szép lovam, a fakó!
+Gyertek, lányok, törjétek fel a jeget,
+Sej, hadd igyon a fakó lovam eleget!
+</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
