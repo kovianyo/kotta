@@ -152,6 +152,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -276,6 +280,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -312,6 +319,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -341,6 +351,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -369,6 +382,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -383,6 +399,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -427,6 +446,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -533,7 +555,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>mat</text>
+              <text>mat,</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -567,6 +589,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -596,6 +621,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -621,6 +649,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -636,6 +668,33 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kerek utca, kicsi ház, 
+Benne, rózsám, mit csinálsz, nana... 
+Csinosítom magamat, 
+Várom a galambomat, nana...
+
+Kerek a szőlő levele,
+Vártalak, rózsám, az este, nana...
+Én vártalak, te nem jöttél,
+Máshoz váratlan elmentél, nana...
+
+
+Kinek nincsen szeretője, 
+Menjen ki a zöld erdőbe, nana...
+Írja fel egy falevélre, 
+Nincsen neki szeretője, nana...
+
+Kerek utca kicsi ház, 
+Benne rózsám mit csinálsz, nana...
+Én uramnak vacsorát, 
+Tarka kutya cubókját, náná...
+</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

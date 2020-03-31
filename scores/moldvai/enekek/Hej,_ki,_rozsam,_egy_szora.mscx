@@ -378,6 +378,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>ri,</text>
               </Lyrics>
             <Note>
@@ -389,7 +390,7 @@
             <root>15</root>
             </Harmony>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ti</text>
@@ -400,7 +401,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>rá</text>

@@ -160,7 +160,7 @@
             <tempo>1.66667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="-7.19763" y="-3.87525"/>
+            <offset x="-6.21228" y="-3.17143"/>
             <text><sym>metNoteQuarterUp</sym> = 100</text>
             </Tempo>
           <Chord>

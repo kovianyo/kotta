@@ -1851,7 +1851,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>15</root>
             <extension>1</extension>
             </Harmony>
           <Chord>
@@ -1916,6 +1916,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1956,6 +1960,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
