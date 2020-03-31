@@ -1542,7 +1542,8 @@
         <bottomGap>8</bottomGap>
         <Text>
           <style>Title</style>
-          <text>Befogom a lovam</text>
+          <offset x="-0.248293" y="4.96585"/>
+          <text>Csárdáska</text>
           </Text>
         </VBox>
       <Measure>
@@ -1561,15 +1562,15 @@
             <tempo>2.33333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="-9.74158" y="-4"/>
+            <offset x="-6.78571" y="-3.43698"/>
             <text><sym>metNoteQuarterUp</sym> = 140</text>
             </Tempo>
+          <SystemText>
+            <offset x="3.09662" y="-1.71849"/>
+            <text>Fekete zsindelyes...</text>
+            </SystemText>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>Min</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1579,10 +1580,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>den</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -1617,10 +1614,6 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>lány</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1630,10 +1623,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nak</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
@@ -1668,9 +1657,6 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <text>van</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1678,10 +1664,6 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>ba</text>
-              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1693,10 +1675,6 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>bá</text>
-              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1704,10 +1682,6 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ja,</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -1721,10 +1695,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>ki</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1732,10 +1702,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>vel</text>
-              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1745,10 +1711,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>mu</text>
-              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -1756,10 +1718,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>lat</text>
-              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1771,9 +1729,6 @@
         <voice>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>a</text>
-              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -1782,10 +1737,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>csár</text>
-              </Lyrics>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -1803,10 +1754,6 @@
             </Harmony>
           <Chord>
             <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>dá</text>
-              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1822,10 +1769,6 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ba',</text>
-              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1850,9 +1793,6 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <text>Hej,</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -1860,9 +1800,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>csak</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -1870,9 +1807,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>az</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -1884,10 +1818,6 @@
         <voice>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>e</text>
-              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1896,10 +1826,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nyém,</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -1917,10 +1843,6 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>csu</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -1928,10 +1850,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>haj,</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -1939,9 +1857,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>csak</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -1949,9 +1864,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>az</text>
-              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -1963,10 +1875,6 @@
         <voice>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>e</text>
-              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1975,10 +1883,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nyém</text>
-              </Lyrics>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -1992,10 +1896,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>her</text>
-              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2003,10 +1903,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>vad</text>
-              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -2016,9 +1912,6 @@
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>el</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -2026,9 +1919,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>a</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -2046,10 +1936,6 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <text>ka</text>
-              </Lyrics>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2058,10 +1944,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>szár</text>
-              </Lyrics>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -2079,10 +1961,6 @@
             </Harmony>
           <Chord>
             <durationType>half</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>nyá</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -2095,10 +1973,6 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ba'!</text>
-              </Lyrics>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
