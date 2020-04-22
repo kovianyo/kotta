@@ -83,7 +83,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/6101747</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Your turn to roll</metaTag>
@@ -144,6 +144,14 @@
         <Text>
           <style>Title</style>
           <text>Your turn to roll</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Sam Riegel and Jason Charles Miller</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Critical Role</text>
           </Text>
         </VBox>
       <Measure>
@@ -408,6 +416,10 @@
             <Lyrics>
               <text>The</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>They</text>
+              </Lyrics>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -418,6 +430,10 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ad</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>got</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -439,6 +455,11 @@
               <syllabic>middle</syllabic>
               <text>ven</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>ma</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -451,6 +472,12 @@
               <syllabic>end</syllabic>
               <text>ture</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>gic</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -461,6 +488,10 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>be</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>and</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -474,6 +505,10 @@
               <syllabic>end</syllabic>
               <text>gins,</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>flair,</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -482,6 +517,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <text>They</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
               <text>They</text>
               </Lyrics>
             <Note>
@@ -493,6 +532,10 @@
             <durationType>16th</durationType>
             <Lyrics>
               <text>were</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>got</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -510,6 +553,11 @@
               <syllabic>begin</syllabic>
               <text>al</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>falchi</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -522,6 +570,12 @@
               <syllabic>end</syllabic>
               <text>ways</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>ons</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -532,6 +586,10 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>be</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>and</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -545,6 +603,11 @@
               <syllabic>end</syllabic>
               <text>side</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>cun</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -554,6 +617,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>you,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ning,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -567,6 +635,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>Your</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>They</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -588,6 +660,10 @@
               <syllabic>begin</syllabic>
               <text>ner</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>don't</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -600,6 +676,10 @@
               <syllabic>end</syllabic>
               <text>dy</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>see</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -609,6 +689,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>best</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>over</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -621,6 +705,10 @@
             <Lyrics>
               <text>friends,</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>there</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -631,6 +719,10 @@
             <Lyrics>
               <text>And</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>There's</text>
+              </Lyrics>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -640,6 +732,10 @@
             <durationType>16th</durationType>
             <Lyrics>
               <text>the</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>a</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -657,6 +753,11 @@
               <syllabic>begin</syllabic>
               <text>D</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>mon</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -669,6 +770,12 @@
               <syllabic>end</syllabic>
               <text>M</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>ster</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -678,6 +785,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>to</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -690,6 +802,11 @@
             <Lyrics>
               <text>guide</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>co</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -699,6 +816,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>you,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <text>ming,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -713,6 +835,11 @@
             <Lyrics>
               <text>And</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>Ins</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -722,6 +849,11 @@
             <durationType>16th</durationType>
             <Lyrics>
               <text>they</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>pi</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -742,6 +874,11 @@
             <Lyrics>
               <text>rise</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <text>rati</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -753,6 +890,12 @@
             <Lyrics>
               <text>from</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>on</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -762,6 +905,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>the</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>is</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -778,6 +925,11 @@
             <Lyrics>
               <text>flames</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <text>wai</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -789,6 +941,12 @@
             <Lyrics>
               <text>for</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>ting,</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -798,6 +956,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>the</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>Rise</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -818,6 +980,10 @@
               <syllabic>begin</syllabic>
               <text>bat</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>up,</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -830,6 +996,10 @@
               <syllabic>end</syllabic>
               <text>tles</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>don't</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -840,6 +1010,10 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>a</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>think</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -855,6 +1029,10 @@
             <Lyrics>
               <syllabic>end</syllabic>
               <text>head,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>twice,</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -878,7 +1056,6 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -887,6 +1064,28 @@
                   </location>
                 </prev>
               </Spanner>
+            <Note>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <no>1</no>
+              <text>Put</text>
+              </Lyrics>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <no>1</no>
+              <text>your</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -907,6 +1106,10 @@
               <syllabic>begin</syllabic>
               <text>Villa</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>fate</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -919,6 +1122,10 @@
               <syllabic>end</syllabic>
               <text>ins</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>in</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -929,6 +1136,10 @@
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>be</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>your</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -946,6 +1157,10 @@
               <syllabic>end</syllabic>
               <text>ware,</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>hands,</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -957,6 +1172,10 @@
             <Lyrics>
               <text>'cause</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>take</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -966,6 +1185,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>you're</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>a</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -985,6 +1208,10 @@
             <Lyrics>
               <text>'bout</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>chance,</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -996,6 +1223,10 @@
             <Lyrics>
               <text>to</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>roll</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -1005,6 +1236,10 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <text>be</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>the</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -1019,6 +1254,10 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <text>dead!</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <text>dice!</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1087,11 +1326,418 @@
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>Can</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>you</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ans</text>
+              </Lyrics>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>wer</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>the</text>
+              </Lyrics>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>call?</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>Dig</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>in</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>deep</text>
+              </Lyrics>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>in</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>your</text>
+              </Lyrics>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>soul,</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>As</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>the</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>le</text>
+              </Lyrics>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
+              <text>gend</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>un</text>
+              </Lyrics>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>folds,</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>Now</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <text>it's</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>your</text>
+              </Lyrics>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>turn,</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/16</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>your</text>
+              </Lyrics>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>turn,</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/16</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/16</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>your</text>
+              </Lyrics>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Lyrics>
+              <text>turn</text>
+              </Lyrics>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>to</text>
+              </Lyrics>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
+          <Chord>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <text>roll!</text>
+              </Lyrics>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       </Staff>
