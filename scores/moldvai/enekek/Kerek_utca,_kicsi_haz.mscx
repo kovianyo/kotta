@@ -581,6 +581,10 @@
                 </prev>
               </Spanner>
             <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
