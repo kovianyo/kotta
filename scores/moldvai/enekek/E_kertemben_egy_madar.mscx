@@ -83,7 +83,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847913</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847913</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">E kertemben egy madár</metaTag>
@@ -443,7 +443,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -466,6 +466,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
