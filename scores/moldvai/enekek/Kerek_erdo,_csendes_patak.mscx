@@ -156,6 +156,13 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.66667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-5.9121" y="-3.55388"/>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
