@@ -83,7 +83,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/5086265</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/5086265</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Kerek erdő, csendes patak</metaTag>
@@ -152,6 +152,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -263,6 +267,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -280,6 +287,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -391,6 +402,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -413,6 +427,9 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -505,6 +522,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -584,6 +604,10 @@
       <Measure>
         <endRepeat>2</endRepeat>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -603,6 +627,35 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kerek erdő, csendes patak,
+Kerek erdő, csendes patak,
+Jaj, de rossz legénynek adtak.
+
+Éjjel iszik, nem aluszik,
+Éjjel iszik, nem aluszik,
+Nappal fekszik, nem dolgozik.
+
+Csak a pipa, s az álom,
+Csak a pipa, s az álom,
+Kapa nyele halálom.
+
+Ha mégegyszer lány lehetnék,
+Ha mégegyszer lány lehetnék,
+Jól megválasztnám a legényt.
+
+Úgy megválasztnám a legényt,
+Úgy megválasztnám a legényt,
+Mind a piacon az edényt.
+
+Az edénynek a mázassát,
+Az edénynek a mázassát,
+a legénynek a pirossát.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
