@@ -159,6 +159,10 @@
             <offset x="-6.46125" y="-3.25152"/>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -243,6 +247,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -339,6 +346,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -358,6 +369,10 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -523,6 +538,9 @@
       <Measure>
         <endRepeat>2</endRepeat>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -568,6 +586,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>

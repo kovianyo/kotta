@@ -157,6 +157,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Egy</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -164,6 +168,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>szer</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -171,6 +180,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>jár</text>
+              </Lyrics>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -178,6 +191,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>tam</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -189,6 +207,10 @@
         <voice>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Bu</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -197,6 +219,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>dá</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -204,6 +230,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ra,</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -221,6 +251,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>két</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -228,6 +262,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>szer</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -238,6 +277,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>Ma</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -245,6 +288,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>gyar</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -263,6 +310,10 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>or</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -271,6 +322,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>szág</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -281,6 +336,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ra,</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -298,6 +357,9 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>Ott</text>
+              </Lyrics>
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
@@ -305,13 +367,32 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>hal</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lék</text>
+              </Lyrics>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>egy</text>
+              </Lyrics>
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
@@ -326,6 +407,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ma</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -333,6 +418,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>gyar</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -340,6 +430,9 @@
             </Chord>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <text>szót,</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -354,6 +447,9 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>nyisd</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -361,6 +457,9 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>meg</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -368,6 +467,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ró</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -375,6 +478,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>zsám</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -389,6 +497,9 @@
         <voice>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>az</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -396,6 +507,10 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>aj</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -406,6 +521,11 @@
             </Harmony>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>tót,</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -420,6 +540,9 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>Ott</text>
+              </Lyrics>
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
@@ -427,13 +550,32 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>hal</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>lék</text>
+              </Lyrics>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>egy</text>
+              </Lyrics>
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
@@ -448,6 +590,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ma</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -455,6 +601,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>gyar</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -462,6 +613,9 @@
             </Chord>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <text>szót,</text>
+              </Lyrics>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -476,6 +630,9 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>nyisd</text>
+              </Lyrics>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -483,6 +640,9 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <text>meg</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -493,6 +653,10 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>ró</text>
+              </Lyrics>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -500,6 +664,11 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
+              <text>zsám</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -514,6 +683,9 @@
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>az</text>
+              </Lyrics>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -522,6 +694,10 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>aj</text>
+              </Lyrics>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -532,6 +708,10 @@
             </Harmony>
           <Chord>
             <durationType>half</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>tót!</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -547,25 +727,28 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Egyszer jártam Budára, kétszer Magyarországra,
-Egyszer jártam Budára, kétszer Magyarországra,
+          <text>Egyszer jártam Budára*, kétszer Magyarországra,
+Egyszer jártam Budára, kétszer Magyarországra.
+S ott hallék egy magyar szót, nyisd meg rózsám az ajtót.
 S ott hallék egy magyar szót, nyisd meg rózsám az ajtót!
-S ott hallék egy magyar szót, nyisd meg rózsám az ajtót!
 
+Nyisd az ajtót csendesen, hadd menjek be rendesen,
 Nyisd az ajtót csendesen, hadd menjek be rendesen!
-Nyisd az ajtót csendesen, hadd menjek be rendesen!
-Megnyitanám, de félek, mer' a legény rossz lélek!
+Megnyitanám, de félek, mer' a legény rossz lélek,
 Megnyitanám, de félek, mer' a legény rossz lélek!
 
+Édesanyám azt mondta, jól vigyázzak magamra,
 Édesanyám azt mondta, jól vigyázzak magamra!
-Édesanyám azt mondta, jól vigyázzak magamra!
-Mert én rózsám beengedlek, mer' nem vagyok rossz lélek!
+Mert én rózsám beengedlek, mer' nem vagyok rossz lélek,
 Mert én rózsám beengedlek, mer' nem vagyok rossz lélek!
 
+Adj egy csókot, s én es mást, el ne felejtsük egymást,
 Adj egy csókot, s én es mást, el ne felejtsük egymást!
-Adj egy csókot, s én es mást, el ne felejtsük egymást!
+Adok egyet, kettőt es, kapok még százt nálad es,
 Adok egyet, kettőt es, kapok még százt nálad es!
-Adok egyet, kettőt es, kapok még százt nálad es!</text>
+
+*Bákó megye
+</text>
           </Text>
         </TBox>
       </Staff>

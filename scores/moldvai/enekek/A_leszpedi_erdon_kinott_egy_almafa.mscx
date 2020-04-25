@@ -1559,7 +1559,7 @@
             <tempo>1.66667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="-8.97393" y="-3.87526"/>
+            <offset x="-6.8626" y="-3.7345"/>
             <text><sym>metNoteQuarterUp</sym> = 100</text>
             </Tempo>
           <Chord>
@@ -1583,10 +1583,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <extension>1</extension>
-            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -1640,6 +1636,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -1717,7 +1717,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>15</root>
             <extension>1</extension>
             </Harmony>
           <Chord>
@@ -1764,10 +1764,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <extension>1</extension>
-            </Harmony>
           <Beam>
             </Beam>
           <Chord>
