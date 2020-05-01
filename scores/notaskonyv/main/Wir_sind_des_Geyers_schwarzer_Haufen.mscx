@@ -150,6 +150,10 @@
         </VBox>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>G8vb</concertClefType>
+            <transposingClefType>G8vb</transposingClefType>
+            </Clef>
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
