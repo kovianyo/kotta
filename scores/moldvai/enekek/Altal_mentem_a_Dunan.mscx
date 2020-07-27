@@ -489,6 +489,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -538,9 +541,6 @@
       <Measure>
         <endRepeat>2</endRepeat>
         <voice>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
