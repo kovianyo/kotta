@@ -131,14 +131,44 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/4</ticks_f>
               <text>ki</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -153,22 +183,64 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>csi</text>
               </Lyrics>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>hi</text>
+              </Lyrics>
+            <Note>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <text>csi</text>
+              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -186,7 +258,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -195,8 +267,18 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>csi</text>
@@ -206,45 +288,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>hi</text>
-              </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>csi</text>
-              </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -262,7 +306,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -271,6 +315,7 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -315,14 +360,44 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/4</ticks_f>
               <text>ki</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -337,6 +412,7 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -344,8 +420,17 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>csi</text>
@@ -355,7 +440,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -373,7 +458,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -382,8 +467,18 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>csi</text>
@@ -393,7 +488,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -411,7 +506,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -420,24 +515,25 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           <Harmony>
             <root>14</root>
             </Harmony>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>csi</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -449,23 +545,17 @@
               <syllabic>middle</syllabic>
               <text>hir</text>
               </Lyrics>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be.</text>
+              <text>be,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -503,8 +593,7 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Lyrics>
               <text>a</text>
               </Lyrics>
@@ -513,15 +602,21 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>fe</text>
@@ -531,7 +626,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -549,7 +644,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -558,8 +653,18 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>te</text>
@@ -569,7 +674,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -587,7 +692,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -596,8 +701,18 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
@@ -608,7 +723,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -626,7 +741,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -635,12 +750,31 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>resz</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/6</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -650,14 +784,21 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/8</ticks_f>
               <text>nye,</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/6</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
@@ -689,12 +830,44 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
+              <syllabic>end</syllabic>
               <text>már</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -709,12 +882,22 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>fe</text>
@@ -724,7 +907,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -742,7 +925,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -751,8 +934,18 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>te</text>
@@ -762,7 +955,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -780,7 +973,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -789,11 +982,18 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <ticks_f>0/4</ticks_f>
@@ -804,7 +1004,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -822,7 +1022,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-1/8</fractions>
+                  <fractions>-1/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -831,8 +1031,18 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>resz</text>
@@ -853,6 +1063,7 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       <TBox>
