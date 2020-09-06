@@ -1552,6 +1552,11 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>17</root>
+            <extension>16</extension>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1660,6 +1665,10 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1753,6 +1762,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1770,6 +1783,10 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1835,6 +1852,10 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1954,6 +1975,11 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <extension>16</extension>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
