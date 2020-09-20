@@ -148,9 +148,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -204,8 +201,8 @@
               <text>szer</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Harmony>
