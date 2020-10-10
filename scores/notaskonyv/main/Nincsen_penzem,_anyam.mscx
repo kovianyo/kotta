@@ -145,10 +145,6 @@
           <style>Title</style>
           <text>Nincsen pénzem, anyám</text>
           </Text>
-        <Text>
-          <style>Composer</style>
-          <text>Parno Graszt</text>
-          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -185,6 +181,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -209,7 +209,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>16</root>
+            <root>17</root>
             <name>m</name>
             </Harmony>
           <Chord>
@@ -240,8 +240,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
-            <name>m</name>
+            <root>18</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -255,10 +254,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>19</root>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -272,6 +267,7 @@
             </Chord>
           <Harmony>
             <root>18</root>
+            <name>7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -340,6 +336,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -348,8 +347,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
-            <name>m</name>
+            <root>18</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -397,8 +395,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>18</root>
-            <name>m7</name>
+            <root>17</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -428,8 +425,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
-            <name>7</name>
+            <root>18</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -591,7 +587,7 @@
             </Chord>
           <Harmony>
             <root>16</root>
-            <name>7</name>
+            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -645,10 +641,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -857,7 +849,7 @@
             </Chord>
           <Harmony>
             <root>18</root>
-            <name>m7</name>
+            <name>7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
