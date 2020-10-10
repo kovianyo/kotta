@@ -655,6 +655,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -671,7 +674,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>17</root>
+            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -707,6 +711,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -722,6 +729,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
