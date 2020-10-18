@@ -1484,7 +1484,7 @@
     <metaTag name="movementTitle">Hétre ma várom a Nemzetinél</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4920843</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4920843</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -2941,8 +2941,11 @@
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
