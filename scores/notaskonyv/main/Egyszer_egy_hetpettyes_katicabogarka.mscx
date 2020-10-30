@@ -452,7 +452,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -461,8 +461,8 @@
               <text>gyöngy</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -472,13 +472,10 @@
               <text>vi</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -487,8 +484,8 @@
               <text>rág,</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
