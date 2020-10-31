@@ -108,7 +108,8 @@
           <Tempo>
             <tempo>1.33333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 80</b></text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80</b></text>
             </Tempo>
           <Rest>
             <durationType>half</durationType>
@@ -566,9 +567,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
@@ -639,10 +637,17 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -683,7 +688,14 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
@@ -724,10 +736,17 @@
             <root>18</root>
             </Harmony>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -759,7 +778,14 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
@@ -794,8 +820,7 @@
               </next>
             </Spanner>
           <Chord>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
@@ -804,8 +829,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -841,6 +866,20 @@
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>88</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -888,10 +927,17 @@
             <root>18</root>
             </Harmony>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
