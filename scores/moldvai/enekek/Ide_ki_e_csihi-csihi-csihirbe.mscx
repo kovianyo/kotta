@@ -1032,6 +1032,9 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
