@@ -1609,7 +1609,7 @@
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>13</root>
             <extension>1</extension>
             </Harmony>
           <Chord>
@@ -1634,6 +1634,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1819,6 +1823,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1831,10 +1839,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            <extension>1</extension>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1938,10 +1942,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>14</root>
-            <extension>1</extension>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1974,6 +1974,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -2067,7 +2071,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>13</root>
             <extension>1</extension>
             </Harmony>
           <Chord>
@@ -2093,6 +2097,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            <extension>1</extension>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
