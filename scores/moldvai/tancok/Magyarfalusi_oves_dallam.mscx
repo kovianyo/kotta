@@ -798,6 +798,7 @@
           <endTuplet/>
           <Harmony>
             <root>18</root>
+            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
