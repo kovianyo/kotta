@@ -347,7 +347,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>17</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -381,7 +381,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>17</root>
+            <root>19</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -506,6 +506,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -544,6 +548,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -942,6 +949,10 @@
       <Measure>
         <stretch>0.9</stretch>
         <voice>
+          <Harmony>
+            <root>21</root>
+            <name>m</name>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -987,6 +998,25 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <topGap>11.5</topGap>
+        <Text>
+          <style>Frame</style>
+          <text>Look at me, I'm going away,
+You can't stop me, I'm flying away,
+But I know I will be in your head,
+Everytime until you will go mad.
+
+I'm the voice in your head,
+Everyday I will be there,
+If you cannot stand in, I don't care,
+I'm the voice in your head,
+Everyday I will be there,
+'Cause I'm living,
+Living in your head!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
