@@ -1482,7 +1482,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/5698</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/5698</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -1522,6 +1522,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="21"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -4065,6 +4066,48 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Épp a Skodám vezettem, keresztül az Oraván,
+Siettem és gondoltam, gyorsabb lesz a Morawán.
+Van egy szörny, mi ott lakik, és a lápban mászkál,
+Úgy nevezik Józsikám, és cseheket rágcsál.
+
+Józsi, a lápi, a mocsáron át mászik.
+Józsi, a lápi, a falura pályázik.
+Józsi, a lápi, a fogát élesíti.
+Józsi, a lápi, zsákmányát széttépi.
+Hogy megvédd magad Józsitól, nem gondoltad volna,
+Kell hozzá egy repcsi, rajta néhány nagy bomba.
+
+Általmentem egy falun, útban Vizowicébe,
+A polgármester üdvözölt engem Slivovicével.
+&quot;Ki elém hozza Józsikát, halottan vagy élve,
+Megkapja a lányomat, s a TSZ felét érte&quot;.
+
+Józsi, a lápi, a mocsáron át mászik.
+Józsi, a lápi, a falura pályázik.
+Józsi, a lápi, a fogát élesíti.
+Józsi, a lápi, zsákmányát széttépi.
+Hogy megvédd magad Józsitól, nem gondoltad volna,
+Kell hozzá egy repcsi, rajta néhány nagy bomba.
+
+Aszontam' az öregnek, adjon nekem gépet,
+Elhozom a Józsikát, ahogyan azt kérte.
+A polgármester segített, reggel már repültem,
+A Józsit egy bombával meg jól seggbe küldtem.
+
+Józsi, a lápi, bekapott pár bombát.
+Józsi, a lápi, szedi már a lábát.
+Józsi, a lápi, nekiment egy kőnek.
+Józsi, a lápi, asszem' ennek lőttek.
+
+A Józsit a lápból, he-he-he, elkaptam,
+Aztán jó sok pénzért, a piacon eladtam.</text>
+          </Text>
+        </TBox>
       </Staff>
     <Staff id="2">
       <Measure>
