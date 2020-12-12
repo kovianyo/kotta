@@ -1844,6 +1844,15 @@
               <syllabic>end</syllabic>
               <text><font face="Times New Roman"></font>ten,</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
@@ -1852,6 +1861,13 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -1865,7 +1881,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>mind</text>
+              <syllabic>begin</syllabic>
+              <text><font face="Times New Roman"></font>meg</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1877,8 +1894,8 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>meg</text>
+              <syllabic>middle</syllabic>
+              <text><font face="Times New Roman"></font>szo</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1890,7 +1907,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>bú</text>
+              <text><font face="Times New Roman"></font>mo</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1902,7 +1919,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>sí</text>
+              <text><font face="Times New Roman"></font>rí</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1956,12 +1973,12 @@
           <text>Huszárank soroztak,
 Rossz bakacsnot adtak,
 Verje meg az Isten,
-Mind megbúsítottak!
+Megszomoroítottak!
 
 Ez sem szép, ez sem jó,
 S ez a sárga csikó,
-Melyen ... messze
-S ez idgen földre.
+Ki elmegyen messze
+Az idgen földre.
 
 Fel is van nyergelve,
 Fel is kantározva,
@@ -1970,12 +1987,12 @@ Mikor jövünk haza!
 
 Elvágtam kisujjam,
 Holtig foly a vérem,
-... galambom
+Bé köti galambom
 Tán még ma estére.
 
 Lova ágaskodik,
 Szája vérben habzik,
-... galambom
+Szép barna galambom
 Rólam gondolkodik.
 
 Feltettem magamnak,
