@@ -1522,6 +1522,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="21"/>
           <controller ctrl="93" value="30"/>
@@ -4066,48 +4067,6 @@
             </Rest>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <Text>
-          <style>Frame</style>
-          <text>Épp a Skodám vezettem, keresztül az Oraván,
-Siettem és gondoltam, gyorsabb lesz a Morawán.
-Van egy szörny, mi ott lakik, és a lápban mászkál,
-Úgy nevezik Józsikám, és cseheket rágcsál.
-
-Józsi, a lápi, a mocsáron át mászik.
-Józsi, a lápi, a falura pályázik.
-Józsi, a lápi, a fogát élesíti.
-Józsi, a lápi, zsákmányát széttépi.
-Hogy megvédd magad Józsitól, nem gondoltad volna,
-Kell hozzá egy repcsi, rajta néhány nagy bomba.
-
-Általmentem egy falun, útban Vizowicébe,
-A polgármester üdvözölt engem Slivovicével.
-&quot;Ki elém hozza Józsikát, halottan vagy élve,
-Megkapja a lányomat, s a TSZ felét érte&quot;.
-
-Józsi, a lápi, a mocsáron át mászik.
-Józsi, a lápi, a falura pályázik.
-Józsi, a lápi, a fogát élesíti.
-Józsi, a lápi, zsákmányát széttépi.
-Hogy megvédd magad Józsitól, nem gondoltad volna,
-Kell hozzá egy repcsi, rajta néhány nagy bomba.
-
-Aszontam' az öregnek, adjon nekem gépet,
-Elhozom a Józsikát, ahogyan azt kérte.
-A polgármester segített, reggel már repültem,
-A Józsit egy bombával meg jól seggbe küldtem.
-
-Józsi, a lápi, bekapott pár bombát.
-Józsi, a lápi, szedi már a lábát.
-Józsi, a lápi, nekiment egy kőnek.
-Józsi, a lápi, asszem' ennek lőttek.
-
-A Józsit a lápból, he-he-he, elkaptam,
-Aztán jó sok pénzért, a piacon eladtam.</text>
-          </Text>
-        </TBox>
       </Staff>
     <Staff id="2">
       <Measure>
