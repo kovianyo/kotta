@@ -905,6 +905,41 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Pásztorok keljünk fel, hamar induljunk el,
+Betlehem városába, rongyos istállócskába,
+Siessünk, ne késsünk,
+Hogy még ezen éjjel odaérhessünk,
+Mi Urunknak tiszteletet tehessünk!
+
+Angyalok hirdetik, Messiás születik,
+Itt van jele fényének, helye születésének,
+Pajtába', pólyába',
+Be vagyon takarva posztócskájába,
+Áldott gyermek szenved már kiskorába'
+
+Jézus a szent kisded, mily szükséget szenved,
+Nincsen meleg szobája, sem ékes palotája,
+Szükségben, hidegben
+Melegíti őt a barmok párája,
+Ó isteni szeretet nagy csodája!
+
+Jaj, szegény mint fázik, könnyeitől ázik,
+Mert nincs neki párnája, sem vetett nyoszolyája,
+Csak széna, csak szalma,
+Barmok szája melegítő párája,
+Ökör, szamár lehelete rája.
+
+Nosza hát jöjjetek, vélem siessetek,
+Vigyünk néki báránykát, egy kis írós vajjacskát,
+Tik monyát, túrócskát,
+Én pediglen egy csutora borocskát,
+Igy köszöntsük a született Jézuskát!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
