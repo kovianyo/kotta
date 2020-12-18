@@ -101,9 +101,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -113,7 +110,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-5.94344" y="-2.96144"/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 60</b></text>
             </Tempo>
           <Harmony>
             <root>17</root>
@@ -806,13 +803,19 @@
         <Text>
           <style>Frame</style>
           <text>A próféták írásának letelt ideje,
-Az Úr fényes csillagjának tündöklik jele,
-A szegény pásztorokhoz angyal vigasztalást hoz,
-Dicsőség a magasságban, így szól azokhoz.
+Az Úr fényes csillagjában tündöklik jele,
+A szegény pásztorokhoz angyal vígasztalást hoz
+Dicsőség a magasságban, így szól azokhoz:
 
-Gyertek, menjünk Betlehembe, hol az csillaga,
-Ott találjátok az Jézust szegény jászolba',
-Mivel szegények vagyunk, ...
+Jertek, menjünk Betlehembe, hol az csillag van,
+Ott találjátok a Jézust szegény jászolban.
+Mivel szegények vagytok, tiktek kíván Uratok,
+Hogy mivélünk angyalokkal udvaroljatok.
+
+Egy eldobott, rongyos posztó melegítője,
+Ezt érdemli a Világnak Üdvözítője!
+Szívrendítő sírása, de nincs vígasztalása,
+Így rendelte az atyának irgalmassága.
 </text>
           </Text>
         </TBox>
