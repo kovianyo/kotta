@@ -1870,6 +1870,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Zöld az erdő, zöld a petrezselyem,
+Benned, rózsám, kihűlt a szerelem.
+
+Nem csak kihűlt, meg es jegesedett,
+Szívemre bú s bánat ereszkedett.
+
+Falu végén van egy házikócska,
+Abban vala egy rengő bölcsőcske.
+
+Két lábával rengetgeti vala,
+A szájával fújdogálja vala.
+
+Aludjál el, Istennek Báránya,
+Szerelemből jöttél ez világra.
+
+Kinek varrod, rózsám, a gyolcsinget,
+Mikor én most katonának megyek.
+
+Ha megvágnak, jó lesz sebeimre,
+Ha meghalok, eltemetnek vele.
+
+Eltemetnek az erdei vadak,
+Megsiratnak az égi madarak.
+</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
