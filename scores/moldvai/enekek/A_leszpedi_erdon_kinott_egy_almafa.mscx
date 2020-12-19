@@ -1482,7 +1482,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">http://musescore.com/score/859991</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/859991</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -1914,12 +1914,13 @@
             </BarLine>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <bottomGap>0</bottomGap>
-        <Text>
-          <style>Frame</style>
-          <text>s A lészpedi erdőn
+      <VBox>
+        <height>10</height>
+        <HBox>
+          <width>47.7478</width>
+          <Text>
+            <style>Frame</style>
+            <text>s A lészpedi erdőn
 Felnőtt egy almafa,
 S az alatt megnyugszik
 Két huszárkatona.
@@ -1938,8 +1939,36 @@ Karján felnöveli,
 Szárnyára ereszti,
 Távolról kesergi,
 Hogy más szidja, s veri.</text>
-          </Text>
-        </TBox>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>46.6218</width>
+          <offset x="61.0879" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Menyecske, menyecske,
+Menyecske, menyecske,
+Megmondám az este,
+Megmondám az este,
+
+Ne menj a cserjésbe,
+Ne menj a cserjésben
+Mert megmar e kígyó
+Szerelem képibe!
+
+Szerelem, szerelem,
+Átkozott szerelem,
+Mért nem termettél volt
+Minden fa tetején?
+
+Minden fa tetején,
+Diónak levelén,
+Minden fa tetején,
+Diónak levelén.
+</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
