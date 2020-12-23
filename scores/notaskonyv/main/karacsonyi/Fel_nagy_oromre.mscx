@@ -2219,6 +2219,25 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fel nagy örömre, ma született,
+Aki után a föld epedett!
+Mária karján égi a lény:
+Isteni kisded szűznek ölén.
+Egyszerű pásztor, jöjj közelebb,
+Nézd a te édes Istenedet!
+
+Nem ragyogó fény közt nyugoszik,
+Bársonyos ágya nincs neki itt;
+Csak ez a szalma, koldusi hely,
+Rá meleget a marha lehel.
+Egyszerű pásztor, térdeden állj,
+Mert ez az égi s földi Király!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
