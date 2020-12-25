@@ -1534,9 +1534,6 @@
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.9</stretch>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -1549,7 +1546,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>1. Ó,</text>
+              <text><font size="10.7317"/><font face="Times New Roman"/>Ó,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2178,6 +2175,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ó, gyönyörűszép, titokzatos éj!
+Égszemű gyermek, csöpp rózsalevél.
+Kisdedként az édes Úr
+Jászolában megsimul
+Szent karácsony éjjel.
+
+Ó, fogyhatatlan, csodálatos éj!
+Hópehely ostya, csöpp búzakenyér.
+Benne, lásd, az édes Úr
+Téged szomjaz, rád borul,
+Egy világgal ér fel!
+</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

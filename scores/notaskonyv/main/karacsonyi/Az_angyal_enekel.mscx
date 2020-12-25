@@ -1533,9 +1533,6 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -1722,7 +1719,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>1. Az</text>
+              <text><font size="10.7317"/><font face="Times New Roman"/>Az</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1871,9 +1868,6 @@
         </Measure>
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
@@ -2323,9 +2317,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <root>15</root>
@@ -2636,6 +2627,27 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az angyal énekel, tekints az égre fel: 
+Napvilágos lett az éj, meghasadt az ég, 
+És a Második Személy, most földre lép. 
+Mézet ont az ég! Mézet ont az ég!
+
+Az angyal így dalol a fényes ég alól: 
+Istenünknek glória, A mennyekbe fenn!
+Véle mondja Mária, véle Betlehem. 
+Mondjunk glóriát! Mondjunk glóriát!
+
+Most angyal s pásztorok, ég és föld egybefog:
+Mind, mi él és mind, mi van, glóriára hív, 
+Áldja együtt boldogan minden tiszta szív, 
+Mondjunk glóriát! Mondjunk glóriát!
+</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

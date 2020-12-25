@@ -1996,6 +1996,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kis karácsony, nagy karácsony,
+Kisült-e már a kalácsom?
+Ha kisült már, ide véle,
+Hadd egyem meg melegébe!
+
+Jaj, de szép a karácsonyfa,
+Ragyog rajta a sok gyertya.
+Itt egy szép könyv, ott egy labda,
+Jaj, de szép a karácsonyfa!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

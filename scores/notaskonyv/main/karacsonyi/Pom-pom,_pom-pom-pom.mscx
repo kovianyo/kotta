@@ -1893,6 +1893,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Pom-pom, pom-pom-pom,
+Ki kopog az ablakon?
+Talán bizony Mikulás?
+Bújjunk el pajtás!
+
+Van zsákjában minden jó:
+Piros alma, mogyoró,
+Narancs, füge, datolya,
+Jó gyermek kapja.
+
+Nézd, hogy fél a rossz Feri,
+Talán bizony elveri?
+Hopp, előle felugrik,
+Ágy alá bújik.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
