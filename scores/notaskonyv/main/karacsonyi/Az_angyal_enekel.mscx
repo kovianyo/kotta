@@ -1524,10 +1524,9 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <bottomGap>8</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Az angyal énekel</text>
+          <text>Az angyal énekel</text>
           </Text>
         </VBox>
       <Measure>
@@ -1719,7 +1718,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font size="10.7317"/><font face="Times New Roman"/>Az</text>
+              <text><font size="10.7317"></font><font face="Times New Roman"></font>Az</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>

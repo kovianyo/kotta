@@ -1552,7 +1552,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>A kis Jézus megszületett</text>
+          <text>A kis Jézus megszületett</text>
           </Text>
         </VBox>
       <Measure>

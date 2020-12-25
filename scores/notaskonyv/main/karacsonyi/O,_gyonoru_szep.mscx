@@ -1524,10 +1524,9 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <bottomGap>8</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Ó, gyönörű szép</text>
+          <text>Ó, gyönörű szép</text>
           </Text>
         </VBox>
       <Measure>
@@ -1546,7 +1545,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"/><font face="Times New Roman"/>Ó,</text>
+              <text><font size="10.7317"></font><font face="Times New Roman"></font>Ó,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>

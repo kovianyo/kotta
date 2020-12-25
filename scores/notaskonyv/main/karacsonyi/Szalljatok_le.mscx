@@ -1539,10 +1539,9 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <bottomGap>8</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Szálljatok le</text>
+          <text>Szálljatok le</text>
           </Text>
         </VBox>
       <Measure>

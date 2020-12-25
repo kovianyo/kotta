@@ -1539,7 +1539,6 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
-        <bottomGap>8</bottomGap>
         <Text>
           <style>Title</style>
           <text>Pom-pom, pom-pom-pom</text>
