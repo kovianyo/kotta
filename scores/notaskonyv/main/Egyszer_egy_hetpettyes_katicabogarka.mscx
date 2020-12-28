@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+  <programVersion>3.5.2</programVersion>
+  <programRevision>465e7b6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -89,6 +89,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -110,7 +114,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.93316" y="-2.87404"/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70</b></text>
             </Tempo>
           <Harmony>
             <root>14</root>
