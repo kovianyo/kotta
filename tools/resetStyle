@@ -1,0 +1,4 @@
+# cmd("reset-style")
+# https://github.com/calculuswhiz/musescore-utils/blob/master/ValidCommands.txt
+
+find -type f -exec musescore-portable -p resetStyle.qml -o {} {} \;
