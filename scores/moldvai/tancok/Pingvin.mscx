@@ -352,7 +352,7 @@
         <bottomGap>8.19997</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Pingvin
+          <text>Pingvin
 </text>
           </Text>
         </VBox>

@@ -85,7 +85,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Én felkelék jó regvel hajnalba</text>
+          <text>Én felkelék jó regvel hajnalba</text>
           </Text>
         </VBox>
       <Measure>
@@ -103,7 +103,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>Én</text>
+              <text>Én</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -114,7 +114,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>fel</text>
+              <text>fel</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -126,7 +126,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>ke</text>
+              <text>ke</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -137,7 +137,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>lék</text>
+              <text>lék</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -174,7 +174,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>jó</text>
+              <text>jó</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -185,7 +185,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>reg</text>
+              <text>reg</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -196,7 +196,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>vel</text>
+              <text>vel</text>
               </Lyrics>
             <Note>
               <pitch>77</pitch>
@@ -208,7 +208,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>haj</text>
+              <text>haj</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -219,7 +219,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>nal</text>
+              <text>nal</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -230,7 +230,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ba,</text>
+              <text>ba,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -248,7 +248,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Meg</text>
+              <text>Meg</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -319,7 +319,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>min</text>
+              <text>min</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -341,7 +341,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>bű</text>
+              <text>bű</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>

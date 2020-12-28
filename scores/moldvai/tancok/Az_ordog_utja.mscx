@@ -352,7 +352,7 @@
         <bottomGap>8.19997</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Az ördög útja</text>
+          <text>Az ördög útja</text>
           </Text>
         </VBox>
       <Measure>
