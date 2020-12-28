@@ -4205,7 +4205,7 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4258,7 +4258,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4306,7 +4306,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4391,7 +4391,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4429,7 +4429,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4482,7 +4482,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4535,7 +4535,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <voice>
@@ -4610,7 +4610,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <stretch>0.8</stretch>
         <LayoutBreak>
@@ -4644,7 +4644,7 @@
             </BarLine>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <StaffText>
@@ -4689,7 +4689,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Beam>
@@ -4743,7 +4743,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Chord>
@@ -4777,7 +4777,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Chord>
@@ -4819,7 +4819,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Chord>
@@ -4860,7 +4860,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Beam>
@@ -4941,7 +4941,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Chord>
@@ -4971,7 +4971,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="7/8">
+      <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Chord>
