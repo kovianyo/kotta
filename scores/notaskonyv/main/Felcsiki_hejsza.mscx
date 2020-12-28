@@ -172,7 +172,7 @@
             <tempo>1.33333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 80</b></text>
+            <text><b></b> = 80</b></text>
             </Tempo>
           <Rest>
             <durationType>half</durationType>

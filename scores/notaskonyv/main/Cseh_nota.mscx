@@ -87,7 +87,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Cseh nóta (Herz Schmerz Polka)</text>
+          <text>Cseh nóta (Herz Schmerz Polka)</text>
           </Text>
         </VBox>
       <Measure>

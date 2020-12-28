@@ -88,7 +88,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Ich hab ne Tante in Marokko</text>
+          <text>Ich hab ne Tante in Marokko</text>
           </Text>
         </VBox>
       <Measure>
@@ -106,7 +106,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>Ich</text>
+              <text>Ich</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -116,7 +116,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hab</text>
+              <text>hab</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -126,7 +126,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>'ne</text>
+              <text>'ne</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -147,7 +147,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Tan</text>
+              <text>Tan</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -158,7 +158,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -168,7 +168,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -179,7 +179,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Ma</text>
+              <text>Ma</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -192,7 +192,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -203,7 +203,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ko,</text>
+              <text>ko,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -213,7 +213,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>und</text>
+              <text>und</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -223,7 +223,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>sie</text>
+              <text>sie</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -237,7 +237,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>kommt,</text>
+              <text>kommt,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -248,7 +248,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>hip</text>
+              <text>hip</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -260,7 +260,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>hop,</text>
+              <text>hop,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -273,7 +273,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>Ich</text>
+              <text>Ich</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -283,7 +283,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hab</text>
+              <text>hab</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -293,7 +293,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>'ne</text>
+              <text>'ne</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -310,7 +310,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Tan</text>
+              <text>Tan</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -321,7 +321,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -331,7 +331,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -342,7 +342,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Ma</text>
+              <text>Ma</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -355,7 +355,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -366,7 +366,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ko,</text>
+              <text>ko,</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -376,7 +376,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>und</text>
+              <text>und</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -386,7 +386,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>sie</text>
+              <text>sie</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -407,7 +407,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>kommt,</text>
+              <text>kommt,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -418,7 +418,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>hip</text>
+              <text>hip</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -430,7 +430,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>hop,</text>
+              <text>hop,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -443,7 +443,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>Ich</text>
+              <text>Ich</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -453,7 +453,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hab</text>
+              <text>hab</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -463,7 +463,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>'ne</text>
+              <text>'ne</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -484,7 +484,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Tan</text>
+              <text>Tan</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -495,7 +495,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -505,7 +505,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -516,7 +516,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Ma</text>
+              <text>Ma</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -529,7 +529,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -540,7 +540,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ko,</text>
+              <text>ko,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -550,7 +550,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hab</text>
+              <text>hab</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -560,7 +560,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>'ne</text>
+              <text>'ne</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -580,7 +580,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Tan</text>
+              <text>Tan</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -595,7 +595,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -605,7 +605,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -616,7 +616,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Ma</text>
+              <text>Ma</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -629,7 +629,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -640,7 +640,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ko,</text>
+              <text>ko,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -650,7 +650,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hab</text>
+              <text>hab</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -660,7 +660,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>'ne</text>
+              <text>'ne</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -681,7 +681,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Tan</text>
+              <text>Tan</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -692,7 +692,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -702,7 +702,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -713,7 +713,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Ma</text>
+              <text>Ma</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -726,7 +726,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -737,7 +737,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ko,</text>
+              <text>ko,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -747,7 +747,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>und</text>
+              <text>und</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -757,7 +757,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>sie</text>
+              <text>sie</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -778,7 +778,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>kommt,</text>
+              <text>kommt,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -789,7 +789,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>hip</text>
+              <text>hip</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -801,7 +801,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>hop.</text>
+              <text>hop.</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -815,7 +815,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Sing</text>
+              <text>Sing</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -826,7 +826,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ing</text>
+              <text>ing</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -844,7 +844,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -854,7 +854,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -867,7 +867,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -878,7 +878,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -889,7 +889,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -900,7 +900,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -914,7 +914,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>yeah,</text>
+              <text>yeah,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -930,7 +930,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Sing</text>
+              <text>Sing</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -941,7 +941,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ing</text>
+              <text>ing</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -955,7 +955,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -965,7 +965,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -978,7 +978,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -989,7 +989,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -1000,7 +1000,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -1011,7 +1011,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -1032,7 +1032,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>yeah,</text>
+              <text>yeah,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1048,7 +1048,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Sing</text>
+              <text>Sing</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -1059,7 +1059,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ing</text>
+              <text>ing</text>
               </Lyrics>
             <Note>
               <pitch>79</pitch>
@@ -1077,7 +1077,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -1087,7 +1087,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -1100,7 +1100,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1111,7 +1111,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1122,7 +1122,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1133,7 +1133,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1151,7 +1151,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1161,7 +1161,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1174,7 +1174,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1185,7 +1185,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1196,7 +1196,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -1207,7 +1207,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1225,7 +1225,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1235,7 +1235,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1248,7 +1248,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>76</pitch>
@@ -1259,7 +1259,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1270,7 +1270,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>jip</text>
+              <text>jip</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1281,7 +1281,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>pie,</text>
+              <text>pie,</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -1299,7 +1299,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>yeah!</text>
+              <text>yeah!</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>

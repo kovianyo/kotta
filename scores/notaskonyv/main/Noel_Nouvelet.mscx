@@ -367,7 +367,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Noël Nouvelet</text>
+          <text>Noël Nouvelet</text>
           </Text>
         </VBox>
       <Measure>

@@ -112,13 +112,13 @@
             </TimeSig>
           <Symbol>
             <name>accdnRH3RanksTremoloUpper8ve</name>
-            <font>Bravura</font>
+            
             <offset x="-7.41929" y="-2.84994"/>
             </Symbol>
           <Tempo>
             <tempo>3.2</tempo>
             <followText>1</followText>
-            <text>French Waltz (<font size="23"></font><sym>metNoteQuarterUp</sym><font size="12"></font> = 192)</text>
+            <text>French Waltz ( = 192)</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

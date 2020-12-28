@@ -78,16 +78,16 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>He's a Pirate</text>
+          <text>He's a Pirate</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text><font face="Times New Roman"></font>from the motion picture &quot;Pirates of the Caribbean - The Curse of the Black Pearl&quot;</text>
+          <text>from the motion picture &quot;Pirates of the Caribbean - The Curse of the Black Pearl&quot;</text>
           </Text>
         <Text>
           <style>Composer</style>
           <offset x="-0.740718" y="6.75658"/>
-          <text><font face="Times New Roman"></font>Written by Klaus Badelt
+          <text>Written by Klaus Badelt
 Arranged by Joseph M. Rozell</text>
           </Text>
         </VBox>

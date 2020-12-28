@@ -367,7 +367,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Ohio</text>
+          <text>Ohio</text>
           </Text>
         </VBox>
       <Measure>
@@ -384,7 +384,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>Meg</text>
+              <text>Meg</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -395,7 +395,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>mond</text>
+              <text>mond</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -408,7 +408,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>tam</text>
+              <text>tam</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -418,7 +418,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>én,</text>
+              <text>én,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -471,7 +471,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>e</text>
+              <text>e</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -483,7 +483,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>nyém</text>
+              <text>nyém</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -496,7 +496,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -507,7 +507,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>szel,</text>
+              <text>szel,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -559,7 +559,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>és</text>
+              <text>és</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -570,7 +570,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>töb</text>
+              <text>töb</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -583,7 +583,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>bé</text>
+              <text>bé</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -593,7 +593,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>már</text>
+              <text>már</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -648,7 +648,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>sen</text>
+              <text>sen</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -659,7 +659,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ki</text>
+              <text>ki</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -669,7 +669,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>nem</text>
+              <text>nem</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -682,7 +682,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>ö</text>
+              <text>ö</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -693,7 +693,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>lel!</text>
+              <text>lel!</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -748,7 +748,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>Vár</text>
+              <text>Vár</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -758,7 +758,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>ránk</text>
+              <text>ránk</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -770,7 +770,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -780,7 +780,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>part,</text>
+              <text>part,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -834,7 +834,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hív</text>
+              <text>hív</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -844,7 +844,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -854,7 +854,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>nagy</text>
+              <text>nagy</text>
               </Lyrics>
             <Note>
               <pitch>65</pitch>
@@ -867,7 +867,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>fo</text>
+              <text>fo</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -878,7 +878,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>lyó,</text>
+              <text>lyó,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -931,7 +931,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>csob</text>
+              <text>csob</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -942,7 +942,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>ban</text>
+              <text>ban</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -952,7 +952,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -971,7 +971,7 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>víz,</text>
+              <text>víz,</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -995,7 +995,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>hív</text>
+              <text>hív</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -1005,7 +1005,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Times New Roman"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -1016,7 +1016,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Times New Roman"></font>O</text>
+              <text>O</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -1027,7 +1027,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Times New Roman"></font>hi</text>
+              <text>hi</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -1047,7 +1047,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Times New Roman"></font>o!</text>
+              <text>o!</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>

@@ -366,7 +366,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Honvéd banda</text>
+          <text>Honvéd banda</text>
           </Text>
         </VBox>
       <Measure>

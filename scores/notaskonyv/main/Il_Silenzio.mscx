@@ -73,11 +73,11 @@
         <bottomGap>8.19997</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Il Silenzio</text>
+          <text>Il Silenzio</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text><font face="Times New Roman"></font>Guglielmo Brezza, Nini Rosso</text>
+          <text>Guglielmo Brezza, Nini Rosso</text>
           </Text>
         </VBox>
       <Measure>

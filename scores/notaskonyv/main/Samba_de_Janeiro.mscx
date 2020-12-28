@@ -352,11 +352,11 @@
         <bottomGap>6.74238</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Samba de Janeiro</text>
+          <text>Samba de Janeiro</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text><font face="Times New Roman"></font>Bellini</text>
+          <text>Bellini</text>
           </Text>
         </VBox>
       <Measure>

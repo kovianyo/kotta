@@ -114,7 +114,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.93316" y="-2.87404"/>
-            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 70</b></text>
+            <text><b></b> = 70</b></text>
             </Tempo>
           <Harmony>
             <root>14</root>

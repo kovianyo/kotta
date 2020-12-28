@@ -379,7 +379,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Kell</text>
+              <text>Kell</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -425,7 +425,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>még</text>
+              <text>még</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -439,7 +439,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>egy</text>
+              <text>egy</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -485,7 +485,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>szó</text>
+              <text>szó</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -500,7 +500,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>mi</text>
+              <text>mi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -513,7 +513,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>e</text>
+              <text>e</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -535,7 +535,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lőtt</text>
+              <text>lőtt</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -547,7 +547,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>men</text>
+              <text>men</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -571,7 +571,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nél,</text>
+              <text>nél,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -588,7 +588,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Kell</text>
+              <text>Kell</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -633,7 +633,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>még</text>
+              <text>még</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -650,7 +650,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>egy</text>
+              <text>egy</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -663,7 +663,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ö</text>
+              <text>ö</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -676,7 +676,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -698,7 +698,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lés,</text>
+              <text>lés,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -713,7 +713,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -726,7 +726,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>mi</text>
+              <text>mi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -748,7 +748,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vé</text>
+              <text>vé</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -760,7 +760,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gig</text>
+              <text>gig</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -775,7 +775,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>el</text>
+              <text>el</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -813,7 +813,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>kí</text>
+              <text>kí</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -860,7 +860,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>sér,</text>
+              <text>sér,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -874,7 +874,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Az</text>
+              <text>Az</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -896,7 +896,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ú</text>
+              <text>ú</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -909,7 +909,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ton</text>
+              <text>ton</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -920,7 +920,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>majd</text>
+              <text>majd</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -945,7 +945,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>né</text>
+              <text>né</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -958,7 +958,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -985,7 +985,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gon</text>
+              <text>gon</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -997,7 +997,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>dolj</text>
+              <text>dolj</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1012,7 +1012,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>re</text>
+              <text>re</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1025,7 +1025,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ám,</text>
+              <text>ám,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1075,7 +1075,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Ez</text>
+              <text>Ez</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1087,7 +1087,7 @@
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1108,7 +1108,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>föld</text>
+              <text>föld</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1122,7 +1122,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1135,7 +1135,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ti</text>
+              <text>ti</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1157,7 +1157,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>éd,</text>
+              <text>éd,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1171,7 +1171,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1192,7 +1192,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>el</text>
+              <text>el</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1208,7 +1208,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>mész,</text>
+              <text>mész,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1223,7 +1223,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>visz</text>
+              <text>visz</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1236,7 +1236,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>sza</text>
+              <text>sza</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1250,7 +1250,7 @@
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <Marker>
           <style>Repeat Text Left</style>
-          <text><font size="19.5123"></font><font face="MScore"></font></text>
+          <text></text>
           <label>segno</label>
           </Marker>
         <LayoutBreak>
@@ -1265,7 +1265,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vár.</text>
+              <text>vár.</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1279,11 +1279,11 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Nézz</text>
+              <text>Nézz</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Úgy</text>
+              <text>Úgy</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1329,11 +1329,11 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rám,</text>
+              <text>rám,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>kell,hogy</text>
+              <text>kell,hogy</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1347,11 +1347,11 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>és</text>
+              <text>és</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1373,7 +1373,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>is</text>
+              <text>is</text>
               </Lyrics>
             <Spanner type="Slur">
               <prev>
@@ -1400,11 +1400,11 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lásd:</text>
+              <text>lásd:</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>értsd:</text>
+              <text>értsd:</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -1425,11 +1425,11 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>csil</text>
+              <text>csil</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nem</text>
+              <text>nem</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1441,12 +1441,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>la</text>
+              <text>la</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>él</text>
+              <text>él</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1458,12 +1458,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gok</text>
+              <text>gok</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>tél</text>
+              <text>tél</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1475,12 +1475,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ra</text>
+              <text>ra</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hi</text>
+              <text>hi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1501,12 +1501,12 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lépsz,</text>
+              <text>lépsz,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ába,</text>
+              <text>ába,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1520,11 +1520,11 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Nézz</text>
+              <text>Nézz</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Ez</text>
+              <text>Ez</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1546,7 +1546,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Spanner type="Slur">
               <prev>
@@ -1574,11 +1574,11 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rám,</text>
+              <text>rám,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hely,</text>
+              <text>hely,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1593,12 +1593,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>to</text>
+              <text>to</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1611,12 +1611,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>va</text>
+              <text>va</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hol</text>
+              <text>hol</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1640,11 +1640,11 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>tűnt</text>
+              <text>tűnt</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>élsz,</text>
+              <text>élsz,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1658,12 +1658,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vi</text>
+              <text>vi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1686,12 +1686,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ré</text>
+              <text>ré</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lág</text>
+              <text>lág</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1703,12 +1703,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gi</text>
+              <text>gi</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nak</text>
+              <text>nak</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1720,12 +1720,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>szen</text>
+              <text>szen</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vi</text>
+              <text>vi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1740,12 +1740,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ve</text>
+              <text>ve</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lá</text>
+              <text>lá</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1786,12 +1786,12 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>dés,</text>
+              <text>dés,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ga,</text>
+              <text>ga,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1813,11 +1813,11 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Hol</text>
+              <text>Hol</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Az</text>
+              <text>Az</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1829,12 +1829,12 @@
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>é</text>
+              <text>é</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1856,12 +1856,12 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>fák</text>
+              <text>fák</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gig</text>
+              <text>gig</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1872,12 +1872,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>é</text>
+              <text>é</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1889,12 +1889,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>é</text>
+              <text>é</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rő</text>
+              <text>rő</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1906,12 +1906,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gig</text>
+              <text>gig</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>fá</text>
+              <text>fá</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1936,12 +1936,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ér</text>
+              <text>ér</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nak,</text>
+              <text>nak,</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1978,11 +1978,11 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nek,</text>
+              <text>nek,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1996,11 +1996,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ott</text>
+              <text>ott</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nem</text>
+              <text>nem</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2025,11 +2025,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>meg</text>
+              <text>meg</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nő</text>
+              <text>nő</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2042,12 +2042,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>é</text>
+              <text>é</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>új</text>
+              <text>új</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2059,12 +2059,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rint</text>
+              <text>rint</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ra</text>
+              <text>ra</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2078,12 +2078,12 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>á</text>
+              <text>á</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2095,7 +2095,7 @@
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>fény.</text>
+              <text>fény.</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2128,7 +2128,7 @@
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ga,</text>
+              <text>ga,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2151,11 +2151,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Tu</text>
+              <text>Tu</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Úgy</text>
+              <text>Úgy</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2168,11 +2168,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>dod</text>
+              <text>dod</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>élj,</text>
+              <text>élj,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2193,11 +2193,11 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>jól,</text>
+              <text>jól,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hogy</text>
+              <text>hogy</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2212,11 +2212,11 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ho</text>
+              <text>ho</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>te</text>
+              <text>te</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2229,12 +2229,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>va</text>
+              <text>va</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2255,12 +2255,12 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>mész,</text>
+              <text>mész,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gyél</text>
+              <text>gyél</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2274,12 +2274,12 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>de</text>
+              <text>de</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vi</text>
+              <text>vi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2300,12 +2300,12 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vé</text>
+              <text>vé</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rág</text>
+              <text>rág</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2321,12 +2321,12 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gül</text>
+              <text>gül</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nak</text>
+              <text>nak</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2341,12 +2341,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vi</text>
+              <text>vi</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2359,12 +2359,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>za</text>
+              <text>za</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rá</text>
+              <text>rá</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2384,12 +2384,12 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>térsz.</text>
+              <text>térsz.</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ga.</text>
+              <text>ga.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -2411,7 +2411,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Szállj,</text>
+              <text>Szállj,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2422,7 +2422,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>szállj</text>
+              <text>szállj</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2443,7 +2443,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>só</text>
+              <text>só</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2455,7 +2455,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lyom</text>
+              <text>lyom</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2467,7 +2467,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>szár</text>
+              <text>szár</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2479,7 +2479,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nyán</text>
+              <text>nyán</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2500,7 +2500,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>há</text>
+              <text>há</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2512,7 +2512,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>om</text>
+              <text>om</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2524,7 +2524,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>he</text>
+              <text>he</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2537,7 +2537,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gyen</text>
+              <text>gyen</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2560,7 +2560,7 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>túl,</text>
+              <text>túl,</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -2579,7 +2579,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Szállj,</text>
+              <text>Szállj,</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2590,7 +2590,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>szállj,</text>
+              <text>szállj,</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2609,7 +2609,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ott</text>
+              <text>ott</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2633,7 +2633,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vá</text>
+              <text>vá</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2654,7 +2654,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rok</text>
+              <text>rok</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2665,7 +2665,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rád,</text>
+              <text>rád,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2680,7 +2680,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2693,7 +2693,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hol</text>
+              <text>hol</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2715,7 +2715,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vé</text>
+              <text>vé</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2727,7 +2727,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>get</text>
+              <text>get</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2738,7 +2738,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ér</text>
+              <text>ér</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2749,7 +2749,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2769,7 +2769,7 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>út.</text>
+              <text>út.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -2791,7 +2791,7 @@
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <Jump>
           <style>Repeat Text Right</style>
-          <text><font size="11.7074"></font><font face="Times New Roman"></font>D.S. al Fine</text>
+          <text>D.S. al Fine</text>
           <jumpTo>segno</jumpTo>
           <playUntil>fine</playUntil>
           <continueAt></continueAt>
@@ -2819,7 +2819,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Nézz</text>
+              <text>Nézz</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -2865,7 +2865,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rám,</text>
+              <text>rám,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2879,7 +2879,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ne</text>
+              <text>ne</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2892,7 +2892,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>í</text>
+              <text>í</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2914,7 +2914,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gérj,</text>
+              <text>gérj,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2928,7 +2928,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Nézz</text>
+              <text>Nézz</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -2974,7 +2974,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rám,</text>
+              <text>rám,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2989,7 +2989,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>so</text>
+              <text>so</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3002,7 +3002,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>se</text>
+              <text>se</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3022,7 +3022,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>féjl,</text>
+              <text>féjl,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3039,7 +3039,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3051,7 +3051,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nincs</text>
+              <text>nincs</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -3097,7 +3097,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hely,</text>
+              <text>hely,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3112,7 +3112,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3125,7 +3125,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hol</text>
+              <text>hol</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3148,7 +3148,7 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>élj,</text>
+              <text>élj,</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -3168,7 +3168,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>in</text>
+              <text>in</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3180,7 +3180,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>dulj</text>
+              <text>dulj</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3199,7 +3199,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ha</text>
+              <text>ha</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3212,7 +3212,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>za</text>
+              <text>za</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3228,7 +3228,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>fe</text>
+              <text>fe</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3241,7 +3241,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>lé!</text>
+              <text>lé!</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>

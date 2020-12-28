@@ -78,15 +78,15 @@
         <bottomGap>7.09342</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Comptine D' un Autre Ete</text>
+          <text>Comptine D' un Autre Ete</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text><font face="Times New Roman"></font>From the movie Amelie</text>
+          <text>From the movie Amelie</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text><font face="Times New Roman"></font>Yann Tiersen</text>
+          <text>Yann Tiersen</text>
           </Text>
         </VBox>
       <Measure>
@@ -2923,7 +2923,7 @@
           <Tempo>
             <tempo>1</tempo>
             <offset x="0" y="-6.19922"/>
-            <text><font face="Times New Roman"></font><b>Ritardando</b></text>
+            <text><b>Ritardando</b></text>
             </Tempo>
           <Beam>
             </Beam>

@@ -367,7 +367,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Times New Roman"></font>Derrick Theme</text>
+          <text>Derrick Theme</text>
           </Text>
         </VBox>
       <Measure>

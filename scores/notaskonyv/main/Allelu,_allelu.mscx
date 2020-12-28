@@ -356,7 +356,7 @@
         <bottomGap>8.0005</bottomGap>
         <Text>
           <style>Title</style>
-          <text><font face="Calibri"></font>Allelu, allelu</text>
+          <text>Allelu, allelu</text>
           </Text>
         </VBox>
       <Measure>
@@ -378,7 +378,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>59</pitch>
@@ -389,7 +389,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -409,7 +409,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>lu,</text>
+              <text>lu,</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -422,7 +422,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -433,7 +433,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -444,7 +444,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>lu,</text>
+              <text>lu,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -457,7 +457,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -468,7 +468,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -487,7 +487,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>lu,</text>
+              <text>lu,</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -500,7 +500,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -511,7 +511,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -522,7 +522,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>lu</text>
+              <text>lu</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -533,7 +533,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -552,7 +552,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>ál</text>
+              <text>ál</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -564,7 +564,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>dott</text>
+              <text>dott</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -574,7 +574,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -611,7 +611,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr!</text>
+              <text>Úr!</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -624,7 +624,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>59</pitch>
@@ -635,7 +635,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -680,7 +680,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr!</text>
+              <text>Úr!</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -709,7 +709,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Ál</text>
+              <text>Ál</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -721,7 +721,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>dott</text>
+              <text>dott</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -731,7 +731,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -749,7 +749,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr,</text>
+              <text>Úr,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -762,7 +762,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>al</text>
+              <text>al</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -773,7 +773,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -784,7 +784,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>lu</text>
+              <text>lu</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -795,7 +795,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -810,7 +810,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Ál</text>
+              <text>Ál</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -822,7 +822,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>dott</text>
+              <text>dott</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -832,7 +832,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -853,7 +853,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr,</text>
+              <text>Úr,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -866,7 +866,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>al</text>
+              <text>al</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -877,7 +877,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -888,7 +888,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>lu</text>
+              <text>lu</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -899,7 +899,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -914,7 +914,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Ál</text>
+              <text>Ál</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -926,7 +926,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>dott</text>
+              <text>dott</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -936,7 +936,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>az</text>
+              <text>az</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -954,7 +954,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr,</text>
+              <text>Úr,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -967,7 +967,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Al</text>
+              <text>Al</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -978,7 +978,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>le</text>
+              <text>le</text>
               </Lyrics>
             <Note>
               <pitch>71</pitch>
@@ -989,7 +989,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <text><font face="Liberation Serif"></font>lu</text>
+              <text>lu</text>
               </Lyrics>
             <Note>
               <pitch>72</pitch>
@@ -1000,7 +1000,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>ja,</text>
+              <text>ja,</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -1015,7 +1015,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text><font face="Liberation Serif"></font>Ál</text>
+              <text>Ál</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -1026,7 +1026,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text><font face="Liberation Serif"></font>dott</text>
+              <text>dott</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -1055,7 +1055,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text><font face="Liberation Serif"></font>Úr!</text>
+              <text>Úr!</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
