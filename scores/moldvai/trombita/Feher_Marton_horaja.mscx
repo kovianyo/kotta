@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.2.3</programVersion>
-  <programRevision>d2d863f</programRevision>
+  <programVersion>3.5.2</programVersion>
+  <programRevision>465e7b6</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -113,7 +113,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-5.99545" y="-2.65011"/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 180</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 180</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
