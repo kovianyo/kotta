@@ -159,6 +159,13 @@
           <Harmony>
             <root>14</root>
             </Harmony>
+          <Tempo>
+            <tempo>1.33333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-8.03996" y="-2.9768"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 80</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
