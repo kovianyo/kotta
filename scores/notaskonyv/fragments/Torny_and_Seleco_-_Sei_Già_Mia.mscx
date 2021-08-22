@@ -238,6 +238,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <Spanner type="Tie">
                 <prev>
                   <location>
