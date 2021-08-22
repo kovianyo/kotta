@@ -1,15 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.0</programVersion>
+  <programRevision>1977cb3</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
+      <stemWidth>0.11</stemWidth>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
+      <fingeringFontFace>Edwin</fingeringFontFace>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
+      <tempoFontFace>Edwin</tempoFontFace>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
+      <staffFontFace>Edwin</staffFontFace>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <ChordList>
         <font id="0" family="default">
           <mag>1</mag>
@@ -82,7 +156,221 @@
           <sym name="696" value="6"/>
           <sym name="699" value="9"/>
           </font>
+        <font id="4" family="default">
+          <mag>1</mag>
+          </font>
+        <font id="5" family="default">
+          <mag>1</mag>
+          </font>
+        <font id="6" family="default">
+          <mag>1</mag>
+          </font>
+        <font id="7" family="default">
+          <mag>0.75</mag>
+          </font>
         <autoAdjust mag="0.8" adjust="-4"/>
+        <token>
+          <name>t</name>
+          <name>^</name>
+          <render>triangle</render>
+          </token>
+        <token>
+          <name>o</name>
+          <render>circle</render>
+          </token>
+        <token>
+          <name>0</name>
+          <render>oslash</render>
+          </token>
+        <token>
+          <name>69</name>
+          <render>:push m:0:-6 696 :pop m:0:2 699 m:0:-2</render>
+          </token>
+        <token class="extension">
+          <name>6,9</name>
+          <render>e6 e, e9</render>
+          </token>
+        <token class="extension">
+          <name>6/9</name>
+          <render>e6 e/ e9</render>
+          </token>
+        <token class="extension">
+          <name>0</name>
+          <render>e0</render>
+          </token>
+        <token class="extension">
+          <name>1</name>
+          <render>e1</render>
+          </token>
+        <token class="extension">
+          <name>2</name>
+          <render>e2</render>
+          </token>
+        <token class="extension">
+          <name>3</name>
+          <render>e3</render>
+          </token>
+        <token class="extension">
+          <name>4</name>
+          <render>e4</render>
+          </token>
+        <token class="extension">
+          <name>5</name>
+          <render>e5</render>
+          </token>
+        <token class="extension">
+          <name>6</name>
+          <render>e6</render>
+          </token>
+        <token class="extension">
+          <name>7</name>
+          <render>e7</render>
+          </token>
+        <token class="extension">
+          <name>8</name>
+          <render>e8</render>
+          </token>
+        <token class="extension">
+          <name>9</name>
+          <render>e9</render>
+          </token>
+        <token class="extension">
+          <name>10</name>
+          <render>e10</render>
+          </token>
+        <token class="extension">
+          <name>11</name>
+          <render>e11</render>
+          </token>
+        <token class="extension">
+          <name>12</name>
+          <render>e12</render>
+          </token>
+        <token class="extension">
+          <name>13</name>
+          <render>e13</render>
+          </token>
+        <token class="extension">
+          <name>(</name>
+          <render>e(</render>
+          </token>
+        <token class="extension">
+          <name>)</name>
+          <render>e)</render>
+          </token>
+        <token class="extension">
+          <name>,</name>
+          <render>e,</render>
+          </token>
+        <token class="extension">
+          <name>/</name>
+          <render>e/</render>
+          </token>
+        <token class="modifier">
+          <name>0</name>
+          <render>s0</render>
+          </token>
+        <token class="modifier">
+          <name>1</name>
+          <render>s1</render>
+          </token>
+        <token class="modifier">
+          <name>2</name>
+          <render>s2</render>
+          </token>
+        <token class="modifier">
+          <name>3</name>
+          <render>s3</render>
+          </token>
+        <token class="modifier">
+          <name>4</name>
+          <render>s4</render>
+          </token>
+        <token class="modifier">
+          <name>5</name>
+          <render>s5</render>
+          </token>
+        <token class="modifier">
+          <name>6</name>
+          <render>s6</render>
+          </token>
+        <token class="modifier">
+          <name>7</name>
+          <render>s7</render>
+          </token>
+        <token class="modifier">
+          <name>8</name>
+          <render>s8</render>
+          </token>
+        <token class="modifier">
+          <name>9</name>
+          <render>s9</render>
+          </token>
+        <token class="modifier">
+          <name>10</name>
+          <render>s10</render>
+          </token>
+        <token class="modifier">
+          <name>11</name>
+          <render>s11</render>
+          </token>
+        <token class="modifier">
+          <name>12</name>
+          <render>s12</render>
+          </token>
+        <token class="modifier">
+          <name>13</name>
+          <render>s13</render>
+          </token>
+        <token class="modifier">
+          <name>(</name>
+          <render>s(</render>
+          </token>
+        <token class="modifier">
+          <name>)</name>
+          <render>s)</render>
+          </token>
+        <token class="modifier">
+          <name>,</name>
+          <render>s,</render>
+          </token>
+        <token class="modifier">
+          <name>/</name>
+          <render>s/</render>
+          </token>
+        <token class="modifier">
+          <name>M</name>
+          <render>sM</render>
+          </token>
+        <token class="modifier">
+          <name>Ma</name>
+          <render>sMa</render>
+          </token>
+        <token class="modifier">
+          <name>Maj</name>
+          <render>sMaj</render>
+          </token>
+        <token class="modifier">
+          <name>ma</name>
+          <render>sma</render>
+          </token>
+        <token class="modifier">
+          <name>maj</name>
+          <render>maj</render>
+          </token>
+        <token class="modifier">
+          <name>b</name>
+          <render>sb</render>
+          </token>
+        <token class="modifier">
+          <name>#</name>
+          <render>s#</render>
+          </token>
+        <token class="modifier">
+          <name>t</name>
+          <name>^</name>
+          <render>striangle</render>
+          </token>
         <token>
           <name>t</name>
           <name>^</name>
@@ -302,6 +590,7 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Az ördög útja (Dumul dracului)</metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/score/4847945</metaTag>
@@ -314,8 +603,9 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -350,6 +640,7 @@
       <VBox>
         <height>6.78836</height>
         <bottomGap>8.19997</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Az ördög útja</text>
@@ -909,6 +1200,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
