@@ -166,9 +166,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -257,6 +254,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -307,6 +307,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -412,6 +415,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -435,9 +441,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -684,7 +687,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>13</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -734,8 +737,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
-            <name>5</name>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -764,9 +766,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>

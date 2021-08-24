@@ -858,6 +858,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -919,9 +922,6 @@
       <Measure>
         <endRepeat>2</endRepeat>
         <voice>
-          <Harmony>
-            <root>17</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
