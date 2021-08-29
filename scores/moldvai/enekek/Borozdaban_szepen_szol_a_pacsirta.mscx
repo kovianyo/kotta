@@ -165,13 +165,12 @@
           </Text>
         </VBox>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <KeySig>
             <accidental>0</accidental>
             </KeySig>
           <TimeSig>
-            <sigN>3</sigN>
+            <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
@@ -211,6 +210,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -223,11 +226,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -251,6 +249,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -297,7 +299,6 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -325,12 +326,22 @@
             <root>13</root>
             </Harmony>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
               <text>ta,</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -338,19 +349,31 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Harmony>
             <root>18</root>
@@ -389,6 +412,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
@@ -430,11 +457,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <voice>
           <Harmony>
             <root>18</root>
             <name>3</name>
@@ -462,6 +484,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -510,7 +536,6 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.9</stretch>
         <voice>
           <Harmony>
             <root>17</root>
@@ -540,6 +565,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -552,17 +584,8 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>0.9</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -606,6 +629,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -640,10 +667,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -665,6 +688,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -714,6 +741,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -725,6 +756,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -750,9 +784,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -762,7 +793,7 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -803,6 +834,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -837,10 +872,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Harmony>
             <root>17</root>
             <name>5</name>
@@ -868,6 +899,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -943,6 +978,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -954,13 +993,8 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>

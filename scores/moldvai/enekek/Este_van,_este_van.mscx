@@ -166,6 +166,9 @@
         </VBox>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -737,7 +740,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>16</root>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -766,6 +769,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
