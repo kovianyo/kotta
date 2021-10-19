@@ -167,7 +167,7 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>1</accidental>
+            <accidental>0</accidental>
             </KeySig>
           <TimeSig>
             <sigN>2</sigN>
@@ -292,6 +292,9 @@
                 </prev>
               </Spanner>
             <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -318,6 +321,9 @@
               <text>csir</text>
               </Lyrics>
             <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -378,6 +384,9 @@
         </Measure>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>1</accidental>
+            </KeySig>
           <Harmony>
             <root>19</root>
             <name>5</name>
@@ -594,6 +603,9 @@
         </Measure>
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <Harmony>
             <root>17</root>
             <name>m</name>
