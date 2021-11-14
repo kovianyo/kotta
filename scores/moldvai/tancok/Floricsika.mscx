@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847953</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847953</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Floricsika</metaTag>
@@ -177,8 +177,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>17</root>
-            <name>m</name>
+            <root>14</root>
             </Harmony>
           <Tempo>
             <tempo>2.3333300000000001</tempo>
@@ -235,6 +234,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -255,6 +257,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -269,6 +274,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -319,6 +327,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -339,6 +350,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -429,8 +444,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>17</root>
-            <name>m</name>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
