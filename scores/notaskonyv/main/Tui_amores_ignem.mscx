@@ -114,6 +114,14 @@
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>0</midiChannel>
+          </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>2</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -176,6 +184,8 @@
         <Channel>
           <program value="0"/>
           <synti>Fluid</synti>
+          <midiPort>0</midiPort>
+          <midiChannel>1</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -200,6 +210,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>18</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -302,6 +316,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -344,6 +361,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -445,6 +466,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -479,6 +503,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -546,6 +573,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -569,6 +600,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -626,6 +661,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -648,6 +686,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -714,6 +755,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -737,6 +781,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -840,6 +887,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>18</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
