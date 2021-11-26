@@ -182,7 +182,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-5.53673" y="-2.9893"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>

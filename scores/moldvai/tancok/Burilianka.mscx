@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -179,11 +179,11 @@
             <name>m</name>
             </Harmony>
           <Tempo>
-            <tempo>2.16667</tempo>
+            <tempo>2.1666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-4.69214" y="-3.74004"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 130</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
