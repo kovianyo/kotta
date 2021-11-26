@@ -674,9 +674,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -699,6 +696,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -871,9 +871,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -902,6 +899,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
