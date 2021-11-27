@@ -520,9 +520,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -541,10 +538,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -618,9 +621,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -640,10 +640,16 @@
       <Measure>
         <endRepeat>2</endRepeat>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>

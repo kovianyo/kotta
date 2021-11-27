@@ -180,6 +180,9 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <text>A1</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -409,6 +412,9 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <text>B1</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -675,6 +681,9 @@
           <Harmony>
             <root>14</root>
             </Harmony>
+          <RehearsalMark>
+            <text>A2</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -983,6 +992,9 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <text>B2</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1254,6 +1266,9 @@
           <Harmony>
             <root>14</root>
             </Harmony>
+          <RehearsalMark>
+            <text>A3</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1502,6 +1517,9 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <text>B3</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
