@@ -530,6 +530,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
