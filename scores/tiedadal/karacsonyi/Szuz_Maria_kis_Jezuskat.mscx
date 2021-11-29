@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/748771</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/748771</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -114,18 +114,15 @@
         <bracket type="-1" span="1" col="0"/>
         <bracket type="0" span="2" col="1"/>
         </Staff>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <trackName>Piano</trackName>
-        <minPitchP>21</minPitchP>
-        <maxPitchP>108</maxPitchP>
-        <minPitchA>21</minPitchA>
-        <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Organ</trackName>
+      <Instrument id="organ">
+        <trackName>Organ</trackName>
+        <instrumentId>keyboard.organ</instrumentId>
         <clef staff="2">F</clef>
+        <clef staff="3">F</clef>
         <Articulation>
           <velocity>100</velocity>
-          <gateTime>95</gateTime>
+          <gateTime>100</gateTime>
           </Articulation>
         <Articulation name="staccatissimo">
           <velocity>100</velocity>
@@ -164,7 +161,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="19"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -184,18 +182,15 @@
           </StaffType>
         <bracket type="-1" span="1" col="0"/>
         </Staff>
-      <trackName>Piano</trackName>
-      <Instrument id="piano">
-        <trackName>Piano</trackName>
-        <minPitchP>21</minPitchP>
-        <maxPitchP>108</maxPitchP>
-        <minPitchA>21</minPitchA>
-        <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Organ</trackName>
+      <Instrument id="organ">
+        <trackName>Organ</trackName>
+        <instrumentId>keyboard.organ</instrumentId>
         <clef staff="2">F</clef>
+        <clef staff="3">F</clef>
         <Articulation>
           <velocity>100</velocity>
-          <gateTime>95</gateTime>
+          <gateTime>100</gateTime>
           </Articulation>
         <Articulation name="staccatissimo">
           <velocity>100</velocity>
@@ -234,7 +229,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="19"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -262,11 +258,11 @@
             <root>14</root>
             </Harmony>
           <Tempo>
-            <tempo>1.3333333333333333</tempo>
+            <tempo>1</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-5.39824" y="-3.73776"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 80</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
             </Tempo>
           <Beam>
             </Beam>
