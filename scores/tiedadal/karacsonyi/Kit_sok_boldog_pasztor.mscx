@@ -381,7 +381,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/748611</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/748611</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -436,36 +436,35 @@
           </Text>
         </VBox>
       <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
             <root>13</root>
-            <extension>1</extension>
             </Harmony>
           <SystemText>
-            <family>FreeSerif</family>
-            <text><font size="9.75613"></font><font face="Times New Roman"></font>Elő- és közjáték</text>
+            <text>Elő- és közjáték</text>
             </SystemText>
-          <Beam>
-            </Beam>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -473,47 +472,39 @@
             </Chord>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <root>13</root>
-            <extension>1</extension>
-            </Harmony>
-          <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -522,26 +513,45 @@
           </voice>
         </Measure>
       <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Beam>
-            </Beam>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -549,11 +559,10 @@
             </Chord>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
           <Chord>
-            <durationType>half</durationType>
-            <StemDirection>down</StemDirection>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -562,90 +571,65 @@
           </voice>
         </Measure>
       <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>1. Kit</text>
+              <text>1. Kit</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>sok</text>
+              <text>sok</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>bol</text>
+              <text>bo</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>dog</text>
+              <ticks_f>0/8</ticks_f>
+              <text>dog</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Harmony>
             <root>13</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>pász</text>
+              <text>pász</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -656,14 +640,12 @@
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -672,29 +654,18 @@
                   </location>
                 </prev>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
-        <voice>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>tor</text>
+              <ticks_f>0/8</ticks_f>
+              <text>tor</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -702,122 +673,42 @@
             </Chord>
           <Harmony>
             <root>15</root>
-            <extension>1</extension>
             </Harmony>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>di</text>
+              <text>di</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>csér,</text>
+              <ticks_f>0/8</ticks_f>
+              <text>csér,</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Harmony>
-            <root>14</root>
-            <extension>1</extension>
-            </Harmony>
-          <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hall</text>
-              </Lyrics>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ván</text>
-              </Lyrics>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
-            <root>13</root>
-            <extension>1</extension>
+            <root>14</root>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>an</text>
+              <text>hall</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -828,14 +719,12 @@
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -844,59 +733,101 @@
                   </location>
                 </prev>
               </Spanner>
-            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
+              <text>ván</text>
+              </Lyrics>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <text>an</text>
+              </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gyal</text>
+              <ticks_f>0/8</ticks_f>
+              <text>gyal</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
           <Harmony>
             <root>17</root>
             <name>m</name>
             </Harmony>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>é</text>
+              <text>é</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>gi</text>
+              <ticks_f>0/4</ticks_f>
+              <text>gi</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -904,33 +835,25 @@
             </Chord>
           <Harmony>
             <root>15</root>
-            <extension>1</extension>
             </Harmony>
           <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>hír</text>
+              <text>hí</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ét.</text>
+              <ticks_f>0/8</ticks_f>
+              <text>rét,</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -939,187 +862,134 @@
           </voice>
         </Measure>
       <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Fél</text>
+              <text>Fél</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ni</text>
+              <ticks_f>0/4</ticks_f>
+              <text>ni</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>töb</text>
+              <text>töb</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>bé</text>
+              <ticks_f>0/8</ticks_f>
+              <text>bé</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Harmony>
             <root>15</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>nin</text>
+              <text>nin</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>csen</text>
+              <ticks_f>0/4</ticks_f>
+              <text>csen</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
-        <voice>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>mi</text>
+              <text>mi</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>ért,</text>
+              <ticks_f>0/8</ticks_f>
+              <text>ért,</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Harmony>
             <root>13</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>itt</text>
+              <text>itt</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>a</text>
+              <text>a</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -1127,18 +997,12 @@
             </Chord>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Meg</text>
+              <text>Meg</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1149,14 +1013,12 @@
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1165,46 +1027,34 @@
                   </location>
                 </prev>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <breakMultiMeasureRest>1</breakMultiMeasureRest>
-        <voice>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>vál</text>
+              <text>vál</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Harmony>
             <root>13</root>
-            <extension>1</extension>
             </Harmony>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>tó</text>
+              <text>tó</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1215,16 +1065,12 @@
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Beam>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1233,22 +1079,17 @@
                   </location>
                 </prev>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
-              <syllabic>middle</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>Ki</text>
+              <syllabic>begin</syllabic>
+              <text>Ki</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -1256,25 +1097,19 @@
             </Chord>
           <Harmony>
             <root>14</root>
-            <extension>1</extension>
             </Harmony>
           <Chord>
+            <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <family>FreeSerif</family>
-              <size>11</size>
-              <text><font size="10.7317"></font><font face="Times New Roman"></font>rály.</text>
+              <text>rály.</text>
               </Lyrics>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
