@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -593,7 +593,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">http://wikifonia.org/node/747/revisions/1079/view</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/7349444</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
