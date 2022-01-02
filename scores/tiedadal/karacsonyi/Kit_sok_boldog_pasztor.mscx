@@ -437,9 +437,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -464,6 +461,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>77</pitch>
@@ -474,6 +472,7 @@
             <root>14</root>
             </Harmony>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -490,6 +489,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -537,6 +537,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -551,6 +552,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>71</pitch>
@@ -626,6 +628,7 @@
             <root>13</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -646,6 +649,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -660,6 +664,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -675,6 +680,7 @@
             <root>15</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -686,6 +692,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -739,6 +746,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -754,6 +762,7 @@
             <root>13</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -822,6 +831,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -837,6 +847,7 @@
             <root>15</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -946,6 +957,7 @@
             <root>14</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -999,6 +1011,7 @@
             <root>14</root>
             </Harmony>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1019,6 +1032,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1071,6 +1085,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1085,6 +1100,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
