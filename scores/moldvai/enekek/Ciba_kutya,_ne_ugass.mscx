@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/5086271</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/5086271</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Ciba kutya, ne ugass</metaTag>
@@ -669,7 +669,12 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Tamás Gyurka ideki
+          <text>Ciba kutya, ne ugass,
+Hogy gyűljön e guzsalyas!
+Ha meggyűlt a guzsalyas,
+Annál jobban mind ugass!
+
+Tamás Gyurka ideki
 A kutyákat hergeti,
 Tőlem mind azt üzeni,
 Egy szép lejány menjen ki.
