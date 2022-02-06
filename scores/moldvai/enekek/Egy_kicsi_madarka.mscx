@@ -572,15 +572,32 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Egy kicsi madárka hozzám kezde járni. 2x
-Virágos kertemben fészket kezde rakni. 2x
-Hát azt az irigyek észre kezdék venni. 2x
-Kicsi madár fészkét széjjel kezdék verni. 2x
-Vasárnap jó regvel kimenék ez útra. 2x
-Látám édesemet s ő es láta ingem. 2x
-Akarám szólítni: merre jársz édesem? 2x
-Szeretőmhöz jártam, mi bajod van véle? 2x
-Az bajom van véle, fáj a szívem érted! 2x</text>
+          <text>Egy kicsi madárka hozzám kezde járni,
+Egy kicsi madárka hozzám kezde járni.
+
+Virágos kertemben fészket kezde rakni,
+Virágos kertemben fészket kezde rakni.
+
+Hát azt az irigyek észre kezdék venni,
+Hát azt az irigyek észre kezdék venni.
+
+Kicsi madár fészkét széjjel kezdék verni,
+Kicsi madár fészkét széjjel kezdék verni.
+
+Vasárnap jó regvel kimenék ez útra,
+Vasárnap jó regvel kimenék ez útra.
+
+Látám édesemet s ő es láta ingem,
+Látám édesemet s ő es láta ingem.
+
+Akarám szólítni: merre jársz édesem,
+Akarám szólítni: merre jársz édesem?
+
+Szeretőmhöz jártam, mi bajod van véle,
+Szeretőmhöz jártam, mi bajod van véle?
+
+Az bajom van véle, fáj a szívem érted,
+Az bajom van véle, fáj a szívem érted!</text>
           </Text>
         </TBox>
       </Staff>
