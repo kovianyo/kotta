@@ -764,6 +764,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hogyha nékem Laci bátyám szépen hegedűlne
+Akkor én is rátalálnék egy szép kékszeműre,
+Járnám vele ékesen, más nézné keservesen, 
+Édes angyalom.
+
+A királyné a csárdában nem fér a bőrébe,
+A királyné azt gondolja, száz aranyat érne,
+De én aztat megteszem, hogy kendet ott felejtem, 
+Édes angyalom.
+
+Tegnap voltam zabaratni, ma megyek kötözni,
+Elvesztettem a rózsámat, megyek megkeresni,
+Uccu pengő sarkantyúm, félre tőlem, mindent bele, 
+Édes angyalom,</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

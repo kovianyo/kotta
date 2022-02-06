@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847908</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847908</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -644,6 +644,21 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hallod-e, te, kőrösi lány, 
+Kőrösi lány, kőrösi lány.
+A te szoknyád fordros-e már, 
+Fordros-e már, fordros-e már?
+
+Fodros volt, de már lekopott,
+Három legény három napig rajta lovagolt.
+Fodros volt, de már lekopott,
+Három legény három napig rajta lovagolt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

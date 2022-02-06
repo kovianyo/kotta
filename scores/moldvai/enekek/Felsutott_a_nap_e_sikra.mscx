@@ -151,6 +151,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="69"/>
           <synti>Fluid</synti>
@@ -406,29 +407,6 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
-          <SystemText>
-            <placement>below</placement>
-            <offset x="-6.71102" y="9.6957"/>
-            <text>De a bíró rossz ember volt,
-katonának beíratott.
-De a bíró rossz ember volt,
-katonának beíratott.
-
-Megyek az úton lefelelé,
-Senki se mondja gyere bé.
-Jer bé rózsám kérdjelek meg,
-Hogy ha elmész hol kaplak meg.
-
-Gyere bé Csíkszeredába,
-ott megtalálsz egy kocsmába.
-Ha egy kocsomában nem lelsz,
-Gyere fel Galiciába.
-
-Galicia közepébe
-Két kaszárnya van egy végbe.
-Abban leszek az egyikbe,
-Kettő közül a szebbikben/kisebbikbe.</text>
-            </SystemText>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -531,7 +509,7 @@ Kettő közül a szebbikben/kisebbikbe.</text>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>ha</text>
+              <text>Ha</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -629,6 +607,36 @@ Kettő közül a szebbikben/kisebbikbe.</text>
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Felsütött a nap e síkra,
+Katonának vagyok írva.
+Katona sem lettem volna,
+Ha a bíró jó lett volna.
+
+De a bíró rossz ember volt,
+katonának beíratott.
+De a bíró rossz ember volt,
+katonának beíratott.
+
+Megyek az úton lefelelé,
+Senki se mondja gyere bé.
+Jer bé rózsám kérdjelek meg,
+Hogy ha elmész hol kaplak meg.
+
+Gyere bé Csíkszeredába,
+ott megtalálsz egy kocsmába.
+Ha egy kocsomában nem lelsz,
+Gyere fel Galiciába.
+
+Galicia közepébe
+Két kaszárnya van egy végbe.
+Abban leszek az egyikbe,
+Kettő közül a szebbikben/kisebbikbe.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

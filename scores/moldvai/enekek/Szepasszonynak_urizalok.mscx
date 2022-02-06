@@ -381,7 +381,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847900</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847900</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -1452,6 +1452,25 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szép asszonynak uurizálok, uurizálok, uurizálok,
+Az urára fittyet hányok, fittyet hányok, fittyet hányok.
+Jaj, jaj, jaj, jaj, a szívem, meg ne tudja senki sem,
+Hogy én ezt a barna kislányt szeretem,
+Csak a cigány egyedül, aki nékem hegedül,
+Csak ő tudja egyedül.
+
+Házuk előtt van egy árok, van egy árok, van egy árok.
+Minden este arra járok, arra járok, arra járok.
+Jaj, jaj, jaj, jaj a szívem, meg ne tudja senki sem,
+Hogy én ezt a barna kislányt szeretem,
+Csak a jegyző, meg a pap, aki minket összead,
+Csak azt tudja egyes-egyedül.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

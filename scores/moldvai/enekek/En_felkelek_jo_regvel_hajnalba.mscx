@@ -469,6 +469,47 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Én felkelék jó regvel hajnalba,
+Én felkelék jó regvel hajnalba,
+Megmosdottam minden bűneimtől,
+Megmosdottam minden bűneimtől.
+
+Megkendőzém arany kendőcskével,
+Megkendőzém arany kendőcskével.
+Kimenék én ajtóm elejébe,
+Kimenék én ajtóm elejébe.
+
+Feltekinték nagy magas mennyégbe,
+Feltekinték nagy magas mennyégbe.
+Nyitva látám mennyország kapuját,
+Nyitva látám mennyország kapuját.
+
+Azon belül mennyország ajtaját,
+Azon belül mennyország ajtaját.
+Azon belül egy terített asztalt,
+Azon belül egy terített asztalt.
+
+Azon vala egy rengő bölcsőcske,
+Azon vala egy rengő bölcsőcske.
+Abban vala Urunk, Jézus Krisztus.
+Ül vala mellette anyánk, Szűz Mária,
+Ül vala mellette anyánk, Szűz Mária.
+
+A lábával rengetgeti vala,
+A lábával rengetgeti vala.
+A szájával fújdogálja vala,
+A szájával fújdogálja vala:
+
+Aludjál el, Istennek Báránya,
+Aludjál el, Istennek Báránya
+Szeretetből jöttél erre a világra,
+Szeretetből jöttél erre a világra.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

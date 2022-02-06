@@ -261,6 +261,9 @@
         </Measure>
       <Measure>
         <stretch>0.8</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -502,6 +505,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kalagori keskeske, szüm-szüm-szüm szüzecske,
+Szeress engem szüzecske, ku-ku, ku-ku.
+
+Ha te engem szeretnél, szüm-szüm-szüm szüzecske,
+Sári(k) csizmát vislnél, ku-ku, ku-ku.
+
+De te engem nem szeretsz, szüm-szüm-szüm szüzecske,
+Sári(k) csizmát sem viselsz, ku-ku, ku-ku.
+
+Fáj a szűvem szűvedért, szüm-szüm-szüm szüzecske,
+Két feteke szemedért, ku-ku, ku-ku,
+
+Azt a maska vegye ki, szüm-szüm-szüm szüzecske,
+Az ablakba tegye ki ku-ku, ku-ku.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
