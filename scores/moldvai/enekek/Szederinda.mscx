@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847901</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847901</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Hojna</metaTag>
@@ -955,7 +955,7 @@ Hát a szőrrel mit csinálsz, szederinda-rinda?
 Szitát kötök belőle, szederinda-rinda. 
 
 Hát szitával mit csinálsz, szederinda-rinda?
-Lisztet szitálgatok vele, szederinda-rinda.
+Lisztet szitálgatok véle, szederinda-rinda.
 
 Hát a liszttel mit csinálsz, szederinda-rinda?
 Málét főzök belőle, szederinda-rinda.
@@ -965,7 +965,9 @@ Szeretőt fogadok véle, szederinda-rinda.
 
 Szeretővel mit csinálsz, szederinda-rinda?
 Nappal véle kapálgatok, szederinda-rinda,
-Éjjel véle hálogatok, szederinda-rinda.</text>
+Éjjel véle hálogatok, szederinda-rinda.
+
+cáp = kecskebak</text>
           </Text>
         </TBox>
       </Staff>

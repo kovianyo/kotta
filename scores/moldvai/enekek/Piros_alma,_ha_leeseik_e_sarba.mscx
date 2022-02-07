@@ -381,7 +381,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847902</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847902</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -1020,13 +1020,17 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Én felvettem, megtöröltem e sártól,
+          <text>Piros alma, ha leesik a sárba, 
+Piros alma, ha leesik a sárba, 
+Ki felveszi, nem veszi fel hiába!
+
+Én felvettem, megtöröltem e sártól,
 Én felvettem, megtöröltem e sártól,
 Elbúcsúztam az én kedves rózsámtól.
 
 Piros alma, nem tudtam, hogy édes vagy,
 Piros alma, nem tudtam, hogy édes vagy,
-Kedves rózsám, nem hittem, hogy csalós vagy.
+Régi babám, nem tudtam, hogy csalós vagy.
 
 Piros alma, ha leesik, elterül,
 Piros alma, ha leesik, elterül,
@@ -1035,6 +1039,14 @@ Az én rózsám mikor lát is, elkerül.
 Ha elkerül, nem tehetek én róla,
 Ha elkerül, nem tehetek én róla,
 Nem lehetek sem tulipán sem rózsa.
+
+Három csillag van az égen, egy sorba',
+Három csillag van az égen, egy sorba',
+Három szeretőm van nékem, egyforma.
+
+Három közül egy az igaz szerető,
+Három közül egy az igaz szerető,
+A más kettőt verje meg a teremtő!
 </text>
           </Text>
         </TBox>

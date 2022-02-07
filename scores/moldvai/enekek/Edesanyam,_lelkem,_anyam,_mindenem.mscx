@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4574496</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4574496</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Édesanyám, lelkem, anyám, mindenem</metaTag>
@@ -540,7 +540,10 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <text>Egész világ mind azt fogja mondani:
+          <text>Édesanyám, lelkem, anyám, mindenem, 
+Mind körül vett engemet a szerelem.
+
+Egész világ mind azt fogja mondani:
 Becsületem nem tudtam megtartani.
 
 Elkárhozott lélek vagyok én immár,

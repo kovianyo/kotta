@@ -166,9 +166,6 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -894,18 +891,18 @@
           <Text>
             <style>Frame</style>
             <text>Itt van Anyánk, Mária, mint a hóvirág,
-A Szëntlélëk áldása szálljon le rëánk.
-Nem vagyunk árvák, van Édësanyánk,
-Ki a magas Mënnyekből gondot visel ránk.
-Nem vagyunk árvák, van Édësanyánk,
-Palástjával takar bé, úgy vigyáz rë(j)ánk.
+A Szentlélek áldása szálljon le reánk.
+Nem vagyunk árvák, van Édesanyánk,
+Ki a magas Mennyekből gondot visel ránk.
+Nem vagyunk árvák, van Édesanyánk,
+Palástjával takar bé, úgy vigyáz re(j)ánk.
 
-Eljöttek az özvegyëk, a szëgény árvák,
-Töröld le könnyeikët, édës Szűzanyánk!
+Eljöttek az özvegyek, a szegény árvák,
+Töröld le könnyeiket, édes Szűzanyánk!
 Nem vagyunk árvák, ...
 
-Ha nincs kënyér, keres Ő, jöjjetek ide,
-Szűzanyánk oltárára boruljatok lë!
+Ha nincs kenyér, keres Ő, jöjjetek ide,
+Szűzanyánk oltárára boruljatok le!
 Nem vagyunk árvák, ...
 </text>
             </Text>
@@ -915,19 +912,19 @@ Nem vagyunk árvák, ...
           <offset x="54.4658" y="0"/>
           <Text>
             <style>Frame</style>
-            <text>Tárd ki védő karjaid, édës Szűzanyánk,
-Öleld dárga szüvedre özvegyët, s árvát!
-Nem vagyunk árvák, van Édësanyánk,
-Ki a magas Mënnyekből gondot visel ránk.
-Fehér Rózsaszál, Mënnyből leszálltál,
-Csíksomlyói tëmplomba kivirágoztál.
+            <text>Tárd ki védő karjaid, édes Szűzanyánk,
+Öleld dárga szüvedre özvegyet, s árvát!
+Nem vagyunk árvák, van Édesanyánk,
+Ki a magas Mennyekből gondot visel ránk.
+Fehér Rózsaszál, Mennyből leszálltál,
+Csíksomlyói templomba kivirágoztál.
 
 Szép Szeretetnek Anyja, kedves Csillaga,
 Isten hite van benned, minden bizalma.
-Nem vagyunk árvák, van Édësanyánk,
-Ki a magas Mënnyekből gondot visel ránk.
-Fejér Rózsaszál, Mënnyből leszálltál,
-A szëgedi tëmplomba kivirágoztál.
+Nem vagyunk árvák, van Édesanyánk,
+Ki a magas Mennyekből gondot visel ránk.
+Fejér Rózsaszál, Mennyből leszálltál,
+A szegedi templomba kivirágoztál.
 </text>
             </Text>
           </HBox>

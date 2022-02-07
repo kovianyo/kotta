@@ -751,7 +751,7 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Egyszer jártam Budára*, kétszer Magyarországra,
+          <text>Egyszer jártam Budára, kétszer Magyarországra,
 Egyszer jártam Budára, kétszer Magyarországra.
 S ott hallék egy magyar szót, nyisd meg rózsám az ajtót.
 S ott hallék egy magyar szót, nyisd meg rózsám az ajtót!
@@ -771,7 +771,7 @@ Adj egy csókot, s én es mást, el ne felejtsük egymást!
 Adok egyet, kettőt es, kapok még százt nálad es,
 Adok egyet, kettőt es, kapok még százt nálad es!
 
-*Bákó megye
+Buda = település Bákó megyében
 </text>
           </Text>
         </TBox>

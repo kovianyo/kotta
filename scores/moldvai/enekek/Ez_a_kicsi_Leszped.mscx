@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/4847912</metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/4847912</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Ez a kicsi Lészped</metaTag>
@@ -571,6 +571,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
               <text>ke,</text>
               </Lyrics>
             <Note>
@@ -589,7 +590,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>rá</text>
+              <text>Rá</text>
               </Lyrics>
             <Note>
               <pitch>60</pitch>
@@ -741,7 +742,12 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Nem megmondtam te bús gerlice,
+          <text>Ez a kicsi Lészped nem jó helyen van, 
+Mer' a templom a közepibe van. 
+Körös körül arany csipke, 
+Rászállott egy bús gerlice.
+
+Nem megmondtam te bús gerlice,
 Ne rakj fészket az út szélire?
 Mert az úton sokan járnak,
 Kis fészkedre reátalálnak.

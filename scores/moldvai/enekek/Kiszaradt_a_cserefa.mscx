@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
-  <programVersion>3.6.0</programVersion>
-  <programRevision>1977cb3</programRevision>
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -170,15 +170,12 @@
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
@@ -777,7 +774,7 @@ Itt fekszik egy szerencsétlen árva,
 Kinek nincsen sem apja, sem anyja, 
 Sem egy igaz atyafija, -fija. 
 
-Horgitai ződ erdő, ződ erdő, 
+Horgitai zöld erdő, zöld erdő, 
 Abba vagyon csipkebokor vessző, 
 Arra reja szállott bús gerlice, 
 Arra reja szállott bús gerlice. 
