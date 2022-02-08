@@ -237,7 +237,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>te</text>
+              <text>te,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
@@ -948,7 +948,7 @@
         <bottomGap>0</bottomGap>
         <Text>
           <style>Frame</style>
-          <text>Hová mész, te szürke cáp, szederinda-rinda? 
+          <text>Hová mész, te, szürke cáp, szederinda-rinda? 
 Elindulék szőrgyűjteni, szederinda-rinda.
 
 Hát a szőrrel mit csinálsz, szederinda-rinda?
