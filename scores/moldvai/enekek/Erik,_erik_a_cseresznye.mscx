@@ -299,7 +299,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <root>14</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -328,6 +328,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -529,6 +532,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -600,9 +606,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
