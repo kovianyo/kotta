@@ -1,15 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
+      <stemWidth>0.11</stemWidth>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
+      <fingeringFontFace>Edwin</fingeringFontFace>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
+      <tempoFontFace>Edwin</tempoFontFace>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
+      <staffFontFace>Edwin</staffFontFace>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -23,6 +99,7 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Mestereknek Mestere</metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/user/443/scores/5498879</metaTag>
@@ -35,8 +112,9 @@
           </StaffType>
         </Staff>
       <trackName></trackName>
-      <Instrument>
+      <Instrument id="piano">
         <trackName></trackName>
+        <instrumentId>keyboard.piano</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -71,8 +149,10 @@
       <VBox>
         <height>10</height>
         <bottomGap>8.19997</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <family>FreeSerif</family>
           <text><font face="Times New Roman"></font>Mestereknek Mestere</text>
           </Text>
         </VBox>
@@ -97,10 +177,12 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Mes</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Aki</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -127,6 +209,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rek</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -140,6 +223,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nek</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -159,11 +243,13 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Mes</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ö</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
@@ -177,11 +263,13 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>re</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rök</text>
               </Lyrics>
             <StemDirection>down</StemDirection>
@@ -194,11 +282,13 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>re,</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ké,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -214,6 +304,7 @@
         <stretch>0.9</stretch>
         <Marker>
           <style>Repeat Text Right</style>
+          <family>FreeSerif</family>
           <text><font face="Times New Roman"></font>Fine</text>
           <label>fine</label>
           </Marker>
@@ -228,11 +319,13 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mondd</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mind</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -245,11 +338,13 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>meg</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ö</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -262,11 +357,13 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mi</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rök</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -279,11 +376,13 @@
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ké,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -299,10 +398,12 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>egy!</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Amen.</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -331,6 +432,7 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Egy</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -352,6 +454,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Is</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -364,6 +467,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ten,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -390,6 +494,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -402,6 +507,7 @@
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>jó</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -414,6 +520,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Is</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -426,6 +533,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ten,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -453,6 +561,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ti</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -466,6 +575,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>zen</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -479,6 +589,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ket</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -492,6 +603,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tő</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -511,6 +623,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -524,6 +637,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>pos</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -536,6 +650,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tol,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -559,6 +674,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>...</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -642,6 +758,7 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nyolc</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -663,6 +780,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>dog</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -675,6 +793,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ság,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
@@ -692,6 +811,7 @@
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <Jump>
           <style>Repeat Text Right</style>
+          <family>FreeSerif</family>
           <text><font face="Times New Roman"></font>D.C. al Fine</text>
           <jumpTo>start</jumpTo>
           <playUntil>fine</playUntil>
@@ -704,6 +824,7 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>...</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
