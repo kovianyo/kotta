@@ -1,15 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.5.2</programVersion>
-  <programRevision>465e7b6</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
+      <stemWidth>0.11</stemWidth>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
+      <fingeringFontFace>Edwin</fingeringFontFace>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
+      <tempoFontFace>Edwin</tempoFontFace>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
+      <staffFontFace>Edwin</staffFontFace>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <ChordList>
         <font id="0" family="default">
           <mag>1</mag>
@@ -302,6 +378,7 @@
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/score/748361</metaTag>
@@ -315,12 +392,13 @@
         <bracket type="-1" span="1" col="0"/>
         </Staff>
       <trackName>Voice</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <trackName>Voice</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>94</maxPitchP>
         <minPitchA>40</minPitchA>
         <maxPitchA>79</maxPitchA>
+        <instrumentId>voice.vocals</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -338,6 +416,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="52"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -355,8 +434,10 @@
       <VBox>
         <height>10</height>
         <bottomGap>8.0005</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <family>FreeSerif</family>
           <text><font face="Times New Roman"></font>Ég az a tűz</text>
           </Text>
         </VBox>
@@ -375,6 +456,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>1. Ég</text>
               </Lyrics>
             <Note>
@@ -385,6 +467,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -395,6 +478,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -405,6 +489,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tűz,</text>
               </Lyrics>
             <Note>
@@ -426,6 +511,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lob</text>
               </Lyrics>
             <Note>
@@ -437,6 +523,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ban</text>
               </Lyrics>
             <Note>
@@ -447,6 +534,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -459,6 +547,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>láng,</text>
               </Lyrics>
             <Note>
@@ -469,6 +558,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>és</text>
               </Lyrics>
             <Note>
@@ -489,6 +579,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nem</text>
               </Lyrics>
             <Note>
@@ -504,6 +595,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ma</text>
               </Lyrics>
             <Note>
@@ -519,6 +611,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rad</text>
               </Lyrics>
             <Note>
@@ -533,6 +626,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>már</text>
               </Lyrics>
             <Note>
@@ -547,6 +641,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>13</root>
@@ -558,6 +655,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sem</text>
               </Lyrics>
             <Note>
@@ -576,6 +674,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mi</text>
               </Lyrics>
             <Note>
@@ -590,6 +689,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>se</text>
               </Lyrics>
             <Note>
@@ -607,6 +707,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tá</text>
               </Lyrics>
             <Note>
@@ -622,6 +723,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vol,</text>
               </Lyrics>
             <Note>
@@ -647,6 +749,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ben</text>
               </Lyrics>
             <Note>
@@ -662,6 +765,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ned</text>
               </Lyrics>
             <Note>
@@ -676,6 +780,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -690,6 +795,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ég, s</text>
               </Lyrics>
             <Note>
@@ -715,6 +821,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>min</text>
               </Lyrics>
             <Note>
@@ -730,6 +837,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>den</text>
               </Lyrics>
             <Note>
@@ -745,6 +853,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>e</text>
               </Lyrics>
             <Note>
@@ -762,6 +871,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>léd</text>
               </Lyrics>
             <Note>
@@ -776,6 +886,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>jön,</text>
               </Lyrics>
             <Note>
@@ -799,6 +910,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>in</text>
               </Lyrics>
             <Note>
@@ -814,6 +926,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>dulj</text>
               </Lyrics>
             <Note>
@@ -839,6 +952,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>hát!</text>
               </Lyrics>
             <Note>
@@ -863,6 +977,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>2. Mit</text>
               </Lyrics>
             <Note>
@@ -878,6 +993,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>hoz</text>
               </Lyrics>
             <Note>
@@ -893,6 +1009,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>hat</text>
               </Lyrics>
             <Note>
@@ -907,6 +1024,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el</text>
               </Lyrics>
             <Note>
@@ -931,6 +1049,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>még</text>
               </Lyrics>
             <Note>
@@ -945,6 +1064,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ez</text>
               </Lyrics>
             <Note>
@@ -959,6 +1079,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -976,6 +1097,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>é</text>
               </Lyrics>
             <Note>
@@ -991,6 +1113,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>let,</text>
               </Lyrics>
             <Note>
@@ -1012,6 +1135,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>dön</text>
               </Lyrics>
             <Note>
@@ -1027,6 +1151,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>te</text>
               </Lyrics>
             <Note>
@@ -1042,6 +1167,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ned</text>
               </Lyrics>
             <Note>
@@ -1056,6 +1182,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>kell, s</text>
               </Lyrics>
             <Note>
@@ -1070,6 +1197,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>13</root>
@@ -1081,6 +1211,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>min</text>
               </Lyrics>
             <Note>
@@ -1099,6 +1230,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>den</text>
               </Lyrics>
             <Note>
@@ -1114,6 +1246,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ki</text>
               </Lyrics>
             <Note>
@@ -1131,6 +1264,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>té</text>
               </Lyrics>
             <Note>
@@ -1146,6 +1280,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ved,</text>
               </Lyrics>
             <Note>
@@ -1170,6 +1305,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>De</text>
               </Lyrics>
             <Note>
@@ -1185,6 +1321,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el</text>
               </Lyrics>
             <Note>
@@ -1200,6 +1337,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>kí</text>
               </Lyrics>
             <Note>
@@ -1217,6 +1355,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sér</text>
               </Lyrics>
             <Note>
@@ -1231,6 +1370,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>majd</text>
               </Lyrics>
             <Note>
@@ -1256,6 +1396,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vé</text>
               </Lyrics>
             <Note>
@@ -1271,6 +1412,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gig</text>
               </Lyrics>
             <Note>
@@ -1285,6 +1427,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -1302,6 +1445,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Lé</text>
               </Lyrics>
             <Note>
@@ -1317,6 +1461,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lek,</text>
               </Lyrics>
             <Note>
@@ -1340,6 +1485,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>in</text>
               </Lyrics>
             <Note>
@@ -1355,6 +1501,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>dulj</text>
               </Lyrics>
             <Note>
@@ -1380,6 +1527,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>hát!</text>
               </Lyrics>
             <Note>
@@ -1400,6 +1548,7 @@
             <name>m</name>
             </Harmony>
           <SystemText>
+            <family>FreeSerif</family>
             <offset x="-8.24948" y="-4.74995"/>
             <text><font face="Times New Roman"></font>Refrén</text>
             </SystemText>
@@ -1408,6 +1557,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>R1. Nem</text>
               </Lyrics>
             <Note>
@@ -1419,6 +1569,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>fe</text>
               </Lyrics>
             <Note>
@@ -1430,6 +1581,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>led</text>
               </Lyrics>
             <Note>
@@ -1440,6 +1592,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el,</text>
               </Lyrics>
             <Note>
@@ -1469,6 +1622,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ott</text>
               </Lyrics>
             <Note>
@@ -1480,6 +1634,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ma</text>
               </Lyrics>
             <Note>
@@ -1491,6 +1646,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rad</text>
               </Lyrics>
             <Note>
@@ -1504,6 +1660,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vé</text>
               </Lyrics>
             <Note>
@@ -1515,6 +1672,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>led,</text>
               </Lyrics>
             <Note>
@@ -1525,6 +1683,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ha</text>
               </Lyrics>
             <Note>
@@ -1554,6 +1713,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>fáj</text>
               </Lyrics>
             <Note>
@@ -1564,6 +1724,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -1575,6 +1736,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vi</text>
               </Lyrics>
             <Note>
@@ -1586,6 +1748,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lág,</text>
               </Lyrics>
             <Note>
@@ -1605,6 +1768,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
@@ -1616,6 +1782,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>si</text>
               </Lyrics>
             <Note>
@@ -1627,6 +1794,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mo</text>
               </Lyrics>
             <Note>
@@ -1638,6 +1806,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gat</text>
               </Lyrics>
             <Note>
@@ -1651,6 +1820,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>té</text>
               </Lyrics>
             <Note>
@@ -1662,6 +1832,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ged,</text>
               </Lyrics>
             <Note>
@@ -1692,6 +1863,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ró</text>
               </Lyrics>
             <Note>
@@ -1707,6 +1879,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>zsa</text>
               </Lyrics>
             <Note>
@@ -1722,6 +1895,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szi</text>
               </Lyrics>
             <Note>
@@ -1737,6 +1911,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rom</text>
               </Lyrics>
             <Note>
@@ -1761,6 +1936,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>hull</text>
               </Lyrics>
             <Note>
@@ -1774,6 +1950,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>le</text>
               </Lyrics>
             <Note>
@@ -1785,6 +1962,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>e</text>
               </Lyrics>
             <Note>
@@ -1798,6 +1976,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>léd,</text>
               </Lyrics>
             <Note>
@@ -1808,6 +1987,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>és</text>
               </Lyrics>
             <Note>
@@ -1827,6 +2007,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gyó</text>
               </Lyrics>
             <Note>
@@ -1838,6 +2019,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gyulsz</text>
               </Lyrics>
             <Note>
@@ -1863,6 +2045,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>már,</text>
               </Lyrics>
             <Note>
@@ -1887,6 +2070,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Lesz,</text>
               </Lyrics>
             <Note>
@@ -1898,6 +2082,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -1909,6 +2094,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ki</text>
               </Lyrics>
             <Note>
@@ -1919,6 +2105,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>majd</text>
               </Lyrics>
             <Note>
@@ -1949,6 +2136,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sok</text>
               </Lyrics>
             <Note>
@@ -1960,6 +2148,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szor</text>
               </Lyrics>
             <Note>
@@ -1971,6 +2160,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el</text>
               </Lyrics>
             <Note>
@@ -1984,6 +2174,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>té</text>
               </Lyrics>
             <Note>
@@ -1995,6 +2186,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ved, s</text>
               </Lyrics>
             <Note>
@@ -2005,6 +2197,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ha</text>
               </Lyrics>
             <Note>
@@ -2035,6 +2228,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>em</text>
               </Lyrics>
             <Note>
@@ -2046,6 +2240,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lék</text>
               </Lyrics>
             <Note>
@@ -2057,6 +2252,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szel</text>
               </Lyrics>
             <Note>
@@ -2067,6 +2263,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rá,</text>
               </Lyrics>
             <Note>
@@ -2086,6 +2283,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
@@ -2096,6 +2296,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mit</text>
               </Lyrics>
             <Note>
@@ -2106,6 +2307,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>kapsz</text>
               </Lyrics>
             <Note>
@@ -2116,6 +2318,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ma</text>
               </Lyrics>
             <Note>
@@ -2129,6 +2332,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vég</text>
               </Lyrics>
             <Note>
@@ -2140,6 +2344,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>leg,</text>
               </Lyrics>
             <Note>
@@ -2169,6 +2374,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ég</text>
               </Lyrics>
             <Note>
@@ -2179,6 +2385,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -2189,6 +2396,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -2199,6 +2407,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tűz, s</text>
               </Lyrics>
             <Note>
@@ -2220,6 +2429,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>kí</text>
               </Lyrics>
             <Note>
@@ -2231,6 +2441,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sér</text>
               </Lyrics>
             <Note>
@@ -2241,6 +2452,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -2254,6 +2466,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Lé</text>
               </Lyrics>
             <Note>
@@ -2265,6 +2478,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lek,</text>
               </Lyrics>
             <Note>
@@ -2283,6 +2497,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>jöjj</text>
               </Lyrics>
             <Note>
@@ -2294,6 +2509,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Hoz</text>
               </Lyrics>
             <Note>
@@ -2313,6 +2529,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>zá!</text>
               </Lyrics>
             <Note>
@@ -2359,6 +2576,7 @@
             <name>m</name>
             </Harmony>
           <SystemText>
+            <family>FreeSerif</family>
             <offset x="-6.74957" y="-4"/>
             <text><font face="Times New Roman"></font>Refrén</text>
             </SystemText>
@@ -2368,6 +2586,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>R2. Ben</text>
               </Lyrics>
             <Note>
@@ -2379,6 +2598,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ned</text>
               </Lyrics>
             <Note>
@@ -2389,6 +2609,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -2399,6 +2620,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tűz,</text>
               </Lyrics>
             <Note>
@@ -2429,6 +2651,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>él</text>
               </Lyrics>
             <Note>
@@ -2440,6 +2663,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>te</text>
               </Lyrics>
             <Note>
@@ -2451,6 +2675,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ti</text>
               </Lyrics>
             <Note>
@@ -2464,6 +2689,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lé</text>
               </Lyrics>
             <Note>
@@ -2475,6 +2701,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ted,</text>
               </Lyrics>
             <Note>
@@ -2504,6 +2731,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mit</text>
               </Lyrics>
             <Note>
@@ -2515,6 +2743,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>mo</text>
               </Lyrics>
             <Note>
@@ -2526,6 +2755,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>so</text>
               </Lyrics>
             <Note>
@@ -2537,6 +2767,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lyod</text>
               </Lyrics>
             <Note>
@@ -2556,6 +2787,9 @@
           </voice>
         </Measure>
       <Measure>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
@@ -2567,6 +2801,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>bi</text>
               </Lyrics>
             <Note>
@@ -2578,6 +2813,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>zo</text>
               </Lyrics>
             <Note>
@@ -2589,6 +2825,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nyít</text>
               </Lyrics>
             <Note>
@@ -2602,6 +2839,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>vég</text>
               </Lyrics>
             <Note>
@@ -2613,6 +2851,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>leg,</text>
               </Lyrics>
             <Note>
@@ -2643,6 +2882,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Te</text>
               </Lyrics>
             <Note>
@@ -2654,6 +2894,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>kin</text>
               </Lyrics>
             <Note>
@@ -2665,6 +2906,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>te</text>
               </Lyrics>
             <Note>
@@ -2676,6 +2918,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ted</text>
               </Lyrics>
             <Note>
@@ -2697,6 +2940,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ő</text>
               </Lyrics>
             <Note>
@@ -2711,6 +2955,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szin</text>
               </Lyrics>
             <Note>
@@ -2722,6 +2967,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>te</text>
               </Lyrics>
             <Note>
@@ -2735,6 +2981,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sé</text>
               </Lyrics>
             <Note>
@@ -2746,6 +2993,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ge</text>
               </Lyrics>
             <Note>
@@ -2765,6 +3013,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>han</text>
               </Lyrics>
             <Note>
@@ -2776,6 +3025,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gol</text>
               </Lyrics>
             <Note>
@@ -2797,6 +3047,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rá.</text>
               </Lyrics>
             <Note>
@@ -2818,6 +3069,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ösz</text>
               </Lyrics>
             <Note>
@@ -2829,6 +3081,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>sze</text>
               </Lyrics>
             <Note>
@@ -2840,6 +3093,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>köt</text>
               </Lyrics>
             <Note>
@@ -2850,6 +3104,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ő</text>
               </Lyrics>
             <Note>
@@ -2880,6 +3135,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>té</text>
               </Lyrics>
             <Note>
@@ -2891,6 +3147,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ged</text>
               </Lyrics>
             <Note>
@@ -2901,6 +3158,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -2914,6 +3172,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ég</text>
               </Lyrics>
             <Note>
@@ -2925,6 +3184,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>gel,</text>
               </Lyrics>
             <Note>
@@ -2955,6 +3215,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>em</text>
               </Lyrics>
             <Note>
@@ -2966,6 +3227,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>be</text>
               </Lyrics>
             <Note>
@@ -2977,6 +3239,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ri</text>
               </Lyrics>
             <Note>
@@ -2987,6 +3250,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lényt</text>
               </Lyrics>
             <Note>
@@ -3020,6 +3284,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>em</text>
               </Lyrics>
             <Note>
@@ -3031,6 +3296,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>be</text>
               </Lyrics>
             <Note>
@@ -3042,6 +3308,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ri</text>
               </Lyrics>
             <Note>
@@ -3055,6 +3322,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>lény</text>
               </Lyrics>
             <Note>
@@ -3066,6 +3334,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nyel,</text>
               </Lyrics>
             <Note>
@@ -3096,6 +3365,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ö</text>
               </Lyrics>
             <Note>
@@ -3107,6 +3377,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rök</text>
               </Lyrics>
             <Note>
@@ -3118,6 +3389,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>re</text>
               </Lyrics>
             <Note>
@@ -3128,6 +3400,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ég,</text>
               </Lyrics>
             <Note>
@@ -3148,6 +3421,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>és</text>
               </Lyrics>
             <Note>
@@ -3159,6 +3433,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>so</text>
               </Lyrics>
             <Note>
@@ -3170,6 +3445,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ha</text>
               </Lyrics>
             <Note>
@@ -3182,6 +3458,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el</text>
               </Lyrics>
             <Note>
@@ -3192,6 +3469,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nem</text>
               </Lyrics>
             <Note>
@@ -3211,6 +3489,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>al</text>
               </Lyrics>
             <Note>
@@ -3222,6 +3501,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szik</text>
               </Lyrics>
             <Note>
@@ -3243,6 +3523,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>már,</text>
               </Lyrics>
             <Note>
@@ -3264,6 +3545,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ben</text>
               </Lyrics>
             <Note>
@@ -3275,6 +3557,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ned</text>
               </Lyrics>
             <Note>
@@ -3285,6 +3568,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -3295,6 +3579,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Tűz,</text>
               </Lyrics>
             <Note>
@@ -3316,6 +3601,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ö</text>
               </Lyrics>
             <Note>
@@ -3327,6 +3613,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>rök</text>
               </Lyrics>
             <Note>
@@ -3338,6 +3625,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ké</text>
               </Lyrics>
             <Note>
@@ -3350,6 +3638,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tart</text>
               </Lyrics>
             <Note>
@@ -3360,6 +3649,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -3379,6 +3669,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>bol</text>
               </Lyrics>
             <Note>
@@ -3390,6 +3681,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>dog</text>
               </Lyrics>
             <Note>
@@ -3412,6 +3704,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ság,</text>
               </Lyrics>
             <Note>
@@ -3432,6 +3725,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>Ég</text>
               </Lyrics>
             <Note>
@@ -3442,6 +3736,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>az</text>
               </Lyrics>
             <Note>
@@ -3452,6 +3747,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>a</text>
               </Lyrics>
             <Note>
@@ -3462,6 +3758,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>tűz,</text>
               </Lyrics>
             <Note>
@@ -3482,6 +3779,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>és</text>
               </Lyrics>
             <Note>
@@ -3493,6 +3791,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>so</text>
               </Lyrics>
             <Note>
@@ -3504,6 +3803,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>ha</text>
               </Lyrics>
             <Note>
@@ -3516,6 +3816,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>el</text>
               </Lyrics>
             <Note>
@@ -3526,6 +3827,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>nem</text>
               </Lyrics>
             <Note>
@@ -3545,6 +3847,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>al</text>
               </Lyrics>
             <Note>
@@ -3556,6 +3859,7 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>szik</text>
               </Lyrics>
             <Note>
@@ -3574,6 +3878,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <family>FreeSerif</family>
               <text><font face="Times New Roman"></font>már.</text>
               </Lyrics>
             <Note>
@@ -3619,9 +3924,12 @@
         <rightMargin>5</rightMargin>
         <topMargin>5</topMargin>
         <bottomMargin>5</bottomMargin>
+        <boxAutoSize>0</boxAutoSize>
         <HBox>
           <width>102.041</width>
+          <boxAutoSize>0</boxAutoSize>
           <Text>
+            <family>FreeSerif</family>
             <text><font face="Sans"></font>   C              Em                               F                   Fm
 3. Életeden egymagad mész át, s minden erőd benned van, nézd hát
   C                                   G4              F       C
@@ -3637,16 +3945,13 @@ szent öröm ér, szeretet szárnyán szállsz hozzád.</text>
         <height>10</height>
         <topGap>0</topGap>
         <bottomGap>7.00044</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         </VBox>
       <VBox>
         <height>10</height>
         <topGap>0</topGap>
         <bottomGap>7.00044</bottomGap>
-        </VBox>
-      <VBox>
-        <height>10</height>
-        <topGap>0</topGap>
-        <bottomGap>7.00044</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         </VBox>
       </Staff>
     </Score>
