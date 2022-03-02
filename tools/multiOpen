@@ -1,0 +1,4 @@
+musescore-portable
+for i in *.mscx; do musescore-portable "$i"; done
+
+# for i in *.mscx; do (sleep 3; musescore-portable "$i" &); done
