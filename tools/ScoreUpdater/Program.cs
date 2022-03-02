@@ -14,11 +14,7 @@ namespace ScoreUpdater
 
         public static void Main(string[] args)
         {
-            string path = "/home/kovi/kovi/git/kotta/scores/tiedadal/karacsonyi";
-
-            Console.WriteLine($"Collecting files under '{path}'...");
-
-            var filePaths = GetFilePaths(path).ToArray();
+            var filePaths = GetFilePaths().ToArray();
 
             Console.WriteLine($"Found {filePaths.Count()} files.");
 
@@ -76,10 +72,32 @@ namespace ScoreUpdater
             File.WriteAllText("ScoreFiles.xml", xml);
         }
 
+        private static IEnumerable<string> GetFilePaths()
+        {
+            var paths = new[]
+            {
+                "/home/kovi/kovi/git/kotta/scores/daloskonyv",
+                "/home/kovi/kovi/git/kotta/scores/notaskonyv/main",
+                "/home/kovi/kovi/git/kotta/scores/notaskonyv/main/karacsonyi",
+                "/home/kovi/kovi/git/kotta/scores/tiedadal",
+                "/home/kovi/kovi/git/kotta/scores/tiedadal/karacsonyi",
+                "/home/kovi/kovi/git/kotta/scores/moldvai",
+                "/home/kovi/kovi/git/kotta/scores/moldvai/enekek",
+                "/home/kovi/kovi/git/kotta/scores/moldvai/enekek/karacsonyi",
+                "/home/kovi/kovi/git/kotta/scores/moldvai/tancok",
+                "/home/kovi/kovi/git/kotta/scores/moldvai/tancok/Kezes",
+            };
+
+            var filePaths = paths.SelectMany(x => GetFilePaths(x)).ToArray();
+
+            return filePaths;
+
+        }
+
         private static IEnumerable<string> GetFilePaths(string path)
         {
-            var enumerationOptions = new EnumerationOptions { RecurseSubdirectories = true };
-            var filePaths = Directory.GetFiles(path, "*.mscx", enumerationOptions).OrderBy(x => x);
+            var enumerationOptions = new EnumerationOptions { RecurseSubdirectories = false };
+            var filePaths = Directory.GetFiles(path, "*.mscx", enumerationOptions).Where(x => !x.Contains("downloaded")).OrderBy(x => x);
 
             return filePaths;
         }
@@ -129,6 +147,10 @@ namespace ScoreUpdater
 
                 if (scoreFile.UploadDate == null || fileInfo.LastWriteTimeUtc > scoreFile.UploadDate)
                 {
+                    int random = _random.Next(1000);
+
+                    Thread.Sleep(1000 + random);
+
                     var processStartInfo = new ProcessStartInfo
                     {
                         FileName = "musescore-portable",
@@ -144,11 +166,8 @@ namespace ScoreUpdater
                         if (process.ExitCode != 0)
                         {
                             Console.WriteLine($"There was an error uploading '{scoreFile.FilePath}'.");
+                            return;
                         }
-
-                        int random = _random.Next(1000);
-
-                        Thread.Sleep(1000 + random);
                     }
 
                     scoreFile.UploadDate = DateTime.UtcNow;
