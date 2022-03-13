@@ -14,6 +14,21 @@ namespace ScoreUpdater
 
         public static void Main(string[] args)
         {
+            var uploaded = GetUploadedScores().ToArray();
+
+            var storedScoreFiles = GetStoredScores(uploaded).ToArray();
+
+            var shouldBeUploaded = GetScoresToBeUploaded(uploaded);
+
+            UploadScores(shouldBeUploaded);
+
+            var updatedScoreFiles = GetUpdatedScoreFiles(storedScoreFiles, shouldBeUploaded);
+
+            WriteUpdatedScoreFiles(updatedScoreFiles);
+        }
+
+        private static IEnumerable<ScoreFile> GetUploadedScores()
+        {
             var filePaths = GetFilePaths().ToArray();
 
             Console.WriteLine($"Found {filePaths.Count()} files.");
@@ -26,50 +41,7 @@ namespace ScoreUpdater
 
             Console.WriteLine($"{uploaded.Count()} uploaded files.");
 
-            var storedScoreFiles = Utils.XmlDeserializeFile<ScoreFile[]>("ScoreFiles.xml");
-
-            foreach (var storedScoreFile in storedScoreFiles)
-            {
-                var uploadedScoreFile = uploaded.FirstOrDefault(x => x.FilePath == storedScoreFile.FilePath);
-
-                if (uploadedScoreFile != null)
-                {
-                    uploadedScoreFile.UploadDate = storedScoreFile.UploadDate;
-                }
-            }
-
-            var shouldBeUploaded = uploaded.Where(x => ShouldBeUploaded(x)).ToArray();
-
-            Console.WriteLine($"{shouldBeUploaded.Count()} files to be uploaded.");
-
-            int index = 0;
-
-            foreach (var up in shouldBeUploaded)
-            {
-                index++;
-                Console.WriteLine($"({index}/{shouldBeUploaded.Count()}) Uploading '{up.FilePath}'...");
-                Upload(up);
-            }
-
-            var updatedScoreFiles = new List<ScoreFile>(storedScoreFiles);
-
-            foreach (var upd in shouldBeUploaded)
-            {
-                var score = storedScoreFiles.FirstOrDefault(x => x.FilePath == upd.FilePath);
-
-                if (score == null)
-                {
-                    updatedScoreFiles.Add(upd);
-                }
-                else
-                {
-                    score.UploadDate = upd.UploadDate;
-                }
-            }
-
-            string xml = Utils.XmlSerializeUtf8(updatedScoreFiles);
-
-            File.WriteAllText("ScoreFiles.xml", xml);
+            return uploaded;
         }
 
         private static IEnumerable<string> GetFilePaths()
@@ -100,6 +72,46 @@ namespace ScoreUpdater
             var filePaths = Directory.GetFiles(path, "*.mscx", enumerationOptions).Where(x => !x.Contains("downloaded")).OrderBy(x => x);
 
             return filePaths;
+        }
+
+        private static IEnumerable<ScoreFile> GetStoredScores(IEnumerable<ScoreFile> uploaded)
+        {
+            var storedScoreFiles = Utils.XmlDeserializeFile<ScoreFile[]>("ScoreFiles.xml");
+
+            foreach (var storedScoreFile in storedScoreFiles)
+            {
+                var uploadedScoreFile = uploaded.FirstOrDefault(x => x.FilePath == storedScoreFile.FilePath);
+
+                if (uploadedScoreFile != null)
+                {
+                    uploadedScoreFile.UploadDate = storedScoreFile.UploadDate;
+                }
+            }
+
+            return storedScoreFiles;
+        }
+
+        private static IEnumerable<ScoreFile> GetScoresToBeUploaded(IEnumerable<ScoreFile> uploaded)
+        {
+            var shouldBeUploaded = uploaded.Where(x => ShouldBeUploaded(x)).ToArray();
+
+            Console.WriteLine($"{shouldBeUploaded.Count()} files to be uploaded:");
+
+            shouldBeUploaded.ToList().ForEach(x => Console.WriteLine(x.FilePath));
+
+            return shouldBeUploaded;
+        }
+
+        private static void UploadScores(IEnumerable<ScoreFile> shouldBeUploaded)
+        {
+            int index = 0;
+
+            foreach (var up in shouldBeUploaded)
+            {
+                index++;
+                Console.WriteLine($"({index}/{shouldBeUploaded.Count()}) Uploading '{up.FilePath}'...");
+                Upload(up);
+            }
         }
 
         private static ScoreFile? GetScoreFile(string filePath)
@@ -137,7 +149,6 @@ namespace ScoreUpdater
 
             return shouldBeUploaded;
         }
-
 
         private static void Upload(ScoreFile scoreFile)
         {
@@ -178,6 +189,35 @@ namespace ScoreUpdater
             {
                 Console.WriteLine(exception);
             }
+        }
+
+        private static IEnumerable<ScoreFile> GetUpdatedScoreFiles(IEnumerable<ScoreFile> storedScoreFiles, IEnumerable<ScoreFile> shouldBeUploaded)
+        {
+            var updatedScoreFiles = new List<ScoreFile>(storedScoreFiles);
+
+            foreach (var upd in shouldBeUploaded)
+            {
+                var score = storedScoreFiles.FirstOrDefault(x => x.FilePath == upd.FilePath);
+
+                if (score == null)
+                {
+                    updatedScoreFiles.Add(upd);
+                }
+                else
+                {
+                    score.UploadDate = upd.UploadDate;
+                }
+            }
+
+            return updatedScoreFiles;
+        }
+
+        private static void WriteUpdatedScoreFiles(IEnumerable<ScoreFile> updatedScoreFiles)
+        {
+            string xml = Utils.XmlSerializeUtf8(updatedScoreFiles.ToArray());
+
+            File.WriteAllText("ScoreFiles.xml", xml);
+
         }
     }
 }
