@@ -1038,6 +1038,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Én elmentem a kocsmába magamat mulatni,
+Utánam jött kisangyalom hazapirongatni.
+Muzsikának szép a hangja, kisangyalom, gyere haza,
+De csak úgy, ha lehet, de csak úgy, ha lehet!
+
+Gyere haza édes párom, gyere, szépen kérlek,
+Vacsorával, vetett ággyal várlak haza téged!
+Muzsikának szép a hangja, ej, te asszony, menj el haza,
+Addig, míg ki nem kapsz, addig, míg ki nem kapsz!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

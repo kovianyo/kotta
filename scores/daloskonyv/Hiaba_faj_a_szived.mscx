@@ -717,6 +717,18 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hiába fáj a szíved, a szíved,
+Úgysem leszek a tied, a tied,
+Inkább leszek a másé, a másé,
+Azé a szép barnáé, barnáé.
+
+Ná-ná..</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

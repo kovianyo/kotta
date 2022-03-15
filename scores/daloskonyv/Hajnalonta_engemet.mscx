@@ -981,6 +981,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hajnalonta engemet
+gerle-galamb költöget:
+jó reggelt,
+jó reggelt,
+mindenki már rég fölkelt.
+
+Rá a rigó: föl bizony,
+gyöngyös harmatot iszom,
+hű de jó,
+hű de jó,
+harmaton él a rigó!
+
+Cserepén a verebek
+kenik-fenik csőrüket:
+csiri-csűr,
+csiri-csűr,
+csak így telik meg a csűr.
+
+De a szarka rájuk reccsen,
+hogy egy kicsit csendesebben:
+csöndesen,
+csöndesen,
+nem süket itt senki sem!
+
+Túl a vizen valahol
+kakukkmadár kakukkol,
+kakukk szól,
+kakukk szól,
+túl a vizen valahol.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

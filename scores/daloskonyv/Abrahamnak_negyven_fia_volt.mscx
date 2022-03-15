@@ -496,6 +496,15 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ábrahámnak negyven fia volt, negyven fia volt Ábrahámnak,
+Enni nem kapott, inni nem tudott, 
+És folyton így dalolt, hogy Ábrahámnak...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

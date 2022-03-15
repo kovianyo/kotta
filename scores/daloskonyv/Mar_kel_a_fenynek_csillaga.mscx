@@ -541,6 +541,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Már kél a fénynek csillaga,
+Esengve kérjük az Urat,
+Járjon ma mindenütt velünk,
+Ne rontsa ártás életünk!
+
+Nyelvünket fogja fékre ma,
+Ne szóljon rút perek szava,
+Szemünket védőn óvja meg,
+a hívságot ne lássa meg!
+
+Lakjék szívünkben tisztaság,
+Távozzék minden dőreség,
+A testnek dölyfét törje meg
+Étel- s italban hősi fék!
+
+Hogy majd a nap ha távozott,
+S az óra újra éjt hozott,
+Lemondásunk szent éneke
+Legyen az Úr dicsérete!
+
+Dicsérjük az örök Atyát,
+Dicsérjük egyszülött Fiát,
+S a Lelket, a Vigasztalót,
+Most és örök időkön át!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

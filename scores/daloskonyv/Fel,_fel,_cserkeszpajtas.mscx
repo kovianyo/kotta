@@ -1139,6 +1139,25 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fel, fel, cserkészpajtás,
+Fel, fel, cserkészpajtás,
+Fel a magas hegyre!
+
+Szedjünk kék ibolyát,
+Szedjünk kék ibolyát,
+A zöld nyakkendőre!
+
+Jó a cserkész dolga,
+Nincsen semmi gondja.
+Hogyha megéhezik,
+Hogyha megszomjazik,
+A hát'zsákját kibontja.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -522,6 +522,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kerek erdő szélén,
+Egy kis házikóban
+Lakik egy cowboy, cowboy,
+A neve Bill.
+
+Volt egy kis csikója,
+Szépen legelészett,
+Eközben Bill lassan főzte
+A teát.
+
+Ravasz kis indián,
+Tollal a fejében,
+Ellopta a kis csikót
+Meg a teát.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

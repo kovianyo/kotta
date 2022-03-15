@@ -866,6 +866,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ősszel érik, babám, a fekete szőlő,
+Te voltál az igazi szerető,
+Bocsásd meg, ha vala-valaha vétettem,
+Ellenedre, babám, rosszat cselekedtem.
+
+Jaj, de szépen zöldell a rimóci határ,
+Közepibe legel egy kis bárány.
+Közepibe gyöngyen legel egy kis bárány,
+Jaj, de csinos, büszke a rimóci kislány!
+
+Kinek varrod babám azt a hímzett kendőt?
+- Neked varrom, hogy legyél szeretőm.
+Négy sarkába négy szál fehér rozmaringot,
+Közepibe, babám, hogy szeretőd vagyok.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

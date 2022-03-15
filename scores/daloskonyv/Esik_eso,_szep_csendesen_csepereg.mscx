@@ -750,6 +750,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Esik eső, szép csendesen csepereg,
+Rózsa Sándor a kocsmába' kesereg.
+&amp;quot;- Kocsmárosné, bort hozzon az asztalra,
+Legszebb lányát állítsa ki strázsára!&amp;quot;
+
+&amp;quot;- Édesanyám, strázsakislány nem leszek,
+Amott jönnek a fegyveres vitézek!&amp;quot;
+Rózsa Sándor sem vette ezt tréfára,
+Fölkapott az aranyszőrű lovára.
+
+Lova, lova, lova viszi messzire,
+Egyenest a kerek erdő mélyébe,
+Lova lába megbotlott egy gödörbe',
+Így veszett el Rózsa Sándor örökre.
+
+Rózsa Sándort föltették a szekérre,
+Úgy vitték a városbíró elébe,
+Városbíró, üzeni a kapitány:
+&amp;quot;- Rózsa Sándor, nem ül többet paripán.&amp;quot;
+
+Rózsa Sándor meghagyta azt levélbe',
+Két gyermekét neveljék föl nevében,
+Se csikósnak, se bojtárnak ne adják,
+Ők is csak a betyárságot tanulják!
+
+&amp;quot;- Édesanyám csikós leszek, nem bojtár,
+Bévágtatom az alföldi nagy rónát,
+Fölnyergelem almásderes lovamat,
+Lerúgatom véle a csillagokat.&amp;quot;</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

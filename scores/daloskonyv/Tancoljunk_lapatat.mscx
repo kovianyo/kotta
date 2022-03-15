@@ -476,6 +476,14 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Táncoljunk lapatát, lapatát, lapatát,
+Táncoljunk lapatát, ez a legjobb tánc!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

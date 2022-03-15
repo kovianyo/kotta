@@ -666,6 +666,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kerek a káposzta, csipkés a levele,
+Akinek nincs párja, jöjjön táncba vélem!
+Hervadok, búsulok, nincsen párom nékem,
+Leányok, virágok, ki jön táncba vélem?</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -531,6 +531,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megrakják a tüzet,
+Mégis elaluszik,
+Nincs az a szerelem,
+Aki el nem múlik.
+
+Rakd meg babám, rakd meg
+Lobogó tüzedet,
+Hadd melegítsem meg
+Gyönge kezeimet!
+
+Szól a kakukkmadár,
+Talán megvirrad már,
+Isten veled, rózsám,
+Magad maradsz immár.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

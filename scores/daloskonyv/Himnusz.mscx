@@ -1040,6 +1040,20 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Isten, áldd meg a magyart
+Jó kedvvel, bőséggel,
+Nyújts feléje védő kart,
+Ha küzd ellenséggel;
+Bal sors akit régen tép,
+Hozz rá víg esztendőt,
+Megbűnhődte már e nép
+A múltat s jövendőt!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

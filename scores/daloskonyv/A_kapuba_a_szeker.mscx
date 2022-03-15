@@ -909,6 +909,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A kapuba' a szekér, 
+Itt a legény, leányt kér,
+De a leány azt mondja, 
+Nem megyek férjhez soha!
+
+Párnahaja szövetlen, 
+Derékalja tő'tetlen,
+A tolluja a tóba', 
+A vadréce hordozza.
+
+Örömanya jöjjön ki, 
+A kapuját nyissa ki,
+Eressze be a vejét, 
+A lánya szeretőjét.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

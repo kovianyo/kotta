@@ -966,6 +966,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Csend van a faluban, alusznak a lányok,
+Csak egy kis ablakban égnek a pilácsok.
+Barna kislány levelet ír messze, idegen országba,
+Huszár szeretőjét hívja szabadságra.
+
+Mikor kicsi a lány, a babával játszik,
+Mikor növekedik, a huszár után vágyik,
+Gondja van a szép ruhára, meg a büszke járására,
+Csókot ad a kislány a huszár ajakára.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

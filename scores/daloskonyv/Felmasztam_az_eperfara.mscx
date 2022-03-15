@@ -787,6 +787,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Felmásztam az eperfára,
+Beakadt a gatyám szára,
+Gyere, rózsám, azt a rézangyalát,
+Akaszd ki a gatyám szárát!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -582,6 +582,58 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hej, rozmaring, rozmaring,
+Leszakadt rólam az ing.
+Van már nékem kedvesem,
+Ki megvarrja az ingem.
+
+Hej, rezeda, rezeda,
+Karcsú a lány dereka.
+Ha karcsú is, illeti,
+Barna legény szereti.
+
+Hej, kendermag, kendermag,
+Jaj, de büszke legény vagy!
+Mit ér a büszkeséged,
+Ha nincs szép feleséged?
+
+Hej, szegfűszeg, szegfűszeg,
+A legénynek nem hiszek,
+Mert a legény lánycsaló,
+Akasztófára való.
+
+Hej, kiskatlan, kiskatlan,
+Benne a sok mosatlan.
+Mosd el, kislány, az edényt,
+Úgy öleld meg a legényt!
+
+Hej, dombérom, dombérom,
+Ásatlan a kompérom.
+Ki sem ásatom soha,
+Mer' a babám mostoha.
+
+Hej, dom, dom, dom, dom, dom, dom,
+Tapogasd meg a combom!
+Tapogasd meg a combom,
+Még anyámnak se mondom.
+
+Hej tulipán, tulipán,
+Lányoké a mennyország,
+Magas a csipkebokor,
+Legényeké a pokol.
+Legényekkel van tele,
+Lányok nem férnek bele.
+
+Hej, Budavár, Budavár,
+de sok legény megcsalt már!
+Ha még ez az egy megcsal,
+megátkozom, hogy meghal.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -863,6 +863,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az én rácsos kapum sárgára van festve,
+Oda jár a babám minden áldott este.
+Lovát itatgatja, magát csinosítja,
+A picike száját a csókra igazítja!
+
+Rózsám, a szemedért mit nem cselekednék,
+Dunából a vizet kanállal kimerném!
+Annak a medréből igazgyöngyöt szednék,
+Az én kedves rózsámnak azzal kedveskednék.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

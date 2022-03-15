@@ -743,6 +743,26 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hármat tojott a fekete kánya,
+engem szeret a kend barna lánya.
+Kikityembe, kukutyomba,
+gyere, rózsám a kocsimba!
+
+Nem megyek én a kend kocsijába,
+nem kell nékem a kend barna lánya.
+Kikityembe, kukutyomba,
+gyere, rózsám a kocsimba!
+
+Akármilyen szegény legény vagyok,
+a kend lánya szeretője vagyok.
+Kikityembe, kukutyomba,
+gyere, rózsám a kocsimba!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -1127,6 +1127,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fehér kapcát igazán, fehér kapcát nem húznék a lábamra,
+Vidéki lányt igazán, vidéki lányt nem hoznék a falumba.
+Verd meg, Isten, azt a jó édesanyát,
+Ki vidékről igazán, ki vidékről házasítja a fiát!
+
+Fájhat annak igazán, fájhat annak a kislánynak a feje,
+Kinek megházasodott, kinek megházasodott a kedvese.
+Lám, az enyém meg es házasodott, mégse fáj,
+Mert tudom, nálam igazán, tudom, nálam szebb szeretőt nem talál.
+
+Piros alma kigurult, piros alma kigurult a kosárból,
+Nincsen, aki felvegye, nincsen aki megtörölje a sártól.
+Én felvettem, megtöröltem a sártól, a sártól,
+Kérek csókot, kapok is, akár háromszázat is a babámtól.
+
+Zöld erdőben de magas, zöld erdőben de magas a juharfa,
+Kicsiny madár a fészkét, kicsiny madár a fészkét odarakja.
+Az erdei dalos madárnak is van párja, van párja,
+Csak én magam egyedül, csak én magam egyedül vagyok árva.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

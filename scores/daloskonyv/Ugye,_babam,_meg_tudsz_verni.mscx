@@ -732,6 +732,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ugye, babám, meg tudsz verni,
+De egy szoknyát nem tudsz venni?
+Egyet vettél, azt is bánod,
+Holtig a szememre hányod.
+
+Ugye, babám, jobb az ágyon,
+Mint a fekete subámon?
+Meg kell az asszonyt becsülni,
+Ölben kell az ágyba vinni!
+
+Édesanyám lánya voltam,
+Míg szeretőt nem tartottam,
+Mióta szeretőt tartok,
+Édesanyám megátkozott.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

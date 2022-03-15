@@ -532,6 +532,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hogyha szél fúj, hogyha ég zeng, hogyha szél fúj, mellettem,
+Hogyha szél fúj, hogyha ég zeng, hogyha szél fúj, mellettem,
+Ő erős, én gyenge vagyok, erős karjában bízhatok,
+Hogyha szél fúj, hogyha ég zeng, hogyha szél fúj, mellettem.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

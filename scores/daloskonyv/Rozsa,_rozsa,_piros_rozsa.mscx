@@ -623,6 +623,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>rózsa, rózsa, piros rózsa,
+nem leszek szerelmes soha!
+láncot verek a szívemre,
+megmutatom, bírok véle.
+
+este elalszik a lámpa,
+nagy szerelem van a lányba',
+de még nagyobb a legénybe',
+bátran ölel a sötétbe'.
+
+énrám, anyám, ne neheztelj,
+mert nékem csak ez az egy kell,
+ha tiltod a válásomat,
+ásd meg, anyám, a síromat!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

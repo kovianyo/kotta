@@ -657,6 +657,18 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kicsi kis kocsijával a friss csemegés
+Csacsikája csodára siet.
+Nincs akadály, jön a gát-gát-gát-gát,
+Holtra loholta magát-gát-gát.
+Kicsi kis kocsijával a friss csemegés
+Csacsikája csodára siet.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

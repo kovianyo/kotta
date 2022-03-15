@@ -773,6 +773,26 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Édesanyám, most vagyok szép időbe',
+Most vagyok a tizenhatodik évbe',
+Kár volna még engemet férjhez adni,
+Rózsa helyett bimbót leszakasztani.
+
+Fekete tyúk mind megette a meggyet,
+De semmire való leányt szeretek!
+Mit bánom én, ha semmire való is,
+Semmire való vagyok én magam is.
+
+Komámasszony eresszen föl az ágyra,
+Hadd tegyem a jobb kezem a farára!
+Nem csinálok semmi gorombaságot,
+Éjfél után megoldom a gatyámat.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

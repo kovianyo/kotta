@@ -694,6 +694,47 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Erdő, erdő, kerek erdő,
+De szép madár lakja, kettő,
+Kék a lába, zöld a szárnya,
+Piros a rózsám orcája.
+
+Olyan piros, mint a vér,
+Tőlem gyakran csókot kér,
+De én bizony nem adok,
+Inkább jól megátkozlak.
+
+Kilenc fiad néma legyen,
+A tizedik leány legyen,
+Az is olyan csalfa legyen,
+Ország-világ híre legyen!
+
+Kinek nem jó itt lent lakni,
+Menjen mennyországba lakni,
+Építsen az égre házat,
+Ott nem éri semmi bánat.
+
+Építsen az ég szélére,
+Ott nem éri semmiféle,
+Építsen az égre házat,
+Ott nem éri semmi bánat.
+
+Kinek nincsen szeretője,
+Menjen ki a zöld erdőre,
+Írja fel egy falevélre,
+Néki nincsen szeretője.
+
+Szeress, szeress, 
+csak nézd, hogy kit,
+Mer' a szerelem megvakít,
+Engemet is megvakított,
+örökre megszomoríott.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

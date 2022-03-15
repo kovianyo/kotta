@@ -702,6 +702,15 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Köszönjük Néked, ó, jó Urunk,
+hogy ételt s italt adtál nekünk,
+Áldd meg a mi mindennapi kenyerünk! Ámen.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

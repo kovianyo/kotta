@@ -1178,6 +1178,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Főzhetsz, melegíthetsz bennem éppen eleget,
+Mert a fenekem átengedi a meleget,
+És ha nem tudnád még a nevemet: a nevem alumínium edény!
+
+Al\textsubscript{2}O\textsubscript{3} \textperiodcentered XH\textsubscript{2}O, ezt tudja minden jólnevelt bauxitkutató!
+Főzhetsz, melegíthetsz bennem éppen eleget,
+Mert a fenekem átengedi a meleget,
+És ha nem tudnád még a nevemet: 
+a nevem alumíniumedény, ez tény!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

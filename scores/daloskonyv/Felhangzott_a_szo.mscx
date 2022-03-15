@@ -1005,6 +1005,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Felhangzott a szó, zeng az induló,
+Győztesek megint régi zászlaink.
+Nézd, a gúnyhatár, eltiporva már,
+Várnak újra mind, hősi bérceink.
+
+Édes Erdély, itt vagyunk,
+Érted élünk és halunk,
+Győz a szittya fergeteg,
+A rohanó sereg.
+
+Lépteink nyomán, fenn a Hargitán,
+Völgyeinkben lenn, tornyok hangja zeng.
+Már semerre sincs az átkozott bilincs,
+Énekeljetek, völgyek és hegyek!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

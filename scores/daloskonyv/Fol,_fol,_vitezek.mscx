@@ -732,6 +732,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Föl, föl, vitézek, a csatára,
+A szent szabadság oltalmára!
+Édes hazánkért hősi vérünk
+Ontjuk, hullajtjuk nagy bátran, míg élünk!
+
+Föl, föl, látjátok lobogómat,
+Indulj utánam, robogó had!
+Zeng-dörg az ágyú, csattog a kard,
+Ez lelkesíti csatára a magyart!
+
+Híres Komárom be van véve,
+Klapka György a fővezére.
+Büszkén kiáll a csatatérre:
+Hajrá, huszárok, utánam, előre!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

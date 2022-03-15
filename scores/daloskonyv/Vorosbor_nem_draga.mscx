@@ -692,6 +692,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Vörösbor nem drága,
+Húsz krajcár az ára.
+Hozz, korcsmáros, még egy meszölyt,
+Hadd mulassak hetven versőlyt,
+Majd azután elmegyek.
+
+Ne menj el angyalom,
+Van még egy forintom.
+Szövésemmel, fonásommal pótolgattam,
+Azt is a számodra hagytam.
+Mulasd el, nem bánom!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

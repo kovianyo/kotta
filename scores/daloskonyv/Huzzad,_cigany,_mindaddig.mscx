@@ -923,6 +923,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Húzzad, cigány, mindaddig, mindaddig, de mindaddig,
+Míg a pendely langallik, de langallik.
+Húzzad cigány mindaddig, ej de mindaddig,
+Míg a pendely langallik, de langallik.
+
+Gyere, rózsám, gyere már, gyere ide, gyere már,
+Mer' a szívem téged vár, de téged vár!
+Téged óhajt, téged vár, ej, de téged vár,
+Míg a nap az egen jár, az egen jár.
+
+Gyere, rózsám, gyere itt, gyere ide, gyere itt,
+Hadd mondok én valamit, de valamit!
+Nem mondok én egyebet, ej, de egyebet,
+Csak hogy szeress engemet, de engemet!
+
+Hegy mögött a szakadék, hegy mögött a szakadék,
+Véled összeakadék, de akadék,
+Ha megunom magamat, ej, de magamat,
+Kitöröm a nyakamat, a nyakamat.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

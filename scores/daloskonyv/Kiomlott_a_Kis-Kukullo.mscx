@@ -788,6 +788,32 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kiöntött a Kis-Küküllő,
+Kiöntött a Nagy-Küküllő
+A rétre, de a rétre,
+Valamennyi szőke kislányt,
+Valamennyi barna kislányt
+Elvitte.
+
+Fogja ki hát minden legény,
+Fogja ki a magáét, 
+A magáét, a magáét,
+Ne szeresse soha senki,
+Ne csókolja soha senki
+A másét!
+
+Irigyeim mennyin vannak,
+Mint a kutyák, úgy ugatnak,
+Ugatnak, de ugatnak,
+Adok nekik tejet, vajat,
+Hadd ugassák ki magukat,
+Csuhajja!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

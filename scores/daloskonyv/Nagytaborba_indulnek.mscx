@@ -1102,6 +1102,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nagytáborba indulnék, nem bírja a hátam:
+Mindent összepakoltam, amit csak találtam.
+Hej, édes-kedves zsákocskám, én csak attól félek - mitől, te? -
+Hogy összenyomsz, és kiszáll belőlem a lélek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

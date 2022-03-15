@@ -1277,6 +1277,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ki tudja merre, merre visz a végzet,
+Göröngyös úton, sötét éjjelen.
+Vezesd még egyszer győzelemre néped,
+Csaba királyfi, csillagösvényen.
+
+Maroknyi székely porlik, mint a szikla,
+Népek harcának zajló tengerén.
+Fejünk az ár, jaj, százszor elborítja,
+Ne hagyd elveszni Erdélyt, Istenünk! 
+
+Ameddig élünk, magyar ajkú népek,
+Megtörni lelkünk nem lehet soha.
+Szülessünk bárhol, földünk bármely pontján,
+Legyen a sorsunk jó vagy mostoha.
+
+Keserves múltunk, évezredes balsors:
+Tatár, s török dúlt, labanc rabigált.
+Jussunk e honban, magyar Székelyföldön,
+Szabad hazában élni boldogan.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

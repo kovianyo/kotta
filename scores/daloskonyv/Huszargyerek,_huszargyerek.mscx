@@ -1017,6 +1017,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Huszárgyerek, huszárgyerek szereti a táncot,
+Az oldalán, az oldalán csörgeti a kardot,
+Ha csörgeti, hadd csörgesse, pengjen sarkantyúja,
+Kossuth Lajos verbunkja a muzsikáltatója.
+
+Falu végén, falu végén szépen muzsikálnak,
+Oda hívnak engemet is magyar katonának,
+Be is állok a verbunkba, ha már verbuválnak,
+Elmegyek a pajtásimmal vitéz regrutának.
+
+Szép a huszár, szép a huszár, felül a lovára,
+Arany mente a hátára, kard az oldalára,
+Virágcsokor a csákóján, úgy megy a csatába,
+Ne sírj, rózsám, megtérek még a szabad hazába.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

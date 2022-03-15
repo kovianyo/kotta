@@ -868,6 +868,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Leégett, leégett a szénaboglya teteje,
+Gólyamadár, sej-haj, fészket rakott belőle,
+Gólyamadár, sej-haj, szépen kelepel az háztetőn,
+Elhagyott, nem szeret engemet a szeretőm.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

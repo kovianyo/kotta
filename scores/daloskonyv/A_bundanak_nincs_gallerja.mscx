@@ -758,6 +758,27 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A bundának nincs gallérja, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda.
+
+Kifordítom, befordítom, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda.
+
+Ha megázik is a bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda.
+
+Hogyha rongyos is a bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda,
+Ihaj, bunda, csuhaj, bunda, mégis bunda a bunda.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

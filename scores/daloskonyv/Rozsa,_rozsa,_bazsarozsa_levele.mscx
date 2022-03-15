@@ -1115,6 +1115,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Rózsa, rózsa, bazsarózsa levele,
+Csak egy legényt neveltek a kedvemre,
+Azt is azért nevelték a kedvemre:
+Kék a szeme, göndör haja fekete.
+
+Alig várom, hogy a nap lenyugodjon,
+Hogy az égen páros csillag ragyogjon,
+Ragyogj csillag, páros csillag sokáig,
+Kísérj el a galambom kapujáig!
+
+Csillag, csillag, páros csillag az égen,
+Nem láttad-e a rózsámat a héten?
+Láttam bíz én a rozmaringerdőben,
+Sárga tearózsa nyílott ki a kezében.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

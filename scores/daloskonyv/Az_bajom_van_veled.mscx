@@ -890,6 +890,51 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az bajom van véled,
+Fáj a szívem érted.
+Fáj a szívem érted,
+Majd' meghalok érted!
+
+Indulj el egy úton,
+Én is egy másikon,
+Hol egymást találjuk,
+Egymásnak se szóljuk!
+
+Aki minket meglát,
+Mit fog az mondani?
+Azt fogja gondolni,
+Idegenek vagyunk.
+
+Idegenek vagyunk,
+Szeretet tartunk.
+Ahol összejövünk,
+Ketten szeretkezünk.
+
+Te túl, rózsám, te túl-
+világnak erdején,
+De én jóval innet, 
+bánatnak mezején.
+
+Vékony a pókháló, 
+az is megtart engem,
+Még egy hajszálon is 
+hozzád rángatsz engem.
+
+Az bajom van véled, 
+sír a szívem értem,
+Sír a szívem érted, 
+majd' meghalok érted!
+
+Vagy meghalok érted,
+vagy enyémmé teszlek,
+Vagy piros véremmel
+földet festek érted.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

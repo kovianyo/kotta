@@ -1551,6 +1551,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szél viszi messze a fellegeket,
+Felette lángol az ég.
+Nyújtsd ide, édes, a kis kezedet,
+Ki tudja, látlak-e még?
+
+Ki tudja, ölel-e a két karom,
+Ki tudja, csókol-e szád, galambom,
+Ki tudja, mely napon, mely hajnalon
+Indul a század tovább. - Add tovább!
+
+Bármerre járok, a csillagos ég
+Nevetve tekint le rám.
+Bármerre járok a föld kerekén,
+Mindenütt te nézel rám.
+
+Járhatok síkon vagy a hegyek tetején,
+Süvíthet száz zivatar, galambom,
+Szívemnek te vagy az örök remény,
+Tehozzád száll ez a dal.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

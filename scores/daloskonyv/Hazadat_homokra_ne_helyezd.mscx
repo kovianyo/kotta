@@ -879,6 +879,17 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házadat homokra ne helyezd, folyó se legyen közel!
+Lehet kellemes a hely, de ha így építkezel,
+félek, kezdheted majd még egyszer!
+Inkább a sziklán jobb fenn a ház, legyen a szilárd kőalapon erős váz!
+Szél fúj, zúg az ár, fenn a béke Istene vár!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

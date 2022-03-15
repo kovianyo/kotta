@@ -1464,6 +1464,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Erdő, erdő, erdő, marosszéki kerek erdő,
+Madár lakik abban, madár lakik tizenkettő.
+Cukrot adnék annak a madárnak, dalolja ki nevét a babámnak,
+csárdás kisangyalom, érted fáj a szívem nagyon!
+
+Búza, búza, búza, de szép tábla búza,
+Annak közepében kinyílott a rózsa.
+Tüskés annak minden ága, nem állja a madár lába,
+Csárdás kisangyalom, katonahíredet hallom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

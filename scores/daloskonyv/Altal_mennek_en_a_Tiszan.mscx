@@ -887,6 +887,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Által mennék én a Tiszán ladikon, ladikon, de ladikon,
+Ott lakik a, ott lakik a galambom, ott lakik a galambom.
+Ott lakik a városban, a harmadik utcában, utcában,
+piros rózsa, kék nefelejcs, ibolya virít az ablakában.
+
+Által mennék én a Tiszán, nem merek, nem merek, de nem merek,
+Attól félek, hogy a Tiszába esek, hogy a Tiszába esek.
+Lovam hátán, sejehaj, félre fordul a nyereg, nyereg,
+a Tiszának habjai közt elveszek, a babámé nem leszek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -567,6 +567,19 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Te hívsz meg minket a lakomára,
+Az együttlétért Tied a hála,
+Mert úgy szerettél, emberré lettél,
+Kenyeret adtál, velünk is ettél. Ámen.
+
+Dicséret, hála, jó Atyánk, Néked,
+Kenyerünk Krisztus, erőnk a Lélek. Ámen.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

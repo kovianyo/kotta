@@ -803,6 +803,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az én zubbonyomra tíz gomb van felvarrva,
+Tíz gomb van felvarrva az én zubbonyomra.
+Ha nincs rajta tíz gomb, az nem az én zubbonyom, mert
+Az én zubbonyomra tíz gomb van felvarrva.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

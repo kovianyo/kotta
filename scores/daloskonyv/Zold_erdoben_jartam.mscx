@@ -608,6 +608,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Zöld erdőben jártam,
+Virágok között.
+Ott láttam egy törpét, 
+Szalonnát sütött.
+
+Mondtam neki, hogy
+Adj egy falatot,
+Erre a kis törpe
+Fityiszt mutatott!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

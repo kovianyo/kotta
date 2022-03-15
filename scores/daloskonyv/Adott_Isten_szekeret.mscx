@@ -533,6 +533,32 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Adott Isten szekeret,
+Szekeremnek kereket,
+Üvegemnek feneket,
+Abból iszom eleget.
+Üvegemnek feneket,
+Abból iszom eleget.
+
+A doktor is azt mondta,
+Vizet ne igyak soha,
+Mert a vízben béka van,
+Életemnek vége van.
+Bort iszom én, nem vizet,
+Az vidámít engemet.
+
+Adjon Isten minden jót,
+Diófából koporsót,
+Boszorkánynak lapátot,
+Vak koldusnak kabátot.
+Vénasszonynak meszelőt,
+Énnekem hű szeretőt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

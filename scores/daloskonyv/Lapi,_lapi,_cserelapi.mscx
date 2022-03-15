@@ -646,6 +646,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Lapi, lapi, cserelapi,
+Gyere, Kati, hozzánk lakni,
+Ha nem jössz te hozzánk lakni,
+Száradjál el, mint a lapi!
+
+Minta, minta, fodorminta,
+Elégett a palacsinta,
+Ha elégett, sütünk-e mást,
+Szeretőt is keresünk mást.
+
+Gyere, babám, a ház megé,
+Hadd nézzek a szemed közé,
+Máma egyszer, holnap kétszer,
+Holnapután hetvenhétszer.
+
+Ha tudtad, hogy nem szerettél,
+Házadhoz mér' kerítettél,
+Hagytál volna békét nékem,
+Más is elvett volna engem.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

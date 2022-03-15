@@ -1081,6 +1081,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Látod-e, babám, látod-e, babám, amott azt a nagy hegyet?
+Míg azt látod, míg azt látod, én a tied nem leszek!
+Azt a hegyet a zsebkendőmnek a négy sarkában is elhordom,
+Mégis az enyém, mégis az enyém leszel, édes galambom.
+
+Látod-e, babám, látod-e, babám, amott azt a nagy vizet?
+Míg azt látod, míg azt látod, én a tied nem leszek!
+Azt a vizet a kalapomnak a karimáján is elhordom,
+Mégis az enyém, mégis az enyém leszel, édes galambom.
+
+Látod-e, babám, látod-e, babám, amott azt a nagy tüzet?
+Míg azt látod, míg azt látod, én a tied nem leszek!
+Azt a tüzet a két szememnek a könnyeivel is eloltom,
+Mégis az enyém, mégis az enyém leszel, édes galambom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

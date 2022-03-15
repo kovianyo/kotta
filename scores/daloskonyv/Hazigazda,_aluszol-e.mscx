@@ -597,6 +597,27 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házigazda aluszol-e?
+Ily sokáig még nyugszol-e?
+Serkenj fel álmodból, és kelj fel ágyadból,
+Mert jöttünk tehozzád.
+
+Mondd meg, hogy jó szívvel látsz-e?
+Házadba bébocsájtasz-e?
+Mert ha nem, megtérünk,
+Megyünk, honnan jöttünk,
+Más szállást keresünk.
+
+Virradtál neved napjára,
+Óhajtott boldog órádra,
+Kit rég óhajtottál,
+Most reá jutottál víg óráján.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

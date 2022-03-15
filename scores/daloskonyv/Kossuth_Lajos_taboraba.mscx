@@ -621,6 +621,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kossuth Lajos táborába'
+Két szál majoránna,
+Egy szép barna, de magyar huszár,
+Sej, lovát karélyozza.
+
+Ne karélyozz, magyar huszár,
+Mert leesel róla,
+Nincsen itt a te édesanyád,
+Sej, aki megsiratna!
+
+Ne sirasson engem senki,
+Jól vagyok tanítva,
+Sem léptébe, de sem vágtába,
+Sej, le nem esek róla!
+
+Mert a huszár a nyeregbe
+Bele van teremve,
+Mint a rozmaring a jó földbe,
+Sej, belegyökerezve!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

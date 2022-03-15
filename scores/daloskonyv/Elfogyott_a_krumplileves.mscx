@@ -722,6 +722,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elfogyott a krumplileves, kilyukadt a tál,
+A házunkra rászállott a jó gólyamadár,
+Gólya, gólya, hosszú lábú gólyamadár.
+
+Az én apám kecskepásztor, fia vagyok én,
+Ő kergeti a kecskéket, a lányokat én,
+Gólya, gólya, hosszú lábú gólyamadár.
+
+Száz esztendős öregapám most házasodik,
+Összeveri a bokáját, úgy ugrándozik,
+Gólya, gólya, hosszú lábú gólyamadár.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

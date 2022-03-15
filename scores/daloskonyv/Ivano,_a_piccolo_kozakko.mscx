@@ -402,6 +402,13 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ivano, a piccolo kozakko...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

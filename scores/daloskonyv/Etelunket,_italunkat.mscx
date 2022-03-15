@@ -449,6 +449,15 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ételünket, italunkat áldd meg, Istenünk.
+
+Ételünket, italunkat köszönjük, Urunk.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

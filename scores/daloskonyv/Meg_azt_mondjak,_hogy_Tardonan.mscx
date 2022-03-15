@@ -882,6 +882,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Még azt mondják, hogy Tardonán nincsen gémeskút,
+Pedig oda márványkőből visz a gyalogút.
+Arany a kút, réz a rovás, zörög rajta sárga réztányér,
+Meghalok, ha nem leszek a kedves babámé!
+
+Kutyának is van ideje egyet ugatni,
+Még azt mondják, édesanyám, férjhez kell menni.
+Férjhez mennék, édesanyám, édes-kedves, drága jó anyám,
+Öreg vagyok, nem kellek a kutyának se már.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

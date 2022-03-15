@@ -701,6 +701,21 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nyíregyházi kaszárnya, de magos a teteje,
+Ráhajlott a fügefának levele.
+Cserebogár csípd le annak levelét,
+Le ne törje, sejehaj, a rezes csákóm tetejét!
+
+Nyíregyházi kaszárnya sárgára van meszelve,
+Három évet én is eltöltök benne.
+De rá van írva a csákóm oldalára, hogy
+három hónap van még hátra ebb'a komisz ruhába'.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

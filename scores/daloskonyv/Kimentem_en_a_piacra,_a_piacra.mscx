@@ -978,6 +978,30 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kimentem én a piacra, a piacra,
+Ráléptem egy papirosra, papirosra,
+Papirosra, papirosra, papirosra,
+Fáj a szívem a pirosra, a pirosra.
+
+Kimentem én az erdőbe, az erdőbe,
+Ráléptem egy venyigére, venyigére,
+Venyigére, venyigére, venyigére,
+Fáj a szívem a szőkére, a szőkére.
+
+Kimentem én az utcára, az utcára,
+Ráléptem egy szalmaszálra, szalmaszálra,
+Szalmaszálra, szalmaszálra, szalmaszálra,
+Fáj a szívem a barnára, a barnára. 
+
+Bújdosik az árva madár nincsen párja,
+Hát az én bús árva szívem hogy ne fájna.
+Ájná...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

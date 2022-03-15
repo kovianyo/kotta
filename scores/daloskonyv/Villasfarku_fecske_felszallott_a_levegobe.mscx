@@ -1319,6 +1319,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Villásfarkú fecske felszállott a levegőbe,
+Nem láttad-e a régi babámat az este?
+Láttam, biz' én, az inaktelki selyemréten,
+Keselylábú lovát legeltette kötőféken.
+
+Mikor hozzád jártam, babám, mindig álmos voltál,
+Szóltam hozzád, de te mindig elaludtál,
+Már ezután kialuhatod magadat,
+Nem ölelem átal a vékony karcsú derekadat.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

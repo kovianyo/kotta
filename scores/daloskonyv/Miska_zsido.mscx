@@ -587,6 +587,21 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Miska zsidó, Miska zsidó,
+Adjál egy kis pálinkát!
+Miska zsidó, Miska zsidó,
+Adjál egy kis pálinkát!
+
+Ha nem adsz, ha nem adsz,
+Vigyen el a vadmalac!
+Ha nem adsz, ha nem adsz,
+Vigyen el a vadmalac!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

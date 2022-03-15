@@ -787,6 +787,39 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elmentek a cigányok,
+Hogy szalonnát lopjanak.
+
+Ej, ladom-a-dik-dik-dik.
+
+Szegényeket megfogták,
+Majdnem felakasztották.
+
+Ej, ladom-a-dik-dik-dik.
+
+Dáré-dáré, dalamuszidáré, 
+Dikkendáré,
+dalamuszidáré, boldogadáré,
+Hej, ladom-a-dik-dik-dik.
+
+Nem félek én semmitől,
+Csak a fényes tikertől.
+
+Mert, ha belepislantok,
+Egy csúf ördögöt látok.
+
+
+Tegnap éjjel álmomban
+Sült malacokat láttam.
+
+De mire felébredtem,
+Csak a számat tiriltem.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -460,6 +460,13 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Árám-szám-szám...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

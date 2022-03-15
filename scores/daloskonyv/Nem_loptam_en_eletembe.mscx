@@ -979,6 +979,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nem loptam én életembe',
+Csak egy csikót Debrecenbe',
+Mégis rámverték a vasat,
+Babám szíve majd' meghasad.
+
+Mikor mentem hazafelé,
+Három zsandár arrafelé,
+Azt kérdezték, mi a nevem,
+Hol az utazólevelem.
+
+Megállj, zsandár, megmutatom,
+Csak a lajbim kigombolom,
+Előveszem a revolverem,
+Ez az utazólevelem.
+
+Mikor mentem hazafelé,
+Nyílik az ég három felé,
+Ragyognak rám a csillagok,
+Nem tudják, hogy árva vagyok.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

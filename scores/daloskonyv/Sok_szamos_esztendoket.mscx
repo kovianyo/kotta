@@ -950,6 +950,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Sok számos esztendőket vígan megélhess,
+Napjaidat számlálni ne légyen terhes,
+Az ég harmatja szívedet újítsa,
+Áldások árja házad elborítsa!
+
+Tenéked minden öröm holtig adassék,
+Amellé semmi bánat ne barátkozzék,
+Légyen éltednek virága mind kinyílt,
+Szíved ne szenvedjen semmi sebes nyílt!
+
+Míglen az egek várát nyilván szemlélhesd,
+Ott aztán az életed jobbra cserélhesd,
+Az Úr a boldog életben részt adjon,
+A szentek serege körébe fogadjon!
+
+Du sollst viele Jahre noch lustig erleben
+Deine Tage zu zählen, soll dich nicht quälen.
+Der Tau des Himmels erfreue dein Herz,
+Dein Haus voller Segen kenne kein' Schmerz.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

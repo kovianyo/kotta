@@ -833,6 +833,35 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Falu végén van egy ház,
+Falu végén,
+Új idrom-fidrom, gálica-szikszom,
+van egy ház.
+
+Abban lakik - egy asszony.
+
+Van annak egy - szép lánya.
+
+Julcsa annak - a neve.
+
+Sütött Julcsa - pogácsát.
+
+A Pestának - od'adta.
+
+A Pesta azt - megette.
+
+A hideg is - kilelte.
+
+Eltemették a Pestát - a Pestát.
+
+A sírjára ráírták,
+Hogy falu végén van egy ház.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

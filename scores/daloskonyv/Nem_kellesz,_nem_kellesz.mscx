@@ -779,6 +779,15 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nem kellesz, nem kellesz, nem kellesz már,
+Te kellesz, te kellesz, te kellesz már,
+Jobb kezedet, bal kezedet, azután forduljunk egyet!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

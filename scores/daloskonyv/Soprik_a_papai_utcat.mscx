@@ -738,6 +738,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Söprik a pápai utcát,
+Masíroznak a katonák.
+Jaj, de sok szép szőke, barna kislány, barna kislány,
+Sétál a regiment után.
+
+Azt kérdezi a kapitány:
+Hová mész te, barna kislány?
+Mit kérdezi tőlem a kapitány, a kapitány?
+Megyek a szeretőm után.
+
+A szeretőm be van zárva
+A pápai laktanyába.
+Laktanya kapuja szakadjon ki, szakadjon ki,
+Te meg, babám, szabadulj ki!
+
+Söprik a pápai utcát,
+Masíroznak a katonák.
+Száztizenhat éves barna kislány, foga sincs már,
+Sétál a regiment után.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

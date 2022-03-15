@@ -1506,6 +1506,40 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Cserkészek, jó munkára készüljetek, előre!
+
+Fiúk, fel a fejjel, a harsona zeng,
+Álljunk csatasorba vidáman!
+Ránk vár a világ, ez a harc a mienk,
+Katonái vagyunk valahányan!
+Jó fegyverünk izmos karunk,
+Égő szemünk, vidám dalunk!
+Amerre nézünk megterem,
+A győzelem, a győzelem!
+
+Fiúk, fel a fejjel, az óra közel,
+Kel a magyar éjben a hajnal.
+Most kell az erős kar, a férfiú-mell,
+Ezeréves acél-akarattal.
+Zúg, mint a harci trombita:
+A Lomnic és a Hargita,
+Értünk kiált, felénk süvölt
+Az ősi föld, a drága föld.
+
+Szabadba fiúk! A nap arca nevet,
+Ott pezsdül a friss, tüzes élet.
+Járjuk be a mezőt, meg a rengeteget,
+Szabad ott a szabadban a lélek!
+Ott szemben, szívben tiszta láng,
+S az Isten arca néz le ránk.
+Leheletén ott megterem
+Erő, szabadság, győzelem!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

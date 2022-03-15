@@ -1038,6 +1038,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Akkor szép az erdő, mikor zöld,
+Mikor a vadgalamb benne költ,
+Olyan a vadgalamb, mint a lány,
+Sírva sétál a párja után.
+
+Ezt a kerek erdőt járom én,
+Ezt a barna kislányt várom én,
+Ez a barna kislány viola,
+Én vagyok a vigasztalója.
+
+Téged látlak minden álmomban,
+Álmom után minden dolgomban,
+Ha sóhajtok, érted a panasz,
+Ha örülök, érted vagyon az.
+
+Erre gyere, rózsám, nincsen sár,
+Nincsen az ajtómon semmi zár,
+Az ajtómon van egy fakilincs,
+Jaj, Istenem, még szeretőm sincs!
+
+Elvágtam az ujjam, jaj, de fáj,
+Fügefalevelet tettem rá,
+Fügefa levele gyógyítsd meg,
+Gyere, kisangyalom, csókolj meg!
+
+Jaj, de sokat jártam, fáradtam,
+Mikor házasodni akartam,
+Nem találtam kedvemre valót,
+Csak az a szeretőm, aki volt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

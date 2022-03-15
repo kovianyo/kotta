@@ -884,6 +884,25 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Krasznahorka büszke vára, 
+ráborult az éj homálya.
+Magos tornyán az őszi szél 
+rég múlt dicsőségről mesél.
+Rákóczinak dicső kora 
+nem jön vissza többé soha.
+
+Harcosai mind pihennek
+bujdosó fejedelemnek.
+A toronyból késő este
+tárogató nem szól messze.
+Olyan kihalt, olyan árva
+Krasznahorka büszke vára.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

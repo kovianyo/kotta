@@ -367,6 +367,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hold, Hold, fényes lánc, 
+két kapud zárva.
+Nyisd ki kapud, Gergely gazda, 
+vámot adok rajta!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

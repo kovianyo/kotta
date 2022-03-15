@@ -566,6 +566,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házunk előtt nagy fa,
+Száraz ág van rajta,
+Száraz ágról lehullott a levél,
+Madár dalol rajta.
+
+Mindig azt dalolja,
+El kell menni messze,
+El kell menni, kedves kisangyalom,
+Messze idegenbe.
+
+Idegen országba
+Írom a levelem,
+Beleírom mindenféle bajom,
+Szeress, kisangyalom!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

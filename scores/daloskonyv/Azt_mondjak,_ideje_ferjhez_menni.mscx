@@ -931,6 +931,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Azt mondják, ideje férjhez menni,
+Eladnának engemet egy mihasznának,
+Áj-náj ninájná ninánájná-áá,
+Eladnának engemet egy mihasznának.
+
+Mihaszna, naplopó, semmi ember, 
+Éjfélig se' mozdul ki a kocsmából,
+Áj-náj ninájná ninánájná-áá,
+Éjfélig se' mozdul ki a kocsmából.
+
+Amikor hazajön, követelget,
+Ágyacskámnak közepén végigfekszik,
+Áj-náj ninájná ninánájná-áá,
+Ágyacskámnak közepén végigfekszik.
+
+Adok én, adok én italt, ételt,
+Az én kedves, aranyos Ványuskámnak,
+Áj-náj ninájná ninánájná-áá,
+Az én kedves, aranyos Ványuskámnak.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

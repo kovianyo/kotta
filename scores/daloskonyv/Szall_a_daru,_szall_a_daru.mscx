@@ -1058,6 +1058,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Száll a daru, száll a daru
+Magasan a levegőben.
+A vőlegény, a menyasszony
+Most megyen az esküvőre.
+A menyasszony két orcája
+Olyan, mint a piros rózsa.
+Ráillik a, rajta van a,
+Sej-haj, a vőlegény csókja.
+
+Kislány, kislány, piros-barna kislány,
+Kinek varrod a jegykendőd?
+Néked varrom, piros-barna legény,
+Hogy én legyek a szeretőd.
+Varrjál, babám, a négy sarkába
+Négy szál fehér rozmaringot,
+Közepébe, a kellős közepébe,
+Hogy a te szeretőd vagyok.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

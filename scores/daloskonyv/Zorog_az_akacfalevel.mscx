@@ -641,6 +641,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Zörög az akácfa levél,
+Mer' északról fújja a szél.
+Ugyan, babám, hová lettél,
+Már két este el nem jöttél.
+
+Jöttem volna, nem lehetett,
+Mer' az eső nagyon esett.
+Mer' az eső nagyon esett,
+Édesanyám nem eresztett.
+
+Úgy ég a tűz, ha tesznek rá,
+Szól a világ, mit hajtok rá?
+Én is teszek, hadd lobogjon,
+Kutya világ hadd ugasson.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

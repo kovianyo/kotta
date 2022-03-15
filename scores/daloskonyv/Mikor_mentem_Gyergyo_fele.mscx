@@ -830,6 +830,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Mikor mentem Gyergyó felé, Gyergyó felé,
+Fánkot süt'tek az asszonyok arrafelé,
+Kértem tőletek, nem adtatok,
+Szakadjon meg a nyakatok!
+
+Feleségem, feleségem szentléleki,
+Hogy a faranc, hogy a faranc ott rontsa ki,
+Nem adott pénzt pálinkára,
+Sem egy zacskócska dohányra.
+
+Az én uram, az én uram zetelaki,
+Hogy a faranc, hogy a faranc ott rontsa ki,
+Mindig elmén a kocsmába,
+S költi pénzét pálinkára.
+
+Két fekete göndör szőrű csikóm vagyon,
+Még az éjjel, még az éjjel ráhúzatom,
+Ráhúzatom, nem sajnálom,
+Szerettelek, csak azt bánom.
+
+Szeretett a fene soha, fene soha,
+Csak meg voltam véled szokva, véled szokva,
+Úgy meg voltam véled szokva, 
+El se felejtelek soha.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

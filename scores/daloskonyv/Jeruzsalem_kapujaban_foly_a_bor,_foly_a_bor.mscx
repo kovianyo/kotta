@@ -975,6 +975,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jeruzsálem kapujában foly' a bor, foly' a bor,
+Kár annak minden cseppjéért, ha elfoly', ha elfoly',
+Gyere pajtás, tartsunk alá poharat, poharat,
+Itassuk meg azt a szegény szamarat, szamarat!
+
+Kocsmárosné a térdéig szüzecske, szüzecske,
+Térden felül köldökéig menyecske, menyecske,
+Rója rója rovására hány icce, hány icce,
+Csak azt mondja a vendégnek: tíz icce, húsz icce.
+
+Kocsmárosné kápolnája a pince, pince,
+Imádságos könyvecskéje az icce, az icce,
+Rója, rója rovására hány icce, hány icce,
+Csak azt mondja a vendégnek: tíz icce, húsz icce.
+
+Két kis veréb a búzában csiripel, csiripel,
+Két vén banya a konyhában kilipel, kelepel,
+Egyik púpos, másik ragyás: kié lesz, kié lesz,
+Ki a borát meg nem issza, azé lesz, azé lesz.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

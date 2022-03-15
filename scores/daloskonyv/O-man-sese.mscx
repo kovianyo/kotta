@@ -322,6 +322,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ó mán sese,
+sese kore.
+Se koreszá,
+szászá lángá!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -794,6 +794,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Két színe van a legénynek,
+Mint a csöppnyi lepedőnek,
+csuhaja, de csuhaja,
+Három színe van a lánynak,
+Mint a csokros violának, csuhaja.
+
+Irigyeim sokan vannak,
+Mint a kutyák úgy ugatnak,
+csuhaja, de csuhaja,
+Adok nekik tejet, csontot,
+Hadd ugassák ki magukot, csuhaja.
+
+Rég megmondtam a fenének,
+Mennyi legény, mind egye meg,
+csuhaja, de csuhaja,
+Mert a legény leánycsaló,
+Mind akasztófára való, csuhaja.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

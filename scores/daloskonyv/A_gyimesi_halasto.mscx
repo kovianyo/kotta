@@ -904,6 +904,22 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A gyimesi halastó, de halastó,
+Beleestem szekerestő', lovastó'.
+Jaj, Istenem, ki vesz ki, 
+Jaj, de ki vesz ki, ki, ki,
+Sajnál-e még engemet valaki?
+
+Én kiveszlek, galambom, ki, ki, ki,
+Nem hagylak a halastóban elveszni!
+Eladom a jegygyűrűm, meg a jegykendőm,
+Kiváltom a legkedvesebb szeretőm.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

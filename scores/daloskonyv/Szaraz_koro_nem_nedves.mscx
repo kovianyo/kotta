@@ -583,6 +583,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Száraz kóró nem nedves,
+A vénasszony nem rendes,
+Olyan ráncos a bőre,
+Félrehúzódom tőle.
+
+Azt hallottam felőled,
+hogy szajha lett belőled,
+Jó leszel szeretőnek,
+Mást kérek feleségnek.
+
+Apró szárú laboda,
+Nem termettem dologra,
+Lábam termett a táncra,
+Szájam a borivásra.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

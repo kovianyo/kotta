@@ -980,6 +980,26 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Győri kanász a dombon játszik a botjával,
+Ne menj arra, kisleány, megfogja szoknyádat!
+Nem fogja meg a szoknyám, elszaladok tőle, 
+Azér' a kismalacot ellopom mellőle!
+
+Megfújom a furulyám lenn a székedszélen,
+Hallod-e te, angyalkám, hálótanya végen?
+Hallom, kedves angyalkám, nem tehetek róla,
+Gyönyörű szép szavadra nem mehetek oda.
+
+Győri kanász, mit főztél? Tüdőt káposztával.
+Mivel rántottá' reá? Hasa szalonnával.
+Nem kell nékem a kanász, csak a felesége,
+Annak se más egyebe, csak a két szép szeme.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

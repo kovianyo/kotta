@@ -909,6 +909,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Márványkőből, márványkőből van a Tisza feneke,
+Gyenge vagy még, gyenge vagy még, babám, a szerelemre,
+Gyengeséged nem annyira sajnálom,
+Szép vagy, babám, jó vagy, babám, nehéz tőled elválnom!
+
+De szeretnék, de szeretnék a császárral beszélni,
+De még jobban, de még jobban udvarába bemenni,
+Megmondanám a császárnak magának,
+Lányokat is, csuhaj, lányokat is sorozzon be bakának!
+
+De a császár, de a császár azt írta a levélbe,
+Nem illik a, nem illik a csákó a lány fejére,
+Mert a lánynak harminchárom szoknya kell,
+Szoknya mellé, csuhaj, szoknya alá harminckettes baka kell!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

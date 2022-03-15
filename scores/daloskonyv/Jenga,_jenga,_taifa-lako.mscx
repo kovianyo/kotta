@@ -592,6 +592,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jenga, jenga, taifa-lákó,
+Jenga, jenga, taifa-lákó,
+Uszjóne tvákimbia mama jenga,
+tva jenga taifa lékó jenga.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -1337,6 +1337,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Csínom Palkó, Csínom Jankó, csontos karabélyom,
+Szép selymes lódingom, dali pár pisztolyom.
+Nosza, rajta, jó katonák, igyunk egészséggel,
+Menjen táncba ki-ki köztünk az ő jegyesével!
+
+Ne bánkódjék senki köztünk, menjünk az Alföldre,
+Megrontatik kezünk által a labanc ereje.
+Szabad nekünk jó katonák, Duna-Tisza közi,
+Labancságnak mert nincs sehult ottan semmi közi!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

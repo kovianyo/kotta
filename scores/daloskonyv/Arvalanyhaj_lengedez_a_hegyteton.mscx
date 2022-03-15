@@ -1304,6 +1304,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Árvalányhaj lengedez a hegytetőn,
+Árva vagyok, elhagyott a szeretőm.
+Ha elhagyott, hagyjon is el örökre,
+Nem is lehet minden lánynak hat ökre.
+
+Nem szeretem az uramat, nem biz' én,
+Ha kimegyek, ha bemegyek, sírok én,
+Sírok, sírok, siratom a lányságom,
+Siratom a lánykori boldogságom.
+
+Hideg sincsen, mégis befagyott a tó,
+Ihatnék a babám lova, a fakó.
+Gyertek, lányok, tördeljük be a jeget,
+Hadd igyék a babám lova eleget!
+
+Hideg sincsen, mégis befagyott a tó,
+Szeretőm sincs, mégis rólam áll a szó,
+Hát, ha még egy szép szeretőt tartanék,
+Egész falu mind rólam törvénykeznék.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

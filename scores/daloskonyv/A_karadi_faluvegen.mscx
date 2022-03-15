@@ -822,6 +822,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A karádi faluvégen, sej-haj, lululululárom,
+Legényvásár lesz a héten, sej-haj, lululululárom,
+Száz forintért adnak egyet, sej-haj, lululululárom,
+Milyen drága, mégis vesznek, sej-haj, lululululárom.
+
+A karádi faluvégen, sej-haj, lululululárom,
+Leányvásár lesz a héten, sej-haj, lululululárom,
+Sült krumpliért adnak egyet, sej-haj, lululululárom,
+Milyen olcsó, mégsem vesznek, sej-haj, lululululárom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

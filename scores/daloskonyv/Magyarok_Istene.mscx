@@ -742,6 +742,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Magyarok Istene, tekints e szép népre, 
+kik Hozzád sóhajtunk e siralomvölgybe'!
+Szüntesd meg a nagy vérontást, a testvéri viszálykodást,
+Terítsd e szép népre békesség hajnalát!
+
+Sírva és zokogva kérjük fölségedet,
+vond vissza népedről büntető kezedet,
+Áldd meg szegény magyarokat, felejtsék el balsorsukat,
+Szent István királyunk, mutass nekünk utat!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

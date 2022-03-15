@@ -881,6 +881,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Csillagok, csillagok, szépen ragyogjatok,
+A szegénylegénynek utat mutassatok!
+Mutassatok utat a szegénylegénynek,
+Nem találja házát a szeretőjének.
+
+Istenem, Istenem, édes, jó Istenem,
+mikor lesz énnékem szép, szabad életem?
+akkor lesz énnékem szép, szabad életem,
+mikor a babámat kedvemre ölelem.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

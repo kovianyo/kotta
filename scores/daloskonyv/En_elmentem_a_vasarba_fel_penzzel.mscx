@@ -690,6 +690,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Én elmentem a vásárba félpénzzel,
+Tyúkot vettem a vásárban félpénzzel.
+Tyúkom mondja: kit-rá-kotty,
+Kári-kittyom, édes tyúkom,
+Mégis van egy félpénzem.
+
+Én elmentem a vásárba félpénzzel,
+Disznót vettem a vásárban félpénzzel.
+Disznó mondja: röf-röf-röf,
+Tyúkom mondja: kit-rá-kotty,
+Kári-kittyom, édes tyúkom,
+Elfogyott a félpénzem.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

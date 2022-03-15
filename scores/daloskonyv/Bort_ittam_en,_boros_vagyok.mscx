@@ -574,6 +574,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Bort ittam én, boros vagyok,
+Hazamennék, de nem tudok.
+Aki tudja, mért nem mondja:
+Merre van a babám útja?
+
+Erre gyere, amerre én,
+Majd megtudod, hol lakom én.
+Viaszgyertyát égetek én,
+Nem t'om, babám, ölelsz-e még.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

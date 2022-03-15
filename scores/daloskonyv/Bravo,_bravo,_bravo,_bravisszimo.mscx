@@ -1048,6 +1048,17 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Bravó, bravó, bravó, bravisszimó,
+Bravó, bravó, bravisszimó!
+Bravó, bravó, bravisszimó,
+Bravó, bravó, bravisszimó,
+Bravó, bravó, bravó, bravisszimó!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

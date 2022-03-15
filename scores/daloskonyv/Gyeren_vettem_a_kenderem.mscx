@@ -992,6 +992,28 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Gyéren vettem a kenderem, gyakran termett rajta,
+Nem kell nékem a kendere, csak a pozdorjája.
+Tüzet vetek alája, megfűtőzök nála,
+Az én babám gyolcsgatyáját megszárítom rajta.
+Hess légy, ne szállj rám, beteg vagyok én,
+Adj egy csókot, édes rózsám, meggyógyulok én!
+
+Nem vagy legény Berci, nem mersz megcsókolni,
+De én leány létemre merek csókot adni!
+Adtam, adok es az ügyes legénynek,
+Hisz' jól tudom magamról, hogy jól esik szegénynek. 
+
+Kéretének Remetére, oda nem adának,
+Csomafalvi bognyesőnek odaloccsantának.
+Hess, légy, ne szállj rám, beteg vagyok én,
+Adj egy csókot, édes rózsám, meggyógyulok én!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

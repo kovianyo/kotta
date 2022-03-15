@@ -587,6 +587,19 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Csákány, buzogány, húzd rá, te cigány,
+Ha te húzod, én meg járom, 
+Berzencei nagy kocsmába.
+
+Igyunk, mulassunk, jó bort hozassunk,
+Ne legyen a jó bor drága, 
+Berzencei nagy kocsmába.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

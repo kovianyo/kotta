@@ -810,6 +810,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Babám, az ajtót be ne lakatold,
+Éjféltájban feljön már a hold,
+Mert ha becsukod a, nem mehetek oda,
+S inkább iszok három deci bort.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

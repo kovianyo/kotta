@@ -1009,6 +1009,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Este van már, késő este, fél nyolcat ütött az óra,
+Az én kedves kisangyalom mégse jön el a fonóba.
+Vagy haragszik, vagy beteg, vagy talán nem is szeret,
+Így hát, kedves kisangyalom, tiltva vagyok én tetőled.
+
+Sej, a sári, de sudár torony, jaj, de messzire ellátszik!
+Közepébe, négy sarkába négy szál rozmaring lehajlik:
+Kettő hajlik a vállamra, kettő a babáméra,
+Így hát, kedves kisangyalom, tied leszek én valaha.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -642,6 +642,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fehér fuszulykavirág,
+Ne jöjj hozzám napvilág,
+Gyere hozzám sötétbe,
+Hadd üljek az öledbe!
+
+Egyszer voltam nálatok,
+Leszakadt az ágyatok,
+Úgy recsegett, ropogott,
+A szalmája szotyogott.
+
+Ha te tudnád amit én,
+Ki babája vagyok én,
+Te is sírnál, nem csak én,
+Keservesebben mint én!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

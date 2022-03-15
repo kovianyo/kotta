@@ -640,6 +640,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Erdő mellett estvéledtem,
+Subám fejem alá tettem.
+Összetettem két kezemet,
+Úgy kértem jó Istenemet:
+
+Én Istenem, adjál szállást,
+Már meguntam a járkálást,
+A járkálást, a bujdosást,
+Az idegen földön lakást.
+
+Adjon Isten jó éjszakát,
+Küldje hozzánk szent angyalát,
+Bátorítsa szívünk álmát,
+Adjon Isten jó éjszakát!
+
+Ahány csillag van az égen,
+Ahány fűszál van a földön,
+Jézus annyiszor áldassék,
+Szűz Mária tiszteltessék.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -859,6 +859,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megyen már a hajnalcsillag lefelé,
+Az én kedves galambom most megyen hazafelé,
+Lábán van csizmája, lakkos szárú kis csizma,
+Rásütött a hajnalcsillag sugara.
+
+Amerre mégy, édes rózsám, kívánom,
+Hogy előtted a rét is piros rózsává váljon,
+A zöld fű is előtted édes almát teremjen,
+A te szíved soha el ne felejtsen!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

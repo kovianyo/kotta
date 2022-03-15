@@ -935,6 +935,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kék szivárvány koszorúzza az eget,
+Egészen kimutattad, hogy nem szeretsz,
+Ha nem szeretsz nem tehetek én róla,
+Nem lehetek sem tulipán sem rózsa.
+
+Életemben egyszer voltam csak boldog,
+Akkor is a két szememből könny hullott,
+Sírtam biz' én, örömömbe', hogy szeretsz,
+Bánatomba', hogy az enyém nem lehetsz.
+
+Jaj, de fenn van az a magos mennyország,
+Még onnan is visszaszállnék tehozzád,
+Megkérdezném, hogy mért akarsz elhagyni,
+Mikor én még most akarlak szeretni.
+
+Két zsebkendőt adtam neked emlékbe,
+Régi babám, arról jussak eszedbe,
+Ha elszakad a zsebkendő, tudd meg azt,
+Nem érek én sem több nyarat, sem tavaszt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -579,6 +579,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Összegyűltek, összegyűltek az izsapi lányok,
+M-hm, ej-haj, az izsapi lányok.
+
+Összeszedtek, összeszedtek egy marék lisztecskét,
+M-hm, ej-haj, egy marék lisztecskét.
+
+Meggyúrák azt, meggyúrák azt zsíros gombócának,
+M-hm, ej-haj, zsíros gombócának.
+
+Odaméne, odaméne a bíró kutyája,
+M-hm, ej-haj, a bíró kutyája.
+
+Mind megevett, mind megevett zsíros gombócából,
+M-hm, ej-haj, zsíros gombócából.
+
+Így lőn vége, így lőn vége a leányi bálnak,
+M-hm, ej-haj, a leányi bálnak.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

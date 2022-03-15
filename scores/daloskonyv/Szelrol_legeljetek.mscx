@@ -689,6 +689,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szélről legeljetek, fának ne menjetek,
+Mert, ha fának nekimentek,
+Fejeteket beveritek,
+Szili kút, szanyi kút, szentandrási Sobri-kút!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

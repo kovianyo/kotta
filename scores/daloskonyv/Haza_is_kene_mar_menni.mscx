@@ -835,6 +835,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>haza is kéne már menni,
+vajon mit fognak gondolni,
+sötét az ég alja, 
+babám, kísérj el haza,
+megszolgálom néked valaha.
+
+az erdei kis pacsirta
+mind a két szemét kisírta,
+sírok én magam is, 
+sír az én galambom is,
+lehajlik értem még az ág is.
+
+valamennyi gácsér, ruca,
+mind kunkorú annak farka,
+valamennyi magyar lány, 
+piros pántlika haján,
+szeret is az engem igazán.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

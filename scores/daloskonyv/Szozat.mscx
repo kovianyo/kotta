@@ -1710,6 +1710,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hazádnak rendületlenűl
+Légy híve, oh magyar,
+Bölcsőd az s majdan sírod is,
+Mely ápol s eltakar.
+
+A nagy világon e kívűl
+Nincsen számodra hely;
+Áldjon vagy verjen sors keze:
+Itt élned, halnod kell.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

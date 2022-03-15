@@ -585,6 +585,36 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Táncolj, kecske, ne állj meg,
+Mer' az Isten nem ver meg.
+Táncolj, kecske, ne állj meg,
+Mer' az Isten nem ver meg.
+
+Meg akartam házasodni, 
+Galambot akartam fogni,
+Galamb helyett kotlóst kaptam, 
+Bánom, hogy megházasodtam.
+
+Szép a virág, ha fehér,
+Csúf a leány, ha kevély.
+Szép a virág, ha veres,
+Csúf a legény, részeges.
+
+Érted vagyok, szívem, beteg,
+Rázz a mindennapi hideg.
+Érted vagyok, szívem, beteg,
+Rázz a mindennapi hideg.
+
+Kukorica csutika,
+Rázkolódjál Máriska.
+Csuti, boti, csutika,
+Ketten hálunk, Máriska.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

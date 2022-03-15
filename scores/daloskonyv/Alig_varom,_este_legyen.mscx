@@ -1108,6 +1108,28 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Alig várom, este legyen,
+Hogy a libám oda legyen,
+Hadd mehessek lúd-keresni,
+A babámmal beszélgetni.
+
+Meg akartam házasodni,
+Galambot akartam fogni,
+Galamb helyett ülüt fogtam,
+Bánom, hogy megházasodtam.
+
+Sarkantyúmnak réz a vasa,
+Nől a babámnak a hasa,
+Hadd el fiam, domborodjék,
+Hogy a világ szaporodjék,
+Hadd el fiam, domborodjék,
+Hogy a magyar szaporodjék!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -866,6 +866,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Édesanya tejbe-vajba neveli a fiát,
+Be se tő'ti, de a húsz évet, katonának híják.
+Kilenc orvos, de vizitálja, a tizedik az anyja,
+Mindig csak azt sírja-ríja, katona a fia.
+
+Édesanya levelet ír katona fiának:
+Gyere haza, de édes fiam, halálom napjára!
+Az ezredes, de visszaírta, hogy ne várja a fiát,
+A nyíregyházi kaszárnyában nyergeli a lovát.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -569,6 +569,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elmegyek, elmegyek,
+Hosszú útra megyek,
+Hosszú út porából
+Köpönyeget veszek.
+
+Búval és bánattal
+Kizsinóroztatom,
+Sűrű könnyeimmel
+Kigomboztattatom.
+
+Fúdd el, jó szél, fúdd el
+Hosszú útnak porát,
+Hosszú útnak porát,
+Az én szívem búját!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

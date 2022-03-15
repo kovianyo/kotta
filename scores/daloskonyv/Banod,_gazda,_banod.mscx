@@ -499,6 +499,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Bánod, gazda, bánod,
+Ha kertedben járok,
+Sej, annál jobban bánod,
+Ha lányodhoz járok!
+
+Arattam én nádat
+Tizenhat nyalábbal,
+Sej, mivel megpörzsöljük
+Az öreganyádat.
+
+Dercsikai tóba'
+megdöglött a béka,
+mindnek-mindnek anyja,
+aprája és nagyja.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

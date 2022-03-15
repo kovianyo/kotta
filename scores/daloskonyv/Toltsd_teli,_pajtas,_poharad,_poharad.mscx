@@ -798,6 +798,39 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Töltsd teli, pajtás, poharad, poharad, 
+Míg ki nem ázik a fogad, a fogad!
+Így jár, aki mindig bort iszik, 
+Míg a temetőbe nem viszik.
+Ha a temetőbe kiviszik, 
+Isten úgyse', több bort nem iszik!
+
+Volt nékem pénzem, elástam, elástam,
+Kiszáradt a torkom, kiástam, kiástam.
+Így jár, aki mindig bort iszik, 
+Míg a temetőbe nem viszik.
+Ha a temetőbe kiviszik, 
+Isten úgyse', több bort nem iszik!
+
+Eltemették az öreget, öreget, 
+Melléje tették az üveget, üveget.
+Így jár, aki mindig bort iszik, 
+Míg a temetőbe nem viszik.
+Ha a temetőbe kiviszik, 
+Isten úgyse', több bort nem iszik!
+
+én édes pintes üvegem, üvegem,
+süvegem előtted leveszem, leveszem.
+hogyha szép lányt látok, köszönök,
+olyat iszom, csak úgy nyöszörgök!
+hogyha szép lányt látok, köszönök,
+olyat iszom, csak úgy nyöszörgök!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

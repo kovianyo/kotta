@@ -1124,6 +1124,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ablakomba, ablakomba besütött a holdvilág,
+Aki kettőt, hármat szeret, sosincs arra jó világ.
+Lám, én csak egyet szeretek, mégis de sokat szenvedek,
+Az az álnok béres legény csalta meg a szívemet.
+
+Szeged felől, Szeged felől jön egy fekete felhő,
+Szaladj, kislány, szaladj, kislány, mert megver a nagy eső!
+Nem szaladok olyan nagyon, fáj a szívem, sajog nagyon.
+Most tudom már, miért sajog: elhagyott a galambom.
+
+Ha bemegyek, ha bemegyek a baracsi csárdába,
+Cifra nyelű kis bicskámat vágom a gerendába.
+Aki legény, az vegye ki, aki bátor, az teheti,
+Még az éjjel zsandárvérrel írom ki a nevemet.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

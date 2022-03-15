@@ -711,6 +711,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elment a szeretőm Dél-Amerikába,
+Írt nekem levelet, hogy menjek utána.
+Nem megyek utána Dél-Amerikába,
+Találok szeretőt Földvár falujába'.
+
+Ezér' a leányér' mit nem cselekednék,
+Tisza fenekéről apró gyöngyöt szednék.
+Tisza fenekéről apró gyöngyöt szednék,
+Az én kedves babámnak azzal kedveskednék.
+
+Elment a szeretőm szeretőt keresni,
+Adjon a Jóisten jó szerencsét néki!
+Jó szerencsét neki, a lába törjön ki,
+Amire hazaér, a szeme fusson ki!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

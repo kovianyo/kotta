@@ -1072,6 +1072,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kis kece lányom fehérbe' vagyon,
+Fehér a rózsa, kezébe' vagyon.
+Mondom, mondom, fordulj ide, mátkám asszony,
+Mondom, mondom, fordulj ide, mátkám asszony!
+
+Cidrusi menta, kajtai rózsa,
+elmennék táncba, ha szép lány volna.
+Mondom, mondom, fordulj ide, mátkám asszony,
+mondom, mondom, fordulj ide, mátkám asszony!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

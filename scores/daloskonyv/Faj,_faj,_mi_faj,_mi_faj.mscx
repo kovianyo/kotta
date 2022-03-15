@@ -661,6 +661,21 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fáj.
+Mi fáj?
+Mi fáj, no?
+
+A szívem, a szívem, a szívem, az fáj.
+Jaj, nagyon fáj!
+Inni kéne, inni kéne egy kis rumot.
+Attól talán elmúlik a szívfájdalom.
+De nem múlt el. / Elmúlt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

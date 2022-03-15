@@ -831,6 +831,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Félre bánat, félre bú, bolond, aki szomorú.
+Lám, én milyen víg vagyok - hahaha,
+Lám, én milyen víg vagyok, a szeretőm elhagyott - a marha.
+
+Ha elhagyott, hagyjon is, megélek én magam is,
+Lám, a bazsarózsa is - az is,
+Lám, a bazsarózsa is, kinyílik az maga is - ha muszáj.
+
+Sűrű csillagos az ég, majd eszedbe jutok még,
+De már akkor késő lesz - ha lesz,
+De már akkor késő lesz, mer' a szívem másé lesz,
+Ha lesz - is lesz.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

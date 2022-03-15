@@ -891,6 +891,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megismerni a kanászt 
+cifra járásáról,
+Elöl fűzött bocskoráról, 
+tarisznyaszíjáról.
+
+Hej, élet-élet, kanász élet,
+ez aztán az élet,
+Ha megunom magamat, 
+magam is úgy élek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

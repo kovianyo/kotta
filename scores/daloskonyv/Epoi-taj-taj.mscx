@@ -553,6 +553,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Epoi táj-táj-é,
+Ó, epoi táj-táj-é,
+Ó, epoi táj-táj, 
+epoi-tiki-tiki,
+Epoi tiki-tiki-é.
+
+Két ujjal...
+hárommal...
+négy ujjal...
+öt ujjal...
+karokkal...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

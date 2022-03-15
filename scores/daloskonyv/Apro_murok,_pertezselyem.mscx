@@ -651,6 +651,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Apró murok, petrezselyem,
+A vénasszony veszedelem,
+Alig várom az ördögöt, 
+Hogy elvigye a vén dögöt.
+
+Vénasszonnak nem kár vóna, 
+Ha pokolba' láncon lógna,
+Olyan ráncos annak bőre, 
+Félrehúz a vén is tőle.
+
+Édesanyám rózsafája, 
+én vagyok a legszebb ága,
+legszebb ága, legszebb lánya, 
+a menyecskék bokrétája.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

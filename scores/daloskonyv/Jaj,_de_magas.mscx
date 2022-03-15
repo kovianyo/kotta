@@ -890,6 +890,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jaj, de magas, jaj, de magas ez a vendégfogadó,
+Van-e benne, van-e benne barna kislány eladó?
+Ha nincs benne barna kislány eladó,
+Dűljön össze ez a vendégfogadó!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

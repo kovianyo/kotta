@@ -649,6 +649,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Aki dudás akar lenni,
+pokolra kell annak menni,
+ott kell annak megtanulni,
+hogyan kell a dudát fújni.
+
+Három a tánc mindhalálig,
+kivilágos-kivirradtig,
+Kicsi nékem ez a ház,
+kirúgom az oldalát!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

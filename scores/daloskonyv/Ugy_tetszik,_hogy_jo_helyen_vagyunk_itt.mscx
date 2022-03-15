@@ -1150,6 +1150,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Úgy tetszik, hogy jó helyen vagyunk itt,
+úgy tetszik, hogy máskor is voltunk itt.
+Mulassunk hát egy vagy két óráig,
+Végbúcsúnkat még ki nem adják itt!
+
+Végbúcsúnknak hamar vége lészen,
+Szegénylegény akármerre mégyen.
+Akármerre fordítja kalapját,
+Szegény legény így éli világát.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

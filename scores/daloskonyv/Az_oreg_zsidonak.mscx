@@ -786,6 +786,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az öreg zsidónak akkor vagyon jó kedve,
+Mikor százforintos bankó van a zsebébe.
+Akkor azt mondja, jó lesz a bora,
+Jó lesz majd a Sári lánya lakodalmára.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

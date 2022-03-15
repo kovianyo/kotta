@@ -843,6 +843,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Százados úr, sejehaj, százados úr, ha felül a lovára,
+visszatekint, sejehaj, visszatekint az elfáradt bakára.
+Ugye, fiúk, szép élet a katonaélet?
+csak az baj, sejehaj, csak az a baj, hogy nehéz a viselet.
+
+Diófából, sejehaj, diófából nem csinálnak koporsót,
+a bakának, sejehaj, a bakának nem írnak búcsúztatót.
+Ágyúgolyó lesz annak a búcsúztatója,
+barna kislány, sejehaj, barna kislány lesz a megsiratója.
+
+Kozma Klára, sejehaj, Kozma Klára előveszi bicskáját,
+Kiszámítja, sejehaj, kiszámítja szegény cserkész adagját.
+Nincsen olyan kis kenyér e széles világon,
+Kozma Klára, sejehaj, Kozma Klára mit kisebbre ne vágjon.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

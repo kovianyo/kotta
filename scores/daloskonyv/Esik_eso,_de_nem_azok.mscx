@@ -692,6 +692,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Esik eső, de nem ázok,
+Cseresznyefa alá állok.
+Oda is csak azért állok,
+Mer' arra járnak el a lányok.
+
+Állj be, Pista, katonának,
+Jobb dolgod lesz, mint apádnak.
+Nem kell kapálni, kaszálni,
+Csak a lányok után járni.
+
+Elment Pista katonának,
+Ott sem volt jó a butának,
+Mert nem tudott szalutálni,
+Csak a lányok után járni.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

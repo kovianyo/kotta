@@ -968,6 +968,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Gábor Áron rézágyúja fel van virágozva,
+Indulnak már a tüzérek messze a határba.
+Nehéz a rézágyú, (kereke) fölszántja a hegyet-völgyet (galambom),
+Édes rózsám, a hazáért el kell válnom tőled.
+
+Véres a föld, magyar tüzér vére folyik rajta.
+Csak még egyszer gondolj vissza szép magyar hazádra!
+Anyám, te jó lélek, találkozom-e még véled?
+Holnapután messze földre, hosszú útra kélek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -499,6 +499,19 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Előre a kezedet, utána hátra,
+Előre a kezedet, utána rázzad,
+Utána ugi-bugi, utána forgás,
+Tapsolj egyet, pajtás!
+
+Ó, ugi-bugi-ugi, ugi-bugi-ugi, 
+Tapsolj egyet, pajtás!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

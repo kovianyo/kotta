@@ -1282,6 +1282,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Útra kelek, elmegyek, várnak rám a kék hegyek, 
+vár reám új, ismeretlen táj.
+Vándorbotot fog kezem, hív a titkos végtelen, 
+utam végét, jaj, nem ismerem!
+
+Csak fel, csak fel, csak fel, 
+hosszú útra, messze, messze el!
+Édesanyám, ég veled, búcsúcsókra nyújtsd kezed, 
+messze járva szívem nem feled.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

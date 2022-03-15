@@ -856,6 +856,18 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Laurencia, drága Laurencia,
+Mikor találkozunk újra?
+Hétfőn!
+Ó, bárcsak minden nap hétfő lenne,
+S az én Laurenciám vélem lenne,
+Laurencia!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

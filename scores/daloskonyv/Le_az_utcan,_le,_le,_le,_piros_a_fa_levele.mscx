@@ -507,6 +507,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Le az utcán, le, le, le, 
+piros a fa levele,
+Ha jó volnál, behívnál, 
+édes borral kínálnál.
+
+Az a szerencsés vagyok, 
+hogy az úton nem vagyok,
+A szomszédba ballagok, 
+rózsám mellett mulatok.
+
+Az én kötőm madzagja
+csupa piros pántlika, 
+lik-lika, pántlika, 
+csupa piros pántlika.
+
+Az én ludam elveszett,
+én azt keresni megyek,
+Nincsen annak más jegyi, 
+szárnya hegyi feketi.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

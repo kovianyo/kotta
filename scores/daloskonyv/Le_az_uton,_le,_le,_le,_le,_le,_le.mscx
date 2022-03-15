@@ -746,6 +746,32 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Le az úton, le, le, le, le, le, le,
+Szeretőm eleibe, eleibe,
+Le az úton, le, le, le, 
+Le az úton, le, le, le,
+Szeretőm eleibe.
+
+Engem vesz az ölibe, ölibe,
+Másnak néz a szemibe, szemibe...
+
+Ne nézz rívám, ne kacagj, ne kacagj,
+Mert a szívem megszakad, megszakad...
+
+Rívám néztél, kacagál, kacagál,
+Nálam nélkül maradál, maradál...
+
+Barassóban híd alatt, híd alatt,
+Nyárson sütik a halat, a halat...
+
+Papírosba takarják, takarják,
+S a legénynek úgy adják, úgy adják...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

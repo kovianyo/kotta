@@ -947,6 +947,17 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Cője, cője, cője, cője, cője, bumm,
+Cője, cője, cője, cője, bumm.
+Cője, cője, cője, bumm,
+Cője, cője, cője, bumm,
+Á-á, á-á, cője, cője, bumm.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

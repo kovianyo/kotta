@@ -733,6 +733,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Így ketyeg az óra: tik-tak, jár,
+Benne a manócska kalapál.
+De ha áll az óra, és nem jár,
+Alszik a manócska, és nem kalapál.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

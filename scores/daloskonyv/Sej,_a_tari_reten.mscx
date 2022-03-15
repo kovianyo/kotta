@@ -589,6 +589,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Sej a tari réten,
+Piros-barna kislány,
+Arra ment egy piros-barna legény,
+Leveszi kalapját.
+
+Mit csinálsz te kislány,
+Piros-barna kislány?
+Látod, hogy a víg tari nagy réten a
+Szénát gyűjtögetem.
+
+Nem való az néked,
+Piros-barna kislány,
+Néked csak egy híves szoba kellene,
+Kibe varrogatnál.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

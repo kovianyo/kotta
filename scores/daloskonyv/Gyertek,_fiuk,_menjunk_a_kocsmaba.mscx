@@ -1091,6 +1091,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Gyertek, fiúk, menjünk a kocsmába,
+Tizenöt lej egy liter bor ára.
+Húzd rá, cigány, ezerlejest adok,
+Még az éjjel mulatni akarok.
+
+Nékem abban nem parancsol senki,
+Mindenki a baját elintézi.
+Húzd rá, cigány, ezer lejest adok,
+Még az éjjel mulatni akarok.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

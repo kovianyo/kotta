@@ -905,6 +905,35 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Leveles a május, virágos a rét,
+Majálisra menni volna csudaszép!
+Búzavirág koszorú, ma senki se' szomorú.
+Ránk ragyog az ég,
+Sej, a május csudaszép hónap!
+
+Vár reánk az erdő, vár a zöld határ,
+Szabad ágra röppen a dalos madár.
+Búzavirág koszorú, ma senki se' szomorú.
+Ránk ragyog az ég, 
+Sej, a május csudaszép hónap!
+
+Tizenhárom végből van az én gatyám,
+tizenhárom végből varrta a babám.
+egyik szára rövid lett, a másik meg hosszú lett,
+Látod-e babám,
+jól elszabtad a gatyám szárát! 
+
+Szovejtunióban kisütött a nap,
+Leng a vörös zászló a kék ég alatt.
+Fújja a szél, lengeti, szabadságát hirdeti,
+Minden szép és jó,
+Éljen a Szovjetunió, hej-hó!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

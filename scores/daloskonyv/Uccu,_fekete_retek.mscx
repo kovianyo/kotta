@@ -588,6 +588,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Uccu, fekete retek,
+Barna legényt szeretek.
+Ájná-ná-ná, ájná-ná-ná, 
+Ájná-ná-ná-ná-ná-ná.
+
+De hazudik a retek,
+Mer' én szőkét szeretek.
+Ájná-ná-ná, ájná-ná-ná, 
+Ájná-ná-ná-ná-ná-ná.
+
+Kék a szeme, nem fekete,
+Ki a fene ne szeretne?
+Ájná-ná-ná, ájná-ná-ná, 
+Ájná-ná-ná-ná-ná-ná.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

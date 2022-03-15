@@ -1360,6 +1360,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tizenhárom ezüstpityke fityeg a mentémen,
+A legelső hajdú vagyok Szabolcs vármegyében,
+Suvickos bajszom úgy áll, mint az öreg bika szarva,
+A legelső hajdú vagyok Szabolcs meg Biharba'.
+
+Tizenkettő ezüstpityke fityeg a mentémen,
+A második hajdú vagyok Szabolcs vármegyében,
+Suvickos bajszom úgy áll, mint az öreg bika szarva,
+Van nálam egy különb legény, de az le van...
+
+Egyetlenegy ezüstpityke fityeg a mentémen,
+Az utolsó hajdú vagyok Szabolcs vármegyében,
+Suvickos bajszom úgy áll, mintha oda lenne...,
+Az utolsó hajdú vagyok Szabolcs meg Biharba'.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

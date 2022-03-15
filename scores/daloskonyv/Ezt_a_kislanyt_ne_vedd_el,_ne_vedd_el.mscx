@@ -693,6 +693,26 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ezt a kislányt ne vedd el, ne vedd el,
+Nem győzöd meg selyemkeszkenővel:
+Kilencet köt fejére, nyakára,
+Tizediket karcsú derekára.
+
+Ezt a kislányt ne vedd el, ne vedd el,
+Nem győzöd meg lekváros kenyérrel:
+Kilencet eszik meg egyszerre,
+Tizediket teszi a zsebébe.
+
+Mit ér nékem a matolcsi határ,
+Ha nincs benne, kiért a szívem fáj.
+A tunyogi határ felé nézek,
+Ott van, akit igazán szeretek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

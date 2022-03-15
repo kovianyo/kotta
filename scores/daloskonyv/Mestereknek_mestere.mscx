@@ -866,6 +866,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Mestereknek mestere, mondd meg mi a(z) egy (kettő, ...)!
+
+Tizennégy a stáció,
+Tizenhárom kis próféta,
+Tizenkettő apostol,
+Tizenegy a szent szüzek,
+Tíz a tízparancsolat,
+Kilenc az angyali kar,
+Nyolc boldogság,
+Hét a szentség,
+Hat pohár bor Kánaánból,
+Igyunk egyet barátságból,
+
+Öt az egyház parancsa,
+Négy az evangélista,
+Három a pátriárka,
+Kettő Mózes táblája,
+Egy az Isten, a Jóisten,
+Aki él örökké, mindörökké, ámen.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -651,6 +651,21 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szép szakmári lányok tyúkot ültettek,
+Egy tyúk alá harminchat tojást tettek,
+harminchat tojásból csak egy kakas lett,
+Szép szatmári lányok, mi lesz veletek?
+
+Szép szakmári lányok, Isten veletek,
+Már én többet nem beszélek veletek!
+nyíljon ki a bazsarózsa a kezetekben, 
+három évig nem szakítok belőle.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -496,6 +496,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Két szál pünkösdrózsa,
+Kihajlott az útra,
+El akar hervadni,
+Nincs ki leszakítsa.
+
+Nem ám az a rózsa,
+Ki a kertben nyílik,
+Hanem az a rózsa,
+Ki egymást szereti.
+
+Nem szeretlek másért,
+Két piros orcádért,
+Szemed járásáért,
+Szád mosolygásáért.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

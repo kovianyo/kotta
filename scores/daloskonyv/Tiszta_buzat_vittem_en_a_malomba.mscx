@@ -1019,6 +1019,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tiszta búzát vittem én a malomba,
+Most vagyok a szeretőmmel haragba',
+Addig leszek a babámmal haragba',
+Míg a búzát felöntik a garatra.
+
+Fehér lisztből sütik a jó kenyeret,
+Most tudtam meg, hogy a babám nem szeret.
+Ha nem szeret, tátsa száját a szélnek,
+Majd a fene könyörög egy legénynek!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

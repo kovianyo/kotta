@@ -874,6 +874,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Béreslegény, jól megrakd a szekeret,
+Sarjútüske böködi a tenyered,
+Minél jobban böködi a tenyered,
+Annál jobban rakd meg a szekeredet.
+
+Béreslegény mezítláb ment szántani,
+Otthon hagyta a csizmáját patkolni,
+Kilenc kovács nem merte elvállalni,
+Egy sem tudott rózsás patkót csinálni.
+
+Jaj, de nehéz a szerelmet viselni,
+Tövis közül kék ibolyát kiszedni,
+Mert a tüske böködi a kezemet,
+A szerelem szorítja a szívemet.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -659,6 +659,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Este van már, csillag van az égen,
+Varga Julcsa mezítláb a réten,
+Sajnálja a cipőjét felhúzni,
+Garzó Péter nem vesz többet néki.
+
+Garzó Péter elment katonának,
+Acélfegyvert csináltat magának;
+Acélfegyver, rózsafa a nyele,
+Rá van írva Varga Julcsa neve.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

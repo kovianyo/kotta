@@ -822,6 +822,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ó, mely sok hal terem az nagy Balaton-bahharahharahhaha!
+Minden ágon egy mérő makk a Bakony-bahharahharahhaha.
+Örül ott a halász, rikongat a kanász
+Örömé-behherehherehhehe.
+
+Szépen illik a sült kappan a cintálba-bahharahharahhaha.
+Jó bort mérnek Füreden és Kaposvár-bahharahharahhaha.
+Igyál, jó barátom, tőled nem sajnálom,
+Sokáig éhhéréhhérehhéhélj!
+
+Addig kell a vasat verni, amíg tü-zehherehherehhehes.
+Semmit sem ér olyan hordó, amely ü-rehherehherehhehes.
+Kell hát bele tenni, ki kell aztán venni,
+Ha szüksé-gehherehherehhehes.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

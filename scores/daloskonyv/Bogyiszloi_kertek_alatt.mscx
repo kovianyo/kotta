@@ -1023,6 +1023,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Bogyiszlói kertek alatt folyik el a kanális,
+Abban fürdik, abban fürdik még a gólyamadár is.
+Mindig fürdik a gólya, mégis sáros a tolla,
+Az én kedves kisangyalom a legszebb lány a faluba'.
+
+Megüzenem, megüzenem a szeretőm anyjának,
+Hogy ne tartsa, hogy ne tartsa a kedves fiát magának!
+Ha magának akarja a kedves fiát tartani,
+Ne eressze, ne eressze a szívem szomorítani!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

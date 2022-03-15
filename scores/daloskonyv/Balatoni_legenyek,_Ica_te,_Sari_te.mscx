@@ -905,6 +905,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Balatoni legények, Rica te, Sári te,
+Libát loptak szegények, Rica te, Sári te,
+Nem jól fogták a nyakát, elrikkantotta magát,
+Sári, cinge cungeráj, Rica te, Sári te!
+
+Balatoni legények, Rica te, Sári te,
+Mákot loptak szegények, Rica te, Sári te,
+Nem jól fogták a zsákot, mind elszórták a mákot,
+Sári, cinge-cungeráj, Rica te, Sári te!
+
+Balatoni legények, Rica te, Sári te,
+Halászni járnak szegények, Rica te, Sári te,
+Hazajönnek vizesen, adnak csókot szívesen,
+Sári, cinge-cungeráj, Rica te, Sári te!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

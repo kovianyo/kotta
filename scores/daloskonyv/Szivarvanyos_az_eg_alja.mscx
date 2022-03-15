@@ -1023,6 +1023,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szivárványos az ég alja,
+Nem jó' van a fejem alja, csuhajja,
+Gyere, babám, igazítsd meg, 
+Fáj a szívem, vigasztalj meg, csuhajja!
+
+Kérsemjéni templom előtt,
+Három ágú diófa nőtt, csuhajja,
+Három ágán hat levele, 
+Nem t'om, mi a babám neve, csuhajja.
+
+Kérsemjéni kertek alatt,
+Lenyugodott vélem a nap, csuhajja,
+Gyere, babám, gyújtsál gyertyát,
+Mutasd meg a világ útját, merre van!
+
+Édesanyám mondta nékem,
+Minek a szerető nékem, csuhajja,
+De én rája nem hallgattam,
+Titkon szeretőt tartottam, csuhajja.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -887,6 +887,60 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nincs Szentesen olyan asszony,
+mint Túriné komámasszony,
+hej, tedd rá, most tedd rá,
+Tepsibe' süti a lepényt,
+Azzal kínálja a legényt,
+hej, tedd rá, most tedd rá!
+
+Lepényemet megettétek,
+Sári lányom elvettétek,
+hej, tedd rá, most tedd rá,
+Piros volt a lepény alja,
+Édes lesz a Sári csókja,
+hej, tedd rá, most tedd rá!
+
+Ne forduljál a fal felé,
+Fordulj csak a farom felé,
+hej, tedd rá, most tedd rá,
+tegyed rá a jobb kezedet,
+majd meghozza a kedvedet,
+hej, tedd rá, most tedd rá!
+
+Pap Vendelnek nincsen orra,
+Leharapta a sógora,
+hej, tedd rá, most tedd rá,
+uccu, tedd rá, mostan tedd rá,
+rézsarkantyúd pengesd meg rá,
+hej, tedd rá, most tedd rá!
+
+Nesze kutya, Vendel orra,
+Sose kaptál ilyen jóra,
+hej, tedd rá, most tedd rá,
+uccu, tedd rá, mostan tedd rá,
+rézsarkantyúd pengesd meg rá,
+hej, tedd rá, most tedd rá!
+
+Jaj, Istenem, de szégyellem,
+hogy reggel kell hazamennem, 
+ragyogó csillagom, 
+De a szégyent félreteszem,
+mégis el kell haza mennem, 
+ragyogó csillagom!
+
+Téli csibe, nyári gólya,
+török a pap szolgálója, 
+ragyogó csillagom, 
+Addig szolgálta a papot, 
+míg szentelt kolbászt nem kapott, 
+ragyogó csillagom!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

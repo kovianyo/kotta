@@ -716,6 +716,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Van borom, pálinkám es, ihahahaha.
+Van kék szemű lyányom es, ihahahaha.
+Ej-haj, libabőr, jajaj, jaj-jaj,
+Tátim hozta Klézséből, jajaj, libabőr.
+
+Táncoltasd meg Máriskát, ihahahaha.
+Ád az anyja pálinkát, ihahahaha.
+Ej-haj, libabőr, jajaj, jaj-jaj,
+Tátim hozta Klézséből, jajaj, libabőr.
+
+Nekem nem kell pálinka, ihahahaha.
+Nekem kell a Máriska, ihahahaha.
+Ej-haj, libabőr, jajaj, jaj-jaj,
+Tátim hozta Klézséből, jajaj, libabőr.
+
+Édes vérem, testvérem, ihahahaha.
+Érted buzog a vérem, ihahahaha.
+Ej-haj, libabőr, jajaj, jaj-jaj,
+Tátim hozta Klézséből, jajaj, libabőr.
+
+Érted bizony nem csoda, ihahahaha.
+Mert szép vagy, mint a rózsa, ihahahaha.
+Ej-haj, libabőr, jajaj, jaj-jaj,
+Tátim hozta Klézséből, jajaj, libabőr.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

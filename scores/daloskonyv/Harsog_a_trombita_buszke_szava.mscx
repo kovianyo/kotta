@@ -851,6 +851,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Harsog a trombita büszke szava,
+Indul a cserkészek jó csapata,
+Magyarok Asszonya képe alatt,
+Egy Isten, egy haza, egy akarat.
+
+Táborban, zöld gyepen, lombok alatt
+Égjen a munka az ujjad alatt!
+Dolgozni, fáradni drága dolog,
+Magyarok Istene rád mosolyog.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

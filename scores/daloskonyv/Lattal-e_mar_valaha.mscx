@@ -582,6 +582,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Láttál-e már valaha
+Csipkebokor rózsát,
+Csipkebokor rózsa közt
+Két szál majorannát?
+
+Egyik szál majoránna
+Virág Erzsi lenne,
+Másik szál majoránna
+Váci Gábor lenne.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

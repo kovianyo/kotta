@@ -658,6 +658,42 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Erdő mellett nem jó lakni, hahó!
+Mert sok fát kell hasogatni, hahó!
+Három ölet, meg egy felet,
+Öleljen meg, aki szeret, hahó!
+
+Tisza partján elaludtam, hahó!
+Jaj, de szomorút álmodtam, hahó!
+Megálmodtam azt az egyet,
+Hogy a babám mást is szeret, hahó!
+
+Szívem révész, gyere által, hahó!
+Hideg szél fúj ide által, hahó!
+Patyolat a ruha rajtam,
+Nincs ahová fejem hajtsam, hahó!
+
+(változatok, de nem arra a dallamra amire mi szoktuk:)
+Hagyma, hagyma, vöröshagyma,
+Veszekedett vöröshagyma.
+Mért nem etted a szememet,
+Hadd sirassam kedvesemet.
+
+Szerettelek, nem tagadom,
+De már annak vége vagyon.
+Vége van a szerelemnek,
+Sohase szeretlek többet.
+
+Szeretőm piros orcája,
+De sok csókot raktam rája.
+Nem rakok én többet rája,
+Rakja rája a rózsája</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

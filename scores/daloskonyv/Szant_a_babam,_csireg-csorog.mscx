@@ -1061,6 +1061,21 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szánt a babám, csireg-csörög, sej-haj, a járom,
+Szánt a babám a benedeki határon,
+Száraz a föld, a hármaseke nem állja,
+Szép a babám, Benedeken, sej-haj, nincs párja.
+
+Mondtam, babám, ne rakd meg a, sej-haj, szekeret,
+Feltöri a villanyél a kezedet,
+Fából van a villa nyele, nem másból,
+Feltöri a tenyeredet, sej-haj, csúnyául.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

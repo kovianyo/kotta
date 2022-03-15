@@ -394,6 +394,9 @@
         </Measure>
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Beam>
             </Beam>
@@ -624,6 +627,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jön, jön, jön, jön, jön Kossuth, jön,
+Jön, jön, jön, jön, jön Kossuth, jön,
+Hatszázezer franciával, 
+angol, török armadával,
+jön Kossuth, jön, jön Kossuth, jön.
+
+Jön, jön, jön, jön, jön Kossuth, jön,
+Jön, jön, jön, jön, jön Kossuth, jön,
+Vele jön Perczel, Dembinszky, 
+Klapka, Guyon, Bem meg Kmetty,
+Jön Kossuth, jön, jön Kossuth, jön.
+
+Jön, jön, jön, jön, jön Kossuth, jön,
+Jön, jön, jön, jön, jön Kossuth, jön,
+Megugrasztjuk a németet, 
+elfoglaljuk Bécsújhelyet,
+Jön Kossuth, jön, jön Kossuth, jön.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

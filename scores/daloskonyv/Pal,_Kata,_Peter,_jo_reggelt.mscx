@@ -778,6 +778,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Pál, Kata, Péter, jó reggelt,
+Már odakünn a nap felkelt!
+Szól a kakasunk, az a nagy tarajú,
+Gyere ki a rétre, kukurikú!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -756,6 +756,22 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tíz kicsi néger,
+S egy hózentróger,
+Egy dalt énekeltek,
+S a dal így szólt:
+É á lélé,
+Á tiki taki tamba,
+Á mázá mázá mázá,
+É a léro-laro-lé la-ro-la.
+
+A dal túl mély volt, énekeljük magasan! ...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

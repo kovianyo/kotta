@@ -427,6 +427,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jaj, Istenem, ezt a vént
+hogy kell megöleljem én?
+olyan ráncos a bőre,
+bocskor se lesz belőle.
+
+engem uram úgy szeret,
+ha kimegyek, kirekeszt.
+de én es úgy uramot,
+mind a fehér lovamot.
+
+az én uram olyan jó,
+télbe szamár, nyárba ló.
+amit keres egyébkor,
+mind elkő'töm ilyenkor.
+
+jaj, Istenem, adj egyet,
+sohasem kérek többet!
+adj egy szépet, adj egy jót,
+adj egy kedvemre valót!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

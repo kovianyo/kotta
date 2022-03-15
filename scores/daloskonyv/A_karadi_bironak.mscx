@@ -870,6 +870,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A karádi bírónak
+Jó két lovat mondanak.
+Ellopnám az éjszaka,
+hogyha rám nem virradna.
+
+Kezd a hajnal hasadni,
+Jön két zsandár vasalni.
+Vasalják a gyenge kezemet,
+Bevisznek az egyesbe.
+
+Egyesből a kettesbe,
+Kettesből a négyesbe.
+Gyere, babám, váltsál ki,
+Ne hagyjál elhervadni!
+
+Kiváltalak, ki, ki, ki,
+Nem hagylak elhervadni!
+Eladom a sárga cipőm,
+Kiváltom a szeretőm.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

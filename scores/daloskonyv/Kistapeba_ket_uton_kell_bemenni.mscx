@@ -810,6 +810,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kistápéba két úton kell bemenni,
+De szeretnék a rózsámmal beszélni!
+Télen-nyáron rozmaringos az ablaka,
+Jaj, de sokat áztam-fáztam alatta.
+
+Édesanyám, eresszen el a bálba,
+Kötény nélkül, a rózsaszín ruhámba',
+Gyász énnékem a rózsaszín ruhám is,
+Árva vagyok, elhagyott a babám is. 
+
+De szeretnék a templomba bemenni,
+Mikor viszik a rózsámat esküdni.
+Megnézném azt, hogy tagad ki a szívéből,
+Lám, a piszok nem fél a Jóistentől.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -805,6 +805,35 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elmúltak a mézeshetek,
+Asszony, mit csináljak veled?
+Nekimenjek, ne menjek
+A fekete szemednek?
+Inkább iszom három deci kevertet!
+
+Én a téglagyárban lakom,
+Téglaporos a kalapom,
+Onnan tudják, hogy ott lakom,
+Téglaporos a kalapom,
+Inkább iszom három deci kevertet!
+
+Megyek az úton lefelé,
+Senki sem mondja: gyere bé,
+Csak az én kis feleségem:
+Gyere bé, te szerencsétlen,
+Inkább iszom három deci kevertet!
+
+Elmúltak a mézeshetek,
+Asszony, mit csináljak veled?
+Szedd össze a sátorfádat,
+Látogasd meg az anyádat,
+Inkább iszom három deci kevertet!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

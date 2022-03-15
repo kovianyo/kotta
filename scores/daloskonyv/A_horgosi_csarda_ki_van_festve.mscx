@@ -1237,6 +1237,20 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A horgosi csárda ki van festve,
+Oda jár a cimbalmos 
+a cimbalmával cimbalmozni minden este.
+Kocsmárosné azt hiszi, 
+hogy a lányát elveszi
+egyvalaki.
+
+Hegedűs, trombitás, hárfás, \ldots</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

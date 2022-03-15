@@ -1166,6 +1166,25 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Búcsút int a tűz, halkan jő az éj,
+Útnak indulunk, testvér, jöjj, ne félj!
+Új harc vár miránk, zengjen víg dalunk,
+Jézus van velünk, véle indulunk.
+Bármint sújt a sors, jöjjön bármi vész,
+Ajkunk csak dalol, szívünk tettre kész.
+
+Szálljon hő imánk, hozzád, Istenünk.
+Engedj háladalt néked zengenünk.
+Szívünk mint a tűz, izmunk friss acél,
+Égre néz szemünk, tudjuk ott a cél.
+Bármit sújt a sors, jöjjön bármi vész,
+Ajkunk csak dalol, szívünk tettre kész.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -656,6 +656,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Este van már, késő este,
+Pásztortüzek égnek messze,
+Messze, messze, más határon,
+Az alföldi rónaságon.
+
+A faluba' minden csendes,
+Még az éj-madár sem repdes,
+Nyugodalom lakik benne,
+Mintha temetőbe' lenne. 
+
+Kisded hajlék, hol születtem,
+Hej, tőled de távol estem!
+Távol estem, mint a levél,
+Melyet elkap a forgószél.
+
+Száll a madár ágról-ágra.
+Szál az ének szájról szájra.
+Már a nap is lemenőben,
+Tüzet rakott a felhőben.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

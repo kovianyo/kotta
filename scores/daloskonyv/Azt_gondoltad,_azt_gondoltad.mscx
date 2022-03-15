@@ -1297,6 +1297,52 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Azt gondoltad, azt gondoltad, babám, bánom,
+Hogy tetőled, hogy tetőled el kell válnom.
+Elválásunk csak egy álom,
+Szívemet másnak ajánlom, ájna...
+
+Jaj, de csendes, jaj, de csendes eső esik,
+Halálomat, halálomat sokan lesik.
+Azért lesik halálom,
+Vegyék el a galambom, ájna...
+
+Kívül égek, kívül égek, belül fázom,
+De messze vagy, de messze vagy, édes párom!
+Küldj messziről vigasztalást,
+Tudom hogy te sem szeretsz mást, ájna...
+
+Erdő, erdő, kerek erdő, de magos vagy,
+Kisangyalom, kisangyalom, de messze vagy!
+Ha az erdőt levághatnám,
+Kisangyalom megláthatnám, ájna...
+
+Gólyamadár odafent a magas égen,
+Barna kislány sírva sétál lenn a réten.
+Legleteti a lovát, itatja az út porát,
+Siratja a babáját, ájna...
+
+Ott bent ülnek a legények a kocsmában,
+Asztal körül, lámpa alatt, tizenhárman.
+Mind a tizenháromnak van behívólevele,
+Siratja a kedvese, ájna...
+
+Besoroztak, besoroztak katonának,
+Kossuth Lajos, Kossuth Lajos táborába.
+Van behívó levelem, vállamon a fegyverem,
+Sirathatsz már kedvesem, ájna...
+
+Elmegyek, elmegyek messzi földre,
+Nem leszek senkinek a terhére.
+Nem írok levelet, és nem is üzenek,
+Lesz még tavasz, lesz még nyár, 
+de én nem leszek.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

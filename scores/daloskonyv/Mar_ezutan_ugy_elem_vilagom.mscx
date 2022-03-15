@@ -1174,6 +1174,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Már ezután úgy élem világom,
+Kiskalapom a jobb szememre vágom,
+Jobb szememről a bal szememre vágom,
+Csak a szabadságos kiskönyvemet várom.
+
+Elmondhatom, Istenem, Istenem,
+Gyászba borult az egész életem.
+Gyászba borult felettem az ég is,
+Elhagyott már engem a régi szeretőm is.
+
+Már ezután két szeretőt tartok,
+Az egyiktől a másikhoz járok.
+Ha az egyik hűtlen lesz és megcsal,
+Megyek a másikhoz, majd az megvigasztal.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

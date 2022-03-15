@@ -995,6 +995,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Édes-kedves komámasszony, menjünk ki a hegyre,
+Majd megjöjjünk mi onnan holnapután délre,
+Sógorom a Gyurkó, a tíz akós hordó,
+Hopp, ide csutora, nagyot iszom belőle, félredűlök tőle.
+
+Ha meghalok, meghalok, el ne temessenek,
+A tíz akós hordóba belérekesszenek,
+A tíz akós hordó óriás koporsó,
+Hopp, ide csutora, olyat iszom belőle, hogy részeg leszek tőle.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

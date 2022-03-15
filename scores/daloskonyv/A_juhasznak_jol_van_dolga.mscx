@@ -986,6 +986,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A juhásznak jól van dolga,
+Egyik dombról a másikra
+Terelgeti nyáját, fújja furulyáját,
+Bú nélkül éli világát.
+
+Ha megunta furulyáját,
+Előveszi a dudáját,
+Belefújja búját a birka bőrébe,
+Szélnek ereszti belőle.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

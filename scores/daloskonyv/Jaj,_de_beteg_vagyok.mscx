@@ -627,6 +627,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jaj, de beteg vagyok,
+Talán meg is halok,
+Talán bizony a szeretőm édesanyja
+Engem megátkozott.
+
+Ne átkozzon engem
+Senki édesanyja,
+Mert én az ő kökényszemű barna lányát
+Nem szerettem soha.
+
+Ha szerettem volna,
+El is vettem volna,
+Kisőcsényi magas templom tornya alatt
+Megesküdtünk volna.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

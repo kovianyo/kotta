@@ -542,6 +542,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kicsiny a hordócska,
+Jó bor terem benne,
+Díl, dúl, dalala,
+Didarida díl, dúl, dalala.
+
+Nem iszom belőle,
+Részeg leszek tőle,
+Díl, dúl, dalala,
+Didarida díl, dúl, dalala.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

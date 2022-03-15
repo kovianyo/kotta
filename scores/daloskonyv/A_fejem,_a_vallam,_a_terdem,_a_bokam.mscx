@@ -672,6 +672,16 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A fejem, a vállam, a térdem, a bokám,
+A térdem, a bokám, a térdem, a bokám,
+A fejem, a vállam, a térdem, a bokám,
+A szemem, a fülem, az orrom, a szám.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -556,6 +556,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Felszállott a páva
+Vármegyeházára,
+A szegény raboknak
+Szabadulására. 
+
+Röpülj páva, röpülj,
+Vármegyeházára,
+A szegény raboknak
+Szabadulására.
+
+Leszállott a páva
+Vármegyeházára,
+De nem ám a rabok
+Szabadulására!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -561,6 +561,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Én vagyok a révészlegény,
+Én járok a víz tetején,
+Én fogom az aranyhalat
+Világoskék kötő alatt.
+
+Könnyű aranyhalat fogni,
+De nehéz azt tisztogatni,
+Könnyű szeretőt találni,
+De nehéz tőle el válni.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

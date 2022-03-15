@@ -812,6 +812,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házunk előtt jégverem,
+Benne van a szerelem, ájná
+Kinyittani nem merem,
+Mert kirepül a szerelem, ájná...
+
+Szép földvári templom előtt
+megfogadtam Isten előtt, ájná...
+Hogy nem tartok több szeretőt,
+csak minden ujjamra kettőt, ájná...
+
+Kívül égek, belül fázom, 
+de messze vagy, édes párom, ájná...
+Küldj messziről vigasztalást,
+tudom, hogy te sem szeretsz mást, ájná...
+
+Házunk előtt frizsider,
+Benne van a parizer, ájná...
+Kinyittani nem merem,
+Mert kirepül a parizer, ájná...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

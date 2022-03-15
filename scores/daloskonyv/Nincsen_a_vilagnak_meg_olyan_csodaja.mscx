@@ -587,6 +587,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nincsen a világnak még olyan csodája,
+Mint mikor a jászberényi huszár
+Felül a lovára.
+
+Felül a lovára, rágyújt a pipára,
+Még az a hétszentséges Atyaúristen is
+Lemosolyog rája.
+
+Lemosolyog rája, csókra áll a szája,
+hiszen a Jézus Krisztus is Berénybe' volt huszár
+fiatal korába'.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

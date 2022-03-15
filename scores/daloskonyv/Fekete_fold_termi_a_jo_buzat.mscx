@@ -729,6 +729,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fekete föld termi a jó búzát,
+Sűrű erdő neveli a betyárt,
+Sűrű erdő a betyár lakása,
+Szép csárdásné gondot visel rája.
+
+Szép csárdásné, adjon bort hitelbe,
+Itt hagyom a cifra szűröm érte,
+Hogyha ki nem váltom holnap délre,
+Annak adja, ki többet ád érte!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -929,6 +929,36 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Esik az eső, ázik a heveder,
+Gyenge lábamat szorítja a kengyel,
+Gyenge lábamat vaskengyel szorítja,
+Nehéz karabély a vállamat nyomja.
+
+Megjött a levél fekete pecséttel,
+Megjött a török százezer legénnyel,
+Százezer ember áll a harcok mezején,
+Így hát, jó anyám, elmasírozok én.
+
+Jön egy kapitány piros pej paripán,
+Kardja megvillan a jobbik oldalán,
+Kardja megvillan, az ágyú eldurran,
+Szép piros vérem a földre kiloccsan.
+
+Kedves pajtásom, ha így látsz engemet,
+Szállj le lovadról, s lőj agyon engemet,
+Vagy a szuronyod szegezd a mellemnek,
+Ne hagyj sokáig szenvedni engemet!
+
+Sírhat-ríhat már az az édesanya,
+Kinek a fiát viszik háborúba,
+Kezét vagy lábát golyóval átlövik,
+Meg se hal szegény, mégis eltemetik.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

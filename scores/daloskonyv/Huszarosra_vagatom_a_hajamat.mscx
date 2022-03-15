@@ -913,6 +913,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Huszárosra vágatom a hajamat,
+Nyírbökönybe' nyergelik a lovamat.
+Széna, szalma porcióba van belepakolva,
+Adj egy csókot, kisangyalom, az útra!
+
+Csókot adni a huszárnak nem lehet,
+Mert a huszár nem igaz szívből szeret.
+Ha a huszár igaz szívből, sej-haj, szeretne,
+Maga mellé a nyeregbe ültetne.
+
+Gyenge vagy még kisangyalom a lóra,
+Táncol a ló, te meg leesel róla.
+De ha egyszer én ülök a, sej-haj, nyeregbe,
+Felugratok a csillagos egekbe.
+
+Csillagos ég, merre van az én hazám?
+Merre sirat engem az édesanyám?
+Nem sirat az, mer' el van már, sej-haj, temetve,
+Kék nefelejcs a sírjára ültetve.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

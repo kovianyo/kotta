@@ -732,6 +732,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ha felmegyek a budai nagy hegyre,
+Letekintek, letekintek a völgybe,
+Ott látom a, ott látom a kicsi kertes házunkat,
+Édesanyám szedi a virágokat.
+
+Addig megyek, míg a szememre látok,
+Míg egy sűrű erdőre nem találok,
+Sűrű erdő közepében van egy magas kaszárnya,
+Abba leszek, kisangyalom, bezárva.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

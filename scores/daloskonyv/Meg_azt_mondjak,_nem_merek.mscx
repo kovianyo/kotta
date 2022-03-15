@@ -1646,6 +1646,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Még azt mondják, nem merek,
+Még azt mondják, nem merek,
+A főutcán végigmenni nem merek, nem merek,
+Attól félek, megvernek,
+Attól félek, megvernek,
+Megvernek a kakastollas legények.
+
+De gyertek ide, kakastollas legények!
+Ha százan vagytok,
+Ha százan jöttök, sem félek, nem félek,
+Hadd tudja meg az a lány, meg a csendőrkapitány,
+Ki a legény a csárdában igazán.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

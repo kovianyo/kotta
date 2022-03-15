@@ -697,6 +697,49 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kerek ez a zsemle, 
+Nem fér a zsebembe.
+Kétfelé kell vágni, 
+úgy kell megpróbálni,
+Éljen Garibaldi-di-di!
+
+Szennyes az én ingem, 
+Szennyes a gatyám is.
+Majd hoz Kossuth tisztát, 
+Türr Pista meg puskát,
+Éljen Garibaldi-di-di!
+
+Klapka, Bem, Kossuth, Türr,
+Jönnek mindenestül.
+Nem kell kipletykálni, 
+csak tavaszig várni,
+Éljen Garibaldi-di-di!
+
+Könnyű a németnek, 
+Adót egzekválni, 
+Nehéz a magyarnak, 
+A szegény magyarnak
+Kossuth Lajost várni-ni-ni!
+
+(népies műdal változat:)
+Jó bor, jó egészség, 
+szép asszony, feleség.
+Szép asszonynak, jónak, 
+jó járású lónak, 
+kár megöregedni! ni, ni
+
+(1ső versszakváltozat 2:)
+Kerek ez a zsemlye,
+Nem fér a zsebembe,
+Haragszik a rózsám,
+Nem ül az ölembe,
+Én sem az övébe! be, be</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

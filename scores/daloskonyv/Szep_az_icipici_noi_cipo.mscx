@@ -689,6 +689,14 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szép az icipici női cipő, női cipő, női cipő,
+Benne takarosan lépked a nő, a nő!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

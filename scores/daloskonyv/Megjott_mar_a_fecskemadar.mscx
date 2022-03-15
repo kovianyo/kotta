@@ -1041,6 +1041,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megjött már a fecskemadár, fészket rakott nálunk,
+Hívogat már a napsugár, nagytáborba vágyunk!
+Virág nyílik a hegyoldalon, nincs szebb annál semmi,
+Harsog a kürtszó, cserkészpajtás, táborba kell menni.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

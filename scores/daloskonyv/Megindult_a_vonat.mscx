@@ -1026,6 +1026,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megindult a vonat ezer vaskerékkel,
+még a nap is lesüt rája.
+Elindult a sereg, a hosszú magyar sereg
+Horthy Miklós parancsára.
+Jaj, Istenem, megfordul a világ:
+Zöld ablakban piros-fehér virág,
+Apró, kicsi kezek szórják a virágot, ha
+Bevonulunk Kolozsvárra.
+
+Édesanyám, kedves, ne sirasson engem, 
+Erdélyországba kell mennem,
+Megszabadítani székely rab testvérem
+az Olt és a Maros mellett.
+Akkor lesz majd csudaszép a világ,
+mikor újra viszontlátjuk egymást,
+Visszavesszük Erdélyt a bocskoros oláhtól,
+éljen a nagy Magyarország!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

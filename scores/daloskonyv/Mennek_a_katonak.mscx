@@ -1012,6 +1012,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Mennek a katonák libegős-lobogós vonaton,
+Sisakos fejüket kihajtják a vonatablakon,
+De hiába hajtja az idén tavasszal a rozmaring az ágát,
+De hiába várja sok kislány haza a babáját!
+ 
+Kárpátok aljában nyílnak a muskátlivirágok,
+Szép magyar honvédek mennek a győzelmes csatába,
+Feltűzik a zászlót, a magyar lobogót ezeréves tetőre,
+Magyarok Istene, segítsd a honvédet előre!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

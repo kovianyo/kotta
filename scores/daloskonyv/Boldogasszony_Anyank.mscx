@@ -885,6 +885,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Boldogasszony Anyánk, régi nagy Pátronánk,
+nagy ínségben lévén így szólít meg hazánk:
+Magyarországról, édes hazánkról,
+ne feledkezzél el szegény magyarokról.
+
+Ó, Atyaistennek kedves, szép leánya,
+Krisztus Jézus anyja, Szentlélek mátkája!
+Magyarországról, édes hazánkról,
+ne feledkezzél el szegény magyarokról.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

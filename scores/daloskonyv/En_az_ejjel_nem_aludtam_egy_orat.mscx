@@ -951,6 +951,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Én az éjjel nem aludtam egy órát,
+hallgattam a régi babám panaszát.
+Éjfél után, sejehaj, kezdtem elszenderedni,
+jaj, de bajos, ki egymást nem szereti.
+
+Úgy meguntam ezt a legényt szeretni,
+de még jobban a gyűrűjét viselni.
+Csütörtökön, sejehaj, megmondom az anyjának,
+köszönöm a jóságát a fiának.
+
+Verje meg az Isten a te anyádat,
+mért csinálta, bolonduljak utánad?
+Zúgja erdő, sejehaj, csendülj mező, falevél,
+szeresd, babám, kit idáig szerettél!
+
+Szivaroztam, megégettem a számat,
+más öleli az én kedves babámat.
+Más öleli, sejehaj, másnak ül az ölébe,
+más kacsingat a fekete szemébe.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

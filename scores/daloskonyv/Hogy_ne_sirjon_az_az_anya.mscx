@@ -702,6 +702,38 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hogy ne sírjon az az anya,
+Kinek két fia katona,
+A harmadik elindítva,
+A negyedik fel van írva.
+
+Anyám, öreg édes anyám,
+Szedje össze minden gúnyám!
+Tegye a zöld ládájába,
+Tegye, s vigye a postára!
+
+Tegye, s vigye a postára,
+Küldje ki Galíciába!
+Ott megkap egy ispotályba,
+Abba feteke hodályba.
+
+Hol az ágyúk szépen szólnak,
+A szép legények elhullnak,
+Szól az ágyú, szól a puska,
+Az utolsó harangszóra.
+
+Lányok, pusztinai lányok, 
+Szedjetek kerti virágot,
+Kössétek a keresztemre,
+Gyertek a temetésemre!
+Kössétek a keresztemre,
+Jussak százszor eszetekbe!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

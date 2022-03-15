@@ -637,6 +637,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Az asztal terítve, immár minden kész,
+Gazdagon terített az atyai kéz.
+Jóságát lássátok, és ízleljétek,
+Mit Ő adott, hálás szívvel vegyétek!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

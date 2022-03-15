@@ -1226,6 +1226,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A jó lovas katonának de jól vagyon dolga,
+Eszik-iszik a sátorba, semmire sincs gondja.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!
+
+Paripáját megforgatja, úgy megyen dolgára,
+Csillog-villog a mezőben virágszál módjára.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!
+
+A zöld mezőn megpuskázik, nyer az ellenségtől,
+A kvártélyon mulatozik, nyer a menyecskéktől.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!
+
+Ellenségre, nyereségre kimégyen próbára,
+Megütközik, viaskodik, siet a prédára.
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!
+
+Fel van írva és rajzolva haragos kardjára:
+Ez az élet a becsület a király számára!
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!
+
+Isten hozzád, apám, anyám és édes szerelmem,
+Húgom, bátyám, sógor, komám, avagy jertek vélem!
+Hej, élet, be gyöngy élet, ennél szebb sem lehet,
+Csak az jöjjön katonának, aki ilyet szeret!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -806,6 +806,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Fenn a falon, fenn a falon van egy kicsi bolha,
+Fenn a falon, fenn a falon van egy kicsi bolha,
+Nézd a kicsi bolhát, hogy járja a polkát,
+Fenn a falon, fenn a falon van egy kicsi bolha.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -1071,6 +1071,46 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Túl a vizen egy kosár,
+Abban lakik egy madár.
+Túl a vizen egy kosár,
+Abban lakik egy madár.
+
+Abban lakik egy madár,
+Kiért szívem holtig fáj.
+Abban lakik egy madár,
+Kiért szívem holtig fáj.
+
+Várj, madárkám, várj, várj,
+Este hozzád megyek már.
+Megvizsgálom szívedet,
+Véle szeretetedet.
+
+Túl a vizen zörgős malom,
+Ott őröl az én galambom.
+Ott egyebet nem őrölnek,
+Csak bút, bánatot eleget.
+
+Nékem is van egy bánatom,
+Odaviszem, lejártatom.
+Egy szem búza, kettő rozs,
+Felöntöttem, járja most.
+
+Én Istenem, Teremtőm,
+De beteg a szeretőm!
+Én Istenem, gyógyítsd meg,
+Harmadnapra fullaszd meg!
+
+Én Istenem, halálom,
+Nem ér engem az álom.
+Mer' az álom nyugodalom,
+A szerelem szívfájdalom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

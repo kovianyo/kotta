@@ -683,6 +683,18 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Balatonnál, sej-haj, de jó,
+Úszik a nyaraló,
+Minden ugrásnál fejre áll,
+És a láb kalimpál.
+
+Hollári...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

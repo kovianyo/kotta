@@ -903,6 +903,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Somvirág, somvirág,
+Aranysárga a világ,
+
+Kakukkfű, kakukkszó,
+Kirándulni volna jó!
+
+Fűzfasípot faragni,
+Fűzfalóval lovazni,
+
+Árkon-bokron által,
+Háton hátizsákkal,
+
+Menni, mendegélni,
+Este hazatérni.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -847,6 +847,28 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Télen-nyáron jókedvem van, az ördög fog búsulni,
+Nincs is jobb, mint tábortűznél a hajdútáncot járni!
+Leszakadt, haj, a csizmám szára, jókedvem van, az ördög bánja,
+Majd hoz újat a Mózsi!
+
+Pandúr andori, andandóri, pandúr andandóri...
+
+Édes rózsám, szívem kedvese, hallod, hív az ének,
+Csengőn-bongón szól a víg zene, hadd táncoljak véled!
+Jöjj, ó, jöjj ide, édes párom, nótánk hangja ma messze szálljon,
+Oly szép így ez az élet!
+
+Cimbalmunk de vígan pengeti, búg a bőgő húrja,
+Nézd a másik kedvet ad neki, cifra sípját fújva!
+El nem fárad a táncos lábad, látom most csuda szívből járod,
+Mindig újra meg újra!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

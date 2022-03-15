@@ -762,6 +762,17 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Te álomszuszék, ébredj,
+Hasadra süt a nap!
+Nem hallod, nem hallod
+A víg kakukkokat?
+Kakukk, szól már a fák alatt.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

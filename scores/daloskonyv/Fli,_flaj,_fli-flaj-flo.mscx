@@ -906,6 +906,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Flí, fláj, fli, fláj flo,
+Flí, fláj, flí, fláj flo,
+Flí, fláj, fli, fláj flo,
+Et szolo italiano bendzsó-ó o...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

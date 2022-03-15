@@ -584,6 +584,20 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hull a szilva a fáról, most jövök a tanyáról,
+Ej-haj, rece-ruca, kukorica derce.
+
+Egyik ága lehajlott, az én rózsán elhagyott,
+Ej-haj, rece-ruca, kukorica derce.
+
+Kis kalapom fekete, páva tolla van benne,
+Ej-haj, rece-ruca, kukorica derce.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

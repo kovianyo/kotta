@@ -842,6 +842,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Udvaromon aranyvályú, aranykút,
+Abból iszik aranykakas, aranytyúk,
+Aranykakas mind azt kukorékolja,
+Az én rózsám Kolozsváron katona.
+
+Dombon van a kolozsvári kaszárnya,
+Akármerről fújja a szél találja,
+Fújja a szél a kaszárnya tetejét,
+De sok kislány siratja a kedvesét!
+
+Három kislány kimegy a temetőbe,
+Mind a három letérdepel a földre,
+Egy közülük felsóhajt a nagy égre,
+Mért is lettem katona szeretője!
+
+udvaromon hármat fordul a kocsi,
+édesanyám, minden pakkom hozza ki,
+hozza ki a behívólevelemet,
+Kolozsváron nem tudják a nevemet.
+
+udvaromon hármat fordul a kocsi,
+Most viszik az anyósom akasztani,
+Én teszem a kötelet a nyakába,
+Úgy segítem át a másik világra.
+
+Nincs egyebem, egyebem egy tetűnél,
+Az is megdöglött a fülem tövinél.
+Százan jöttek el a temetésire,
+Letelepedtek a fülem tövébe'.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

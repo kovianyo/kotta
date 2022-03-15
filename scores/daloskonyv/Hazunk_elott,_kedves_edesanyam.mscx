@@ -1141,6 +1141,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házunk előtt, kedves édesanyám, van egy magas eperfa,
+Aláállok, kedves édesanyám, hogy ne ázzak alatta.
+Csipkés annak a levele, sej, de jószagú,
+Egy legényért, kedves édesanyám, sose leszek szomorú.
+
+Házunk előtt, kedves édesanyám, ragyognak a csillagok,
+Énhozzám is, kedves édesanyám, egy pár csillag beragyog.
+Éntőlem is irigyelik azt a csillagot,
+Amelyik a babám ablakába minden este beragyog.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

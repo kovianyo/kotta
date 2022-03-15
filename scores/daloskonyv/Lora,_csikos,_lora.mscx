@@ -493,6 +493,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Lóra, csikós, lóra,
+Hatot üt az óra,
+Megforgatják a szép lányt
+A pitvarajtóba'.
+
+Lóra, csikós, lóra,
+Tízet üt az óra,
+Megcsókolják a szép lányt
+A pitvarajtóba'.
+
+Lóra, csikós, lóra,
+Éjfélt üt az óra,
+Elbocsátják a szép lányt
+A pitvarajtóba'.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

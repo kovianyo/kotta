@@ -629,6 +629,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ég a város, ég a ház is,
+Nem is egy ház, hanem száz is,
+Tűz, tűz, tűz, tűz,
+Jaj, de messze a kanális!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

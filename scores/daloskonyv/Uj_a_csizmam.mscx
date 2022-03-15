@@ -817,6 +817,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Új a csizmám, a szögre van felakasztva,
+Sarkantyúját belepte a rozsda.
+Összeverem olyan betyár módra,
+Mind egy szálig lepereg a rozsda róla!
+
+Új a szűröm, a szögre van felakasztva,
+Gyere, babám, akaszd a nyakamba!
+Így is, úgy is ott annak a helye,
+Még az éjjel betakarlak, babám, vele.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

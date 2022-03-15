@@ -690,6 +690,26 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Százados úr, ha felül a lovára,
+Kettesével megy a huszár utána.
+Olyan szépen szól a katonanóta,
+Kisangyalom az ablakban hallgatja. 
+
+Jászkun huszár kihajlik a nyeregből,
+Csókot kér a régi szeretőjétől.
+Adj egy csókot, kisangyalom az útra,
+Isten tudja, látlak-e még valaha!
+
+Kis pej lovam a fedeles rajcsórban,
+Nem jól ugrott be a rövid vágtába.
+Vigyázz, lovam, vigyázz a vezényszóra,
+Jobban tudod, mint egy bundás regruta.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

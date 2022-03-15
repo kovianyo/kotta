@@ -691,6 +691,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Erdő, erdő, de magas a teteje,
+Jaj, de régen lehullott a levele!
+Jaj, de régen lehullott a levele,
+Árva madár párját keresi benne.
+
+Búza közé szállt a dalos pacsirta,
+Mert odafönt a szemeit kisírta.
+búzavirág, búzakalász árnyába'
+Rágondolt a régi, első párjára.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -811,6 +811,33 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kék a kökény, zöld a petrezselyem,
+Tótágast áll bennem a szerelem,
+Jaj, Istenem, ugyan mit csináljak,
+Szeressek-e, vagy tótágast álljak?
+
+Szeretem a szép földvári papot,
+Veszek néki pántlikás kalapot,
+Ő vesz nékem fehér deli kendőt,
+Hogy ne tartsak földváron szeretőt.
+Tartok biz' én, mert most van módomban,
+Majd nem tartok vénasszony koromban.
+
+Addig leány, addig bazsarózsa,
+Míg a legény sírva jár utána,
+De ha a leány jár a legény után,
+Akkor már csak hervadt rozmaringszál.
+
+A cipőmnek se sarka, se talpa,
+Eltáncoltam a tardonai bálba,
+Lesz még annak sarka is, talpa is,
+Lesz szeretőm, szőke is, barna is.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

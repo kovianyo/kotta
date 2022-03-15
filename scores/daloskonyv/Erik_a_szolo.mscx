@@ -656,6 +656,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Érik a szőlő, hajlik a vessző, bodor a levele,
+Két szegény legény szántani menne, de nincsen kenyere.
+
+Van vöröshagyma a tarisznyába', keserű magába',
+Szolgalegénynek, sej, a szegénynek, de kevés vacsora!
+
+Zörög a kocsi, pattog a Jancsi, talán értem jönnek,
+Jaj, édesanyám, szerelmes dajkám, de hamar elvisznek!
+
+Kocsira a ládám, hegyibe a párnám, magam is felülök,
+Jaj, édesanyám, szerelmes dajkám, de hamar elvisznek!
+
+Huncut a gazda, nem néz a napra, csak a szép asszonyra,
+Huncut a vendég, mert mindig innék, ha vóna', ha vóna'!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

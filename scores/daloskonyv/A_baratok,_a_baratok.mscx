@@ -1064,6 +1064,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A barátok, a barátok facipőben járnak,
+Azok élik világukat, akik ketten hálnak.
+Lám, én, szegény szolgalegény, csak egyedül hálok,
+Akármerre tapogatok, csak falat találok.
+
+Mindenkinek van babája, csak énnékem nincsen,
+Kinek kettő, kinek három, nékem egy se nincsen.
+Ha az Isten egyet adna, jaj, de megbecsülném,
+Kezét, lábát összekötném, a füstre föltenném.
+
+Pestre mentem házasodni, bár ne mentem volna,
+Édes-kedves feleségem, bár ott vesztél volna!
+Ha az ördög olyan volna, talicskára tenne,
+Mennél jobban rikoltoznál, annál jobban vinne.
+
+Nekimentem a Tiszának, neki Csetfalvának,
+Nekilöktem a babámat a szénaboglyának.
+Hej, túró, tejföl, döglött kutya, kelj föl,
+Hogy egy ilyen szép leányért majd' meghal az embör!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

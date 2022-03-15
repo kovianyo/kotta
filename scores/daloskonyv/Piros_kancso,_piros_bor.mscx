@@ -701,6 +701,41 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Piros kancsó, piros bor,
+Mindjárt rám kerül a sor,
+Iszom a bort, ölelem a babámat,
+Azt a kutya mindenit a világnak!
+
+Nékem olyan ember kell,
+Ha beteg is, keljen fel,
+Keljen fel és tegyen tüzet, vágjon fát,
+Páros csókkal várja haza asszonyát!
+
+Nékem olyan asszony kell,
+Ha beteg is, keljen fel,
+Keljen fel és főzze meg a vacsorát,
+Vacsorával várja haza az urát!
+
+Ha szegény vagy, szegény vagy,
+Fűnek-fának adós vagy,
+Eladom a fejem alól a párnát,
+Még az éjjel elmulatom az árát.
+
+Nincsen pénzem, de majd lesz,
+Mikor Pesten vásár lesz,
+Eladom a feleségem szoknyáját,
+Még az éjjel mind megiszom az árát.
+
+Ihatnám én, de nincs mit,
+Borért küldnék, de nincs kit,
+Beteg az én édes-kedves galambom,
+Mégis elmegy piros borért, ha mondom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

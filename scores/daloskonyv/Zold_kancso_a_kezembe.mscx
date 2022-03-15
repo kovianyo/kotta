@@ -824,6 +824,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Zöld kancsó a kezembe', itt a jó bor benne,
+Te meg, édes kisangyalom, üljél az ölembe!
+Ha a gyenge kismadár nem száll minden ágra,
+Én sem fekszem mindenkor a babám ágyába!
+
+Hej, gazduram, azért is, igyunk egyet mink is,
+Mert hogy olyan nagyon régen szomjúhozom én is!
+Ha a gyenge kismadár nem száll minden ágra,
+Én sem fekszem mindenkor a babám ágyába!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

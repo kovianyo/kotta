@@ -556,6 +556,32 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megöltek egy legényt hatvan forintjáért,
+Bévetették a Tiszába piros pej lováért.
+
+Tisza bé nem vette, partjára kitette,
+Arra ment egy halászlegény, hajójába tette.
+
+Odament az apja, költi, de nem hallja:
+- Kelj föl, kelj föl, édes fiam, gyere vélem haza!
+
+Odament az anyja, költi de nem hallja:
+- Kelj föl, kelj föl, édes fiam, gyere vélem haza!
+
+Odament babája, költi, meg is hallja:
+- Kelj föl, kelj föl, édes rózsám, borulj a vállamra!
+
+- Csináltatsz-e nékem diófa koporsót?
+- Csináltatok, csináltatok márványkő koporsót!
+
+- Megsiratsz-e engem, apád, anyád előtt?
+- Megsiratlak, megsiratlak egész világ előtt!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

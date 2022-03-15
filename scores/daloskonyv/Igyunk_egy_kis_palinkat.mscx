@@ -563,6 +563,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Igyunk egy kis pálinkát, 
+Lemossa az út porát,
+Igyunk egy kis kadarkát, 
+Lemossa a pálinkát.
+
+Adjon Isten mindig mást,
+Ne felejtsük el egymást,
+Poharunknak feneket,
+Hadd ihassunk eleget!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

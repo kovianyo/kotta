@@ -1006,6 +1006,32 @@
             </Chord>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hajnal hasad, csillag ragyog,
+Én még a kocsmában vagyok,
+Jaj, Istenem, hogy szégyellem,
+Hogy reggel kell, csuhaj, hazamennem!
+De én aztat megteszem, hazamegyek, s lefekszem,
+Kialuszom magamat szép csendesen.
+
+Ha az úton kettő megáll,
+Engem beszél, engem csodál,
+Ne csodálkozz, nézd meg magad,
+Véled es a nagy Úristen szabad!
+Eridj haza, feküdj le, rálépek a füledre,
+Talán mind a kettőre!
+
+Tegnap is ma mentem haza,
+Ma is holnap megyek haza,
+Jaj, Istenem, hogy szégyellem,
+Hogy a feleségem csupa mezítelen!
+De én aztat megteszem, hazamegyek, s megverem,
+Kialuszom magamat szép csendesen.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

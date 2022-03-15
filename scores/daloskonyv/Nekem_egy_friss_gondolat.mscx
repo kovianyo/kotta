@@ -859,6 +859,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nékem egy friss gondolat ütközött eszembe,
+Valamelytől el sem válok teljes életembe,
+Holtig bort inni, korcsomán meghalni,
+Hej, dínom-dánom, töltsd teli, nem bánom!
+
+Verje Isten azt a földet, ki a kendert termi,
+De még jobban azt az erdőt, ki a rokkát termi,
+Irgő-pergő kis orsócskám, pokol-tűz égesse,
+Minket pedig, komámasszony, az Isten éltesse!
+
+Jó bort ittam, jó bort ittam, jó kedvem van tőle,
+Szid az uram, szid az uram, nem gondolok véle,
+Ha haragszik, ha haragszik, elfordulok tőle,
+Ott a hátam, ott a hátam, beszélgessen véle.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

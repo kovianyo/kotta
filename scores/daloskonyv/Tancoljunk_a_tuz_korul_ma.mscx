@@ -513,6 +513,15 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Táncoljunk a tűz körül ma,
+Itt ez a jó kis melódia,
+Dzsana, dzsana...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

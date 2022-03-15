@@ -1079,6 +1079,27 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megölték a bárót.
+Jó ember volt, kár volt
+Érte.
+
+Ott találták holtan,
+Kint a lucernásban,
+Vérben.
+
+Lányok, lányok sírjatok,
+Gyöngykoszorút fonjatok
+A sírra!
+
+Mert az ilyen ember
+Terem mint a kender,
+Bőven. Vége.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

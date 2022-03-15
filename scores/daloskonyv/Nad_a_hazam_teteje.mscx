@@ -1351,6 +1351,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nád a házam teteje, teteje, de
+Rászállott a cinege, cinege, de
+Hess le róla, cinege, cinege, mert
+Beszakad a teteje, teteje.
+
+Ha beszakad, mi lesz vélem,
+Sárga lábú cinege, cinege, de 
+Hess le róla, cinege, cinege, mert
+Beszakad a teteje, teteje.
+
+Sár a házam alapja, alapja, de
+Rámászott a giliszta, giliszta, de
+Hess le róla, giliszta, giliszta, mert
+Beszakad az alapja, alapja.
+
+Ha beszakad, mi lesz vélem,
+Mutáns fejű giliszta, giliszta, de
+Hess le róla, giliszta, giliszta, mert
+Beszakad az alapja, alapja.
+
+Műszálas a biciklim kereke, de
+Rászállott a molylepke, molylepke, de
+Hess le róla, molylepke, molylepke, mert
+Kilyukad a kereke, kereke.
+
+Ha kilyukad, mi lesz vélem,
+Szőrös lábú molylepke, molylepke, de
+Hess le róla, molylepke, molylepke, mert
+Kilyukad a kereke, kereke.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

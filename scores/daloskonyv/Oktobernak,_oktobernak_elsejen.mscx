@@ -895,6 +895,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Októbernak, októbernak elsején
+Nem süt a nap Csíkkarcfalva mezején.
+Elbúcsúzom a madártól, s az ágtól,
+Azután a csíkkarcfalvi lányoktól.
+
+Az Isten is katonának teremtett,
+Az a jámbor pap is annak keresztelt,
+Az is leszek, míg a világ világ lesz,
+Míg az égen egy ragyogó csillag lesz.
+
+Édesanyám, hol van az az édes tej,
+Mivel engem katonának nevelt fel?
+Édes tejet adta volna lányának,
+Mert a lányát nem viszik katonának!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

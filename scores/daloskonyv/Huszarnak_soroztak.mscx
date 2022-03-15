@@ -934,6 +934,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Huszárnak soroztak,
+Rossz bakancsot adtak,
+Verje meg az Isten,
+De megbúsítottak!
+
+Kértem a kapitányt,
+Adjon egy paripát,
+jól gondját viselem,
+Nem kap benne hibát.
+
+Ez lesz jó, ez lesz jó,
+Ez a sárga csikó,
+Ebből lesz, ebből lesz
+Igazi huszárló.
+
+Fel is van nyergelve,
+Fel van kantározva,
+Csak a jó Isten tudja,
+Mikor megyünk haza.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -692,6 +692,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nem fogsz te, pillangó, szállni,
+Virágról virágra szállni,
+Nem fogsz te, pillangó, szállni,
+Virágról virágra szállni!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

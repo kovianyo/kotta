@@ -458,6 +458,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hosszú farkú fecske, 
+szép barna menyecske,
+hová jöttél ide, 
+ez idegen földre?
+
+Nem jöttem én gyalog, 
+kis pej lovam hozott,
+Mind a négy lábáról
+a rézpatkó lehullott.
+
+Csak egy maradt rajta, 
+az is kotyog rajta,
+Kovács, jó barátom, 
+igazítsd meg rajta!
+
+Verjél bele szeget, 
+nyolcat vagy kilencet,
+Kovács, jó barátom, 
+meglásd, megfizetlek.
+
+Hátulján a zacskó, 
+benne ezres bankó,
+Kovács, jó barátom, 
+az mind borravaló!
+
+Ha csak egy lovad van, 
+ne tarts neki szolgát,
+Ha van szép szeretőd, 
+annak viseld gondját!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

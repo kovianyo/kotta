@@ -638,6 +638,46 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Immár a nap leáldozott,
+Teremtőnk, kérünk tégedet,
+Légy kegyes, és maradj velünk,
+Őrizzed, óvjad népedet!
+
+A gonosz álmok fussanak,
+És minden éji képzelet,
+Az ellent kösse meg kezed,
+Testünket hogy ne rontsa meg!
+
+Add nekünk, édes, jó Atyánk,
+Egyszülött Krisztus, add nekünk,
+Szentlélek Isten, vigaszunk,
+Kegyelmes, őrző Istenünk!
+
+Immár a nap leáldozott,
+Teremtőnk kérünk tégedet,
+Légy kegyes és maradj velünk,
+Őrizzed, óvjad népedet!
+
+Álmodjék rólad a szívünk,
+Álmunkban is te légy velünk,
+Téged dicsérjen énekünk,
+Midőn új napra ébredünk.
+
+Adj nékünk üdvös életet,
+Szítsd fel a szív fáradt tüzét:
+A ránk törő rút éjhomályt
+Világosságod rontsa szét!
+
+Kérünk, kegyelmes jó Atyánk,
+Úr Jézus Krisztus érdemén,
+Ki Szentlélekkel és Veled
+Uralkodik, s örökkön él.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

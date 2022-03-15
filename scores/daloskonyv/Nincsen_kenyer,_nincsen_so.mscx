@@ -1026,6 +1026,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Nincsen kenyér, nincsen só,
+Nincsen feleségem jó, de csuhajja!
+Majd lesz kenyér, majd lesz só,
+Majd lesz feleségem jó, de csuhajja!
+
+Három hordó borom van,
+A negyedik csapon van, de csapon van!
+Én fekszem a csap alá,
+Babám a fejem alá, de csuhajja! 
+
+Építettek Pestre házat,
+Ablakot rá háromszázat, csuhajja!
+Tetejébe tükörszobát,
+Hogy a babám fesse magát, csuhajja!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

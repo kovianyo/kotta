@@ -662,6 +662,35 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hej, Dunáról fúj a szél,
+Szegény embert mindig ér,
+Dunáról fúj a szél.
+
+Ha Dunáról nem fújna,
+Olyan hideg nem volna,
+Dunáról fúj a szél.
+
+Hej, Jancsika, Jancsika,
+Mért nem nőttél nagyobbra,
+Dunáról fúj a szél.
+
+Nőttél volna nagyobbra,
+Lettél volna katona,
+Dunáról fúj a szél.
+
+Kályha vállán a cica,
+Szeretsz-e még, Katica,
+Dunáról fúj a szél.
+
+Ha nem szeretsz, Katica
+Karmoljon meg a cica,
+Dunáról fúj a szél.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

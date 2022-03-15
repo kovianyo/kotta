@@ -1051,6 +1051,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Tavaszi szél vizet áraszt,
+virágom, virágom,
+Minden madár társat választ,
+virágom, virágom.
+
+Hát én immár kit válasszak,
+virágom, virágom?
+Te engemet s én tégedet,
+virágom, virágom.
+
+Zöld pántlika, könnyű gúnya,
+virágom, virágom,
+Mert azt a szél könnyen fújja,
+virágom, virágom.
+
+De a fátyol nehéz ruha,
+virágom, virágom,
+Mert azt a bú hajtogatja,
+virágom, virágom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

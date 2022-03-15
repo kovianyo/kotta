@@ -845,6 +845,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jól van dolga a mostani huszárnak,
+Nem kell szénát kaszáljon a lovának,
+Mert a széna porcióba van kötve, van kötve, de van kötve,
+Gyere, rózsám, tedd a lovam elébe!
+
+Édesanyám, ki a huszár, ha én nem?
+Ki nyergeli föl a lovat, ha én nem?
+Fölnyergelem aranyszőrű lovamat, lovamat, de lovamat,
+Lerúgatom véle a csillagokat.
+
+Kesely lovam nyerített a csatába',
+Mellső lábát éles golyó találta.
+Szállj le, huszár, vedd le nehéz nyergedet, nyergedet, de nyergedet,
+Szegény lábam nem bír tovább tégedet!
+
+Édesanyám, ki a kislány, ha én nem,
+Ki vasalja ki a szoknyát, ha én nem?
+Kimosom a fodros szoknyám fehérre,
+Rá se nézek akármilyen legényre.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

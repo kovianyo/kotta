@@ -673,6 +673,18 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Icipici csapatunk, 
+Kiscserkészek mi vagyunk,
+Télen-nyáron baktatunk,
+Mégis vidámak vagyunk.
+
+Lá, lá-lá, lá-lá-lá-lá-lá-lá.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

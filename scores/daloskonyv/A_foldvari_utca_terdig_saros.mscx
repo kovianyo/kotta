@@ -1070,6 +1070,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A földvári utca térdig sáros,
+A Dunától menni nem tanácsos.
+Attól félek, megvernek,
+Betörik a fejemet a zsandárok.
+
+Zsandár urak, tessék megfigyelni,
+Milyen szépen tudok hízelegni!
+Eressze el a karom,
+A babámat akarom megölelni!
+
+Ti, földvári lányok, hová jártok?
+Az erdőbe almát nem találtok,
+Mer' az alma leesett,
+A szeretőm elesett a csatába.
+
+Ti, földvári lányok, hová jártok?
+A kis kútba vizet nem találtok,
+Mer' a kis kút befagyott,
+A szeretőm elhagyott, az a marha!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

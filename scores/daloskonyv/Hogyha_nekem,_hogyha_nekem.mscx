@@ -1172,6 +1172,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hogyha nékem, hogyha nékem száz forintom volna,
+Kilincsem is, kilincsem is vert aranyból volna,
+De mivelhogy nincsen, fából van a kilincsem,
+Madzag a húzója.
+
+Az én rózsám, az én rózsám falu legszebb lánya,
+Hogy ne volna, hogy ne volna, hisz' én vagyok a párja.
+Nézését meg a járását, csípőjének a ringásást
+Száz aranyért nem adnám.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

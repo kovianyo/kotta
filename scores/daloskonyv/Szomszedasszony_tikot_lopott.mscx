@@ -700,6 +700,21 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Szomszédasszony tikot lopott, 
+de hamar kibizonyodott,
+Hiába vitte érte az ecetet, 
+a húsából semmit nem ehetett.
+
+Megkötötte a két lábát, 
+elmetszette szárnyát, farkát,
+De a madzag rossz volt, az elszakadt, 
+a más tikja mindjárt hazaszaladt!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -564,6 +564,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ludasim, pajtásim,
+Hol az én lúdjaim?
+Tizenketten vótak,
+mind fehérek vótak.
+
+Csak kettő vót barna,
+Harmadik az anyja.
+Kerülj ludam, kerülj,
+Kertem alján kerülj!
+
+Ott es csak úgy kerülj,
+Búal meg ne merülj!
+Mer', ha belé merülsz,
+Soha ki nem kerülsz.
+
+Jöjjön haza ludam,
+Vejszen oda uram!
+Össevejszen szegény,
+Mer' jó pipás legény.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

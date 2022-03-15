@@ -1642,6 +1642,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A madár fütyüli már az ágon:
+Magyar cserkész a legelső a világon.
+Hogyha megy, hogyha indul táborába,
+A Jóisten mosolyogva néz le rája.
+
+Kipakol és felveri sátorfáját,
+Dalos kedvvel, vígan végzi munkáját,
+Ha dolgozik énekel, táborozik lélekkel,
+Akadályt ő nem ismer a világon.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

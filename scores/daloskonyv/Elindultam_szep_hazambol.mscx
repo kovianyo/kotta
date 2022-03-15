@@ -673,6 +673,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Elindultam szép hazámból,
+Híres kis Magyarországból.
+Visszanéztem félutamból,
+Szememből a könny kicsordult.
+
+Bú ebédem, bú vacsorám,
+Boldogtalan minden órám.
+Nézem a csillagos eget,
+Sírok alatta eleget.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -1197,6 +1197,22 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Már minálunk, babám, már minálunk, babám,
+Az jött a szokásba, hogy
+Nem szedik a meggyet, nem szedik a meggyet 
+Fedeles kosárba.
+Felmegy a legény a fára, a meggyfa tetejére, oszt
+Lerázza a meggyet, te meg, babám, szedjed a
+Rózsás kötényedbe!
+
+Makkot - kapkodd, meggyet-makkot - szedjed-kapkodd, 
+ananászt - kaparászd, ...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

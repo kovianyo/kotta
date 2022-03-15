@@ -694,6 +694,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A diófa árnyékába' 
+ketten feküdtünk egy ágyba-ba-ba,
+Annyira estünk egymástól, 
+mint a csizmám a sarkától-tól-tól.
+
+Kútágasra szállott a sas, 
+engem, babám, ne csalogass-gass-gass,
+Csalogatott engem más is, 
+náladnál szebb virágszál is is is!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

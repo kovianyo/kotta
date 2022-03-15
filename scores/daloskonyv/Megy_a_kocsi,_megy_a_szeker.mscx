@@ -768,6 +768,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megy a kocsi, meg a szekér
+Homokér', homokér',
+Én is megyek a kocsmába
+Szilva pálinkáér'.
+
+Sej-haj, nem bánom, 
+Nékem is van virágom,
+Sej-haj, leszakítom 
+A nyáron.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

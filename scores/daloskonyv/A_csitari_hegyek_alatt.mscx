@@ -1242,6 +1242,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>A csitári hegyek alatt régen leesett a hó,
+Azt hallottam, kisangyalom, véled esett el a ló.
+Kitörted a kezedet, mivel ölelsz engemet?
+Így hát kedves kisangyalom, nem lehetek a tied.
+
+Amott látok az ég alatt egy madarat repülni,
+De szeretnék a rózsámnak egy levelet küldeni!
+Repülj madár, ha lehet, vidd el ezt a levelet,
+Mondd meg az én galambomnak, ne sirasson engemet!
+
+Arra alá van egy erdő, jaj, de nagyon messze van,
+Kerek erdő közepében két rozmaringbokor van.
+Egyik hajlik a vállamra, másik a babáméra,
+így hát, kedves kisangyalom, tiéd leszek valaha.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -639,6 +639,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ihatnám én, de nincs mit,
+Borért küldnék, de nincs kit.
+Beteg az én galambom,
+Mégis elmegy, ha mondom,
+Mégis elmegy, ha mondom, ha mondom.
+
+A szép asszony messze lát,
+Bortért küldi az urát,
+Még az ura borért jár,
+Nyalka legény nála jár,
+Nyalka legény nála jár, nála jár.
+
+Csaplárosné szép asszony,
+A szavamra hallgasson,
+Jöjjön be a szobába,
+Feküdjünk be egy ágyba, 
+Feküdjünk be egy ágyba, egy ágyba!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

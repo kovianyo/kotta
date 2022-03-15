@@ -706,6 +706,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Áj kongólá, zsö lájlájlá
+Csiki-lajlajla á zumpapa.
+Áj kogólá, zsö lájlájlá
+Csiki-lajlajla á zumpapa.
+
+Zsö tem e rozí, zsö tem e rozá,
+Zsö tem e rozí, zsö tem e rozá,
+Voilá, csacsa.
+
+Rozí, rozá, zsö tem ö, zsö tem ö,
+Rozí, rozá, zsö tem ö, rozá.
+Voilá, csacsa.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

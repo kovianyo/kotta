@@ -743,6 +743,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Isten áldja meg a magyart,
+Tartson neve, míg a föld tart,
+Paradicsom hazájában
+Éljen, mint a hal Dunában,
+Éljen, mint a hal Dunában!
+
+Töltse békében napjait,
+Egyezve lássa fiait,
+Tatár, török, más ellenség
+Minket meg ne rendíthessék,
+Minket meg ne rendíthessék!
+
+Isten áldja meg a magyart,
+Tartson neve, míg a föld tart,
+Isten áldjon meg bennünket,
+Minden igaz magyar embert,
+Minden igaz magyar embert!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

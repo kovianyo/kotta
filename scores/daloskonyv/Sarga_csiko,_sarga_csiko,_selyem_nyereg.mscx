@@ -901,6 +901,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Sárga csikó, sárga csikó, selyem nyereg,
+Nem ül abba, nem ül abba minden gyerek,
+Ej-haj, aki felül, csuhaj, a nyeregbe,
+Százas legyen a zsebébe!
+
+Százas is volt, ezres is volt, de elfogyott,
+Szép lány is volt, csúnya is volt, de elhagyott,
+Ej-haj, ha elhagyott, csuhaj, ha elhagyott,
+Verje meg az Egek Ura!
+
+A gyimesi, a gyimesi juhászlegény,
+Es az eső, es az eső, ázik szegény,
+Ej-haj, szonnyan legel, csuhaj, az ő nyája,
+Itassa meg a babája!
+
+Megitatnám, megitatnám, de nem merem,
+Nagy a veder, nagy a veder, nem emelem,
+Ej-haj, míg a vedret, csuhaj, megemelem,
+Százszor megöl a szerelem.
+
+Udvaromon, udvaromon három vályú,
+Abból iszik, abból iszik háromszáz juh,
+Ej-haj, én vagyok a, csuhaj, őrizője,
+Barna leány szeretője.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

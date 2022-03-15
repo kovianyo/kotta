@@ -858,6 +858,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ha meguntál, édesanyám, édesanyám, tartani,
+Vigyél engem a vásárba eladni!
+Adjál oda a legelső kérőnek,
+Mért nem adtál a régi szeretőmnek?
+
+Azt gondoltad, régi babám, régi babám, megcsaltál, 
+Pedig engem meg se szomorítottál,
+Megcsaltad te, régi babám, magadat,
+Mert nem találsz nálamnál igazabbat.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

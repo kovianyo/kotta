@@ -690,6 +690,31 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Házunk előtt áll egy terhes hajó,
+azt kérdezi, van-e zab eladó,
+azt kérdezi, de kisangyalom,
+van-e zab eladó.
+
+Árpánk is van, mégis zabot kérnek,
+jobb a lánynak, mint a menyecskének,
+jobb a lánynak, de kisangyalom,
+mint a menyecskének.
+
+Mert a lánynak befonják a haját,
+fújja a szél a piros pántlikáját,
+fújja a szél, de kisangyalom,
+piros pántlikáját.
+
+Menyecskének bekötik a fejét,
+búval éli az egész életét,
+búval éli, de kisangyalom,
+az egész életét.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

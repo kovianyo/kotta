@@ -659,6 +659,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hej, Vargáné káposztát főz,
+kontya alá ütött a gőz,
+hányja-veti fakalánját,
+kinek adja Zsuzsa lányát?
+
+Nem adja az más egyébnek,
+Kara István őkelmének,
+még akkor neki ígérte,
+mikor bölcsőben rengette.
+
+Nem ettem én ma egyebet,
+Csak egy köcsög aludttejet,
+Azt is csak úgy kalán nélkül,
+Megélek én a lány nélkül.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

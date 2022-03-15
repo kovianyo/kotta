@@ -549,6 +549,23 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Bíró Marcsa bő szoknyája, sárirom,
+Beakadt a csipkefába, sárga liliom.
+
+Nem a csipkefa fogta meg, sárirom,
+Varga Pista markolta meg, sárga liliom.
+
+Ereszd Pista a szoknyámat, sárirom,
+Ne szomorítsd az anyámat, sárga liliom!
+
+Meg van az már szomorítva, sárirom,
+Fekete gyászba borítva, sárga liliom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

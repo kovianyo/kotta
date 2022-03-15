@@ -628,6 +628,30 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Cserkészfiú, cserkészlány,
+Szedd a lábad szaporán!
+Figyeld a másik mit csinál,
+Lemaradni nagy szégyen ám!
+Bal, jobb, ba-al,
+És közben leng a kar.
+Egyenes háttal és emelt fővel, bátran nézz előre!
+Egy,
+Egy, kettő, egy.
+
+Amerre mi járunk,
+bámulnak az emberek.
+Folyton azt kérdezik,
+kik vagytok ti, gyerekek.
+Cserkészek vagyunk,
+és búrkalapot hordunk.
+S hogyha ezt nem értik,
+hangosabban mondjuk.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

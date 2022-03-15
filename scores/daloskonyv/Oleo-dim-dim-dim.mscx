@@ -452,6 +452,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Oléo-dim-dim-dim,
+Oléo-dim-dim,
+Oléo-léo-dim-dim,
+Oléo-léo-dim.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

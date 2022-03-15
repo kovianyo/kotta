@@ -369,6 +369,15 @@
             </Spanner>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Rics-racs, rumdibum, rumdibum, rumdibum,
+Rics-racs, rumdibum, rumdibum.
+La-la...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

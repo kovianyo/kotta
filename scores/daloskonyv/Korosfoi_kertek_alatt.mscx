@@ -749,6 +749,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Körösfői kertek alatt
+három kislány zabot arat,
+Sej-haj, zabot arat a lovának,
+szeretőt keres magának.
+
+Körösfői nagy hegy alatt
+forrás folyik titok alatt,
+Sej-haj, aki abból vizet iszik,
+babájától elbúcsúzik.
+
+Körösfői templom előtt
+háromágú diófa nőtt,
+Sej-haj, három ága, hat levele,
+tilos a szeretőm neve.
+
+Megválogatják a legényt,
+mint vásárban az edényt,
+Sej-haj, az edénynek a mázasát,
+a legénynek a szálasát.
+
+Megválogatják a leányt,
+mint vásárban a dohányt,
+Sej-haj, a dohánynak a szálasát,
+a leánynak a szájasát.
+
+Mondd meg babám, vagy üzend meg,
+miért haragudtál rám úgy meg?
+Sej-haj, nem üzenem, nem is mondom,
+mert én terád nem haragszom.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -598,6 +598,13 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Trallaléro...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

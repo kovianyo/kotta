@@ -665,6 +665,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Hogy' a csibe, hogy'?
+Három forint húsz.
+Három forint húsz a csibe ára,
+Leteszem az asztalára.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

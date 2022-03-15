@@ -875,6 +875,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Sárga a csikó, sárga a nyereg rajta,
+Most akartam hozzád menni rajta.
+Most akartam véled beszélgetni,
+Itt van az idő, el kell masírozni.
+
+Hej, anyám, anyám, kedves édesanyám,
+De szomorú vasárnap délután!
+Házunk előtt szépen muzsikálnak,
+Engemet pedig visznek katonának.
+
+Ne vigyenek engem katonának,
+Meghasad a szíve a babámnak!
+Meghasad a babám gyenge szíve,
+Ha engemet elrabolnak tőle.
+
+Lányok, a legényt jól megbecsüljétek,
+Ha részeg is, hazavezessétek!
+Fektessétek a zöld paplanos ágyba, oszt
+Nyomjatok csókot a részeg pofájára!
+
+Lányok a legényt addig becsüljétek,
+Hogyha részeg, be ne engedjétek!
+Mondjátok meg az édesanyjának,
+Részeges a fia, tartsa meg magának!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

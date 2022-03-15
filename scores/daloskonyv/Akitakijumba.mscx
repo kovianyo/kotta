@@ -383,6 +383,13 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Akitakijumba...</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

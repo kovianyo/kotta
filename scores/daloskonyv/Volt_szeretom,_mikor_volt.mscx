@@ -613,6 +613,24 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>volt szeretőm, mikor volt,
+mikor a fán szilva volt.
+aj-na-na...
+
+de a szilvát leszedték,
+s a szeretőm elvették.
+
+én a szilvát visszateszem,
+s a szeretőm visszaveszem.
+
+Volt szeretőm tizenhat is,
+De jó lenne most egy vak is!</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

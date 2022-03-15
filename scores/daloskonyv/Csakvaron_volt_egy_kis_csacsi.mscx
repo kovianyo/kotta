@@ -542,6 +542,26 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Csákváron volt egy nagy csacsi,
+Csákváron volt egy, libidia-lapszom, labodia-libidia, nagy csacsi.
+
+A csacsi neve - ... volt.
+
+A csacsi nagyon - szomjas volt.
+
+Pohárba' hoztak - friss vizet.
+
+A csacsi szája - nem fért be.
+
+Dézsába' hoztak - friss vizet.
+
+A csacsi nagyon - jót ivott.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

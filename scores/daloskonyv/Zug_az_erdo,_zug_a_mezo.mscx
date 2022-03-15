@@ -610,6 +610,41 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Zúg az erdő, zúg a mező, 
+vajon ki zúgatja?
+Talán bizony Angyal Bandi, 
+sej-haj, a lovát ugratja.
+
+Víg ő maga, Víg a lova,
+víg a paripája,
+vígan várja Varga Julcsa, 
+sej-haj, a megvetett ágyba.
+
+Varga Julcsa selyem ágya 
+magasra van vetve,
+Angyal Bandi a kalapját, 
+sej-haj, rajta felejtette.
+
+Hozd ki, Julcsa, a kalapom, 
+hadd tegyem a fejembe,
+hogy ne süssön a fényes nap, 
+sej-haj, ragyogó szemembe!
+
+Lám, megmondtam, Angyal Bandi,
+Ne menj az Alföldre,
+Csikósoknak, gulyásoknak, 
+sej-haj, ne járj ellenére!
+
+Mert, ha csikót találsz lopni,
+Azonnal megfognak,
+Harminchárom kilós vasat, sej-haj,
+Kezedre vasalnak.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

@@ -999,6 +999,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kocsmárosné, szép csárdásné, de savanyú a bora,
+Olyan, mint a, olyan, mint a valóságos vadalma.
+Kocsmárosné, cukrozza meg a borát,
+Adja nékem feleségül a legszebbik leányát!
+
+Kocsmárosné, szép csárdásné, de ugat a kutyája,
+Nem jöttem én, nem jöttem én lopni az udvarába.
+Hanem azért jöttem az udvarába,
+Babám hangját hallottam meg odabenn a konyhában.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

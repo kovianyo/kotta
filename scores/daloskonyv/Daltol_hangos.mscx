@@ -1617,6 +1617,29 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Daltól hangos erdő, mező, berek,
+Merre járunk mi, cserkészek.
+Dalol a szív, muzsikál a lélek,
+Vele dalol a természet.
+Aki dalol, sose fárad el,
+Aki felnéz, sose csügged el,
+Mert a dalt ajkunkra a Jóisten adja,
+Ő ad erőt a nagy harcra.
+
+Dobog a föld lépéseink alatt,
+Visszhangoznak a kőfalak.
+Magas házak közt ifjú legények,
+Dacosan, keményen lépnek.
+Nyisd ki, anyám, az ablakodat,
+Csókold meg a cserkészlányodat.
+Nagy Magyarországnak kicsi katonája,
+Büszke szemmel nézhetsz rája.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

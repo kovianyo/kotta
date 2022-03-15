@@ -580,6 +580,33 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Kisangyalom szeme-szája
+Többet ér, mint Buda vára.
+Mert Budavár az uraké,
+Kisangyalom csak magamé.
+
+Erre gyere, ne menj arra,
+Jobb út van erre, mint arra.
+Erre van a Kerék utca,
+Kisangyalom gyalogútja.
+
+Irigyeim sokan vannak,
+Mint a kutyák, úgy ugatnak,
+Adok nekik tejet-vajat,
+Hadd ugassák ki magukat.
+El akarnak veszejteni, 
+A jó Isten nem engedi.
+
+Engem szeress, ne anyádat,
+Én varrom a jegygatyádat.
+Mer' az anyád tejet adott,
+Én meg, babám, csókot adok.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

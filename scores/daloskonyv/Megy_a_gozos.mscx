@@ -731,6 +731,16 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Megy a gőzös, megy a gőzös Kanizsára,
+Kanizsai, kanizsai állomásra.
+Elöl ül a masiniszta,
+Ki a gőzöst, ki a gőzöst igazítja.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

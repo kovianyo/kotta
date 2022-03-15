@@ -672,6 +672,21 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Ali baba vígan él,
+Tevegel a teve tetején,
+Szemébe nem süt a nap,
+Nincs is nála boldogabb!
+
+Ali senkitől se fél,
+Énekel a teve tetején,
+Dalát te is megtanulod,
+Hogyha csendben hallgatod.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>

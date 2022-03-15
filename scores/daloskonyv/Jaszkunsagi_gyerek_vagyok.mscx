@@ -920,6 +920,36 @@
             </BarLine>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Jászkunsági gyerek vagyok,
+Jászkunságon születtem,
+Kiskoromtól nagykoromig
+Benne fölnevelődtem.
+
+Kilenc zsandár kísér engem
+Jászkunsági főutcán,
+Még akkor is betekintek
+Kisangyalom ablakán.
+
+Éppen akkor, éppen akkor
+Vetette be az ágyát,
+Rozmaringgal, rozmaringgal
+Söpörte a szobáját.
+
+Még akkor is utánam szól:
+Barna legény, gyere be!
+Adj egy csókot, egy utolsót,
+Kacsintsál a szemembe!
+
+Nem mehetek, kedves rózsám,
+Mert be vagyok sorozva,
+Budapesti nagy kaszárnya
+Nyitva van a számomra.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
