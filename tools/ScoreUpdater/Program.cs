@@ -76,7 +76,7 @@ namespace ScoreUpdater
 
         private static IEnumerable<ScoreFile> GetStoredScores(IEnumerable<ScoreFile> uploaded)
         {
-            var storedScoreFiles = Utils.XmlDeserializeFile<ScoreFile[]>("ScoreFiles.xml");
+            var storedScoreFiles = Utils.XmlDeserializeFile<ScoreFile[]>("ScoreFiles.xml") ?? Array.Empty<ScoreFile>();
 
             foreach (var storedScoreFile in storedScoreFiles)
             {
