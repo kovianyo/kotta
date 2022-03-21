@@ -1821,6 +1821,10 @@
             <offset x="-3" y="-3.37"/>
             <text>B3</text>
             </RehearsalMark>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1872,6 +1876,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1883,6 +1891,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1934,6 +1945,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1969,6 +1984,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2020,6 +2039,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -2034,6 +2057,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>18</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2085,6 +2111,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2120,6 +2150,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2171,6 +2205,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2206,6 +2244,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2257,6 +2299,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2292,6 +2338,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2343,6 +2393,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2381,6 +2435,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2432,6 +2490,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>

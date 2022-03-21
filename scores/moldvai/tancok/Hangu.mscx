@@ -174,10 +174,12 @@
             <tempo>3.3333333333333335</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="-9.68459" y="-2.67567"/>
+            <offset x="-10.8196" y="-3.43237"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 200</b></text>
             </Tempo>
           <RehearsalMark>
+            <minDistance>0.363524</minDistance>
+            <offset x="-1.79717" y="-2.62165"/>
             <text>A</text>
             </RehearsalMark>
           <Harmony>
