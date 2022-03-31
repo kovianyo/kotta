@@ -385,7 +385,7 @@
             <root>15</root>
             </Harmony>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>du</text>
@@ -396,7 +396,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>lás</text>
@@ -465,10 +465,10 @@
             <root>14</root>
             </Harmony>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <ticks_f>0/8</ticks_f>
+              <ticks_f>0/4</ticks_f>
               <text>kot</text>
               </Lyrics>
             <Note>
@@ -477,7 +477,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ad</text>
