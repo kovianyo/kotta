@@ -214,8 +214,11 @@
               <text>le</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>65</pitch>
+              <tpc>25</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -234,9 +237,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -244,8 +244,11 @@
               <text>vol</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>65</pitch>
+              <tpc>25</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -319,8 +322,11 @@
               <text>le</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>65</pitch>
+              <tpc>25</tpc>
               </Note>
             </Chord>
           <Chord>
