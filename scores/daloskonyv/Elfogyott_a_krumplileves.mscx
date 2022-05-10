@@ -102,7 +102,7 @@
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/user/443/scores/5498870</metaTag>
+    <metaTag name="source">/score/view?score_id=5498870</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle"></metaTag>
@@ -152,6 +152,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -171,6 +175,9 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -358,6 +365,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -472,6 +482,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -545,6 +558,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -609,6 +625,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -662,6 +681,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -674,6 +696,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -702,6 +727,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
