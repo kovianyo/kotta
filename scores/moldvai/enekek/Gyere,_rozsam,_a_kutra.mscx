@@ -226,9 +226,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -250,9 +247,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -719,9 +713,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -771,6 +762,9 @@
       <Measure>
         <stretch>0.9</stretch>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -877,7 +871,7 @@ Uccu fekete retek, barna legényt szeretek, de barna legényt szeretek.
 Uccu fekete retek, barna legényt szeretek, de barna legényt szeretek.
 
 Szegény legény vagyok, dolgozni nem akarok, jajj,
-Hagyok békét mindennek, forduljak az üveghez, jajj.
+Hagyok békét mindennek, forduljak az üvegnek, jajj.
 Uccu fekete retek, barna kislányt szeretek, de barna kislányt szeretek.
 Uccu fekete retek, barna kislányt szeretek, de barna kislányt szeretek.
 
