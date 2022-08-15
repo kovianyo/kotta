@@ -37,7 +37,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/user/443/scores/6875341</metaTag>
+    <metaTag name="source">/score/view?score_id=6875341</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Én víg nem vagyok</metaTag>
@@ -167,14 +167,14 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>2</accidental>
+            <accidental>0</accidental>
             </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>16</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -182,8 +182,8 @@
               <text>Én</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -196,8 +196,8 @@
               <text>víg</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -210,8 +210,8 @@
               <text>nem</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -221,8 +221,8 @@
               <text>va</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -230,7 +230,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -239,8 +239,8 @@
               <text>gyok,</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -262,8 +262,8 @@
               <text>Szo</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -286,8 +286,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -300,8 +300,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -314,8 +314,8 @@
               <text>rú</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -325,8 +325,8 @@
               <text>va</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -334,7 +334,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>16</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -344,8 +344,8 @@
               <text>gyok,</text>
               </Lyrics>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
@@ -364,7 +364,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>17</root>
             <name>m</name>
             </Harmony>
           <Chord>
@@ -374,8 +374,8 @@
               <text>Ga</text>
               </Lyrics>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -385,8 +385,8 @@
               <text>lam</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -400,8 +400,8 @@
               <text>bo</text>
               </Lyrics>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -412,8 +412,8 @@
               <text>mat</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -426,8 +426,8 @@
               <text>nem</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -437,8 +437,8 @@
               <text>lát</text>
               </Lyrics>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -461,8 +461,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -475,8 +475,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -487,8 +487,8 @@
               <text>tom,</text>
               </Lyrics>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -496,7 +496,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>17</root>
+            <root>15</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -504,8 +504,8 @@
               <text>Jajj,</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -518,8 +518,8 @@
               <text>jajj,</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -533,8 +533,8 @@
               <text>meg</text>
               </Lyrics>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -544,8 +544,8 @@
               <text>ha</text>
               </Lyrics>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -553,7 +553,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>19</root>
+            <root>17</root>
             <name>m</name>
             </Harmony>
           <Chord>
@@ -563,8 +563,8 @@
               <text>lok!</text>
               </Lyrics>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
