@@ -37,7 +37,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/user/443/scores/7059165</metaTag>
+    <metaTag name="source">/score/view?score_id=7059165</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Hallod-e, te, szelidecske</metaTag>
@@ -174,7 +174,7 @@
             <tempo>1</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <Harmony>
             <root>14</root>
@@ -895,7 +895,7 @@ Sem nem leány, sem menyecske.
 Mert én egy kerti virág vagyok
 A harmatért majd' meghalok,
 Mert én egy kerti virág vagyok
-A harmatért majd' meghalok,.
+A harmatért majd' meghalok.
 
 Ha te virág vagy a kertben,
 Én meg harmat leszek benne,
@@ -904,7 +904,7 @@ Hajnalig rajta úszkálok,
 Hozd fel Isten, azt a Napot,
 Hadd süsse fel a harmatot,
 A füvekről a harmatot,
-A szívetekből a bánatot</text>
+A szívetekből a bánatot.</text>
           </Text>
         </TBox>
       </Staff>
