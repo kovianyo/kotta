@@ -183,6 +183,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -448,6 +451,9 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
