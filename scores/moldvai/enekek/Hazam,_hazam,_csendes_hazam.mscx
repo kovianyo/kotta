@@ -280,7 +280,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>17</root>
+            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
