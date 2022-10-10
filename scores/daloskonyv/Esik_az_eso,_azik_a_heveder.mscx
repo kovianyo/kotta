@@ -438,6 +438,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <KeySig>
+            <accidental>0</accidental>
+            </KeySig>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
@@ -557,8 +560,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>16</root>
-            <name>m</name>
+            <root>15</root>
             </Harmony>
           <Beam>
             </Beam>
@@ -803,8 +805,7 @@
           </Jump>
         <voice>
           <Harmony>
-            <root>13</root>
-            <extension>1</extension>
+            <root>15</root>
             </Harmony>
           <Beam>
             </Beam>
@@ -843,8 +844,8 @@
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
