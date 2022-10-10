@@ -779,12 +779,13 @@
             </BarLine>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <bottomGap>0</bottomGap>
-        <Text>
-          <style>Frame</style>
-          <text>Érik, érik a cseresznye,
+      <VBox>
+        <height>10</height>
+        <HBox>
+          <width>42.0921</width>
+          <Text>
+            <style>Frame</style>
+            <text>Érik, érik a cseresznye,
 Bodorodik a levele, haj-e-haj!
 Mennél inkább bondorodik,
 Annál inkább szomorodik, haj-e-haj!
@@ -826,8 +827,61 @@ S avval töltsük el életünk, haj-e-haj!
 
 értibe = érettje közül; cibere = lekvár 
 </text>
-          </Text>
-        </TBox>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>46.9919</width>
+          <offset x="60.7575" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Érik, érik a cseresznye,
+Bodorodik a levele, haj-e-haj!
+Mennél inkább bondorodik,
+Annál inkább csokrosodik, haj-e-haj!
+
+Felhágék a tetejére,
+Válogaték az értibe', haj-e-haj,
+S az értibe, a javába,
+Özvegyasszony szép fiába, haj-e-haj!
+
+Mikor egyszer leány lennék,
+Megválasztanám a legényt, haj-e-haj!
+Úgy megválasztanám szegényt,
+Mint piacon ez új edényt, haj-e-haj!
+
+Ez új edényt a mázáról,
+S e szép legényt rosszáságáról, haj-e-haj!
+Megcsengetném, megpengetném,
+S ha rossz lenne, földhöz verném, haj-e-haj!
+
+Tűzmalomban ég egy gyertya,
+Gyönge piros legény tartja, haj-e-hajj!
+De szeretném a gyertyáját,
+De még jobban a tartóját, haj-e-hajj!
+
+Magas fára hág a komló,
+Szép leányból válik ringyó, haj-e-hajj!
+S akármilyen ringyó voltam,
+Veres császár neje voltam, haj-e-hajj!
+
+Veres császár engedjen meg,
+S a kőszikla repedjen meg, haj-e-hajj!
+S a kőszikla repedjen meg,
+Életem nem csorbítom meg, haj-e-hajj!
+
+Haja, haja, sárig haja,
+Szeretőmenk sárga haja, haj-e-hajj!
+Sárga haja, nyírt a vége,
+Azért fáj a szívem érte, haj-e-hajj!
+
+Sárga haja, gyolcs az inge,
+Azért fáj a szívem érte, haj-e-hajj!
+Gyolcs az inge, szépen lobog,
+S az én szívem érte dobog, haj-e-hajj!
+</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
