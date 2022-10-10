@@ -24,7 +24,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/user/443/scores/8789832</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Szignálok</metaTag>
@@ -150,7 +150,6 @@
       <Measure>
         <voice>
           <TimeSig>
-            <linkedMain/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -159,7 +158,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-10.8776" y="-2.39198"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <SystemText>
             <text>Metró</text>
