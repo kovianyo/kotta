@@ -150,6 +150,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -176,6 +180,10 @@
             <offset x="-6.15157" y="-2.50561"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
+          <Harmony>
+            <root>19</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -291,6 +299,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>17</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -337,6 +348,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -397,6 +412,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>19</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -484,6 +503,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>19</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -507,6 +530,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -555,6 +581,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -568,11 +598,13 @@
             </Chord>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <Text>
-          <style>Frame</style>
-          <text>Mikor Gergely legény volt,
+      <VBox>
+        <height>10</height>
+        <HBox>
+          <width>44.5225</width>
+          <Text>
+            <style>Frame</style>
+            <text>Mikor Gergely legény volt,
 Olyan legény egy sem volt,
 Édes Gergelem, kedves Gergelem!
 
@@ -591,8 +623,15 @@ Jaj, be jedves ljányka voltam,
 Mikor Gergely legény volt,
 Olyan legény egy sem volt,
 Édes Gergelem, kedves Gergelem!
-
-Mikor Gergely legény volt,  
+</text>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>49.3448</width>
+          <offset x="53.5123" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Mikor Gergely legény volt,  
 Jaj, mics'a szép legény volt, 
 Édes Gergelem, kedves Gergelem! 
 
@@ -615,8 +654,9 @@ Jaj, mics'a szép leány voltam,
 Gergely szeretőm nincsen, 
 Karikagyűrűm sincsen,
 Édes Gergelem, kedves Gergelem!</text>
-          </Text>
-        </TBox>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
