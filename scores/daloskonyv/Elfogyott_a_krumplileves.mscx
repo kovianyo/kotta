@@ -593,6 +593,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -605,6 +608,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
