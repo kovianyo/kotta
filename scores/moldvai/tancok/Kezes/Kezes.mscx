@@ -460,7 +460,7 @@
             <root>14</root>
             </Harmony>
           <RehearsalMark>
-            <offset x="-3.51911" y="-3.70382"/>
+            <offset x="-1.6671" y="-4.55433"/>
             <text>B</text>
             </RehearsalMark>
           <Chord>
@@ -526,8 +526,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -716,6 +719,10 @@
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <offset x="-1.44045" y="-5.05779"/>
+            <text>C</text>
+            </RehearsalMark>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -1130,6 +1137,10 @@
           <Harmony>
             <root>15</root>
             </Harmony>
+          <RehearsalMark>
+            <offset x="-1.33756" y="-4.85201"/>
+            <text>D</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
