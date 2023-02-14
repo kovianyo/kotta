@@ -1842,7 +1842,6 @@
         <voice>
           <Harmony>
             <root>13</root>
-            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1963,7 +1962,6 @@
         <voice>
           <Harmony>
             <root>13</root>
-            <name>m</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
