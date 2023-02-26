@@ -264,6 +264,14 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -288,6 +296,17 @@
         <voice>
           <Chord>
             <durationType>half</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
