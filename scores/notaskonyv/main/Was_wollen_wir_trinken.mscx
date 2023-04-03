@@ -974,8 +974,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
-            <extension>1</extension>
+            <root>14</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -988,6 +987,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
