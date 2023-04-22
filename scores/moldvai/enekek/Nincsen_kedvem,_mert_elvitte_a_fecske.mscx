@@ -208,21 +208,10 @@
         <stretch>0.9</stretch>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ked</text>
-              </Lyrics>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>vem,</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -234,8 +223,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -247,6 +236,17 @@
                   </location>
                 </prev>
               </Spanner>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>vem,</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -384,21 +384,10 @@
         <stretch>0.9</stretch>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
               <text>dő</text>
-              </Lyrics>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>nek</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -410,8 +399,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -423,6 +412,17 @@
                   </location>
                 </prev>
               </Spanner>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>nek</text>
+              </Lyrics>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
@@ -568,21 +568,10 @@
         <stretch>0.9</stretch>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>fecs</text>
-              </Lyrics>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ke,</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -594,8 +583,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -607,6 +596,17 @@
                   </location>
                 </prev>
               </Spanner>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ke,</text>
+              </Lyrics>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -897,10 +897,25 @@ Moldovának közepére letette.
 Kicsi fecske, hoz­d vissza a kedvemet, 
 Kedvem után a régi szeretőmet! 
 
+Száraz fából könnyű hidat csinálni,
+Jajj, de bajos hű szeretőt találni,
+Mer' a mai menyecskék es olyanok,
+Szép az urik de még szebbet akarnak.
+
 Száraz ágról messze reppen a fecske, 
 Régi babám, jutok-e még eszedbe? 
-Hogy ne jutnál, el sem felejtettelek, 
-Óra sincsen, kibe'­ nem emlegetlek!</text>
+Hogy ne jutnál, el se felejtettelek, 
+Óra sincsen, kibe'­ nem emlegetlek!
+
+Édesanyám ha meguntál tartani,
+Vígy el ingem a piacra eladni!
+Ott es eljő az én babám megvenni,
+Páros pénzvel fog ingem kiváltani.
+
+Kettő szárnya van a marti fecskének,
+Jobb a lánynak, jobb mind a menyecskének.
+Menyecskének csak elkötik a fejét,
+Búval éli el az egész életjét.</text>
           </Text>
         </TBox>
       </Staff>

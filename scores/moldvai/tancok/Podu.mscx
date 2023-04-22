@@ -183,10 +183,11 @@
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <offset x="-4.32135" y="-3.32233"/>
+            <offset x="8.85137" y="-3.70816"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <RehearsalMark>
+            <offset x="-3.1" y="-3"/>
             <text>A</text>
             </RehearsalMark>
           <Chord>
@@ -479,6 +480,7 @@
             <root>14</root>
             </Harmony>
           <RehearsalMark>
+            <offset x="-1.1" y="-3"/>
             <text>B</text>
             </RehearsalMark>
           <Chord>
