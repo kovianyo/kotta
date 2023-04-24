@@ -165,7 +165,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-6.63514" y="-2.87304"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Harmony>
             <root>15</root>
@@ -421,7 +421,7 @@
         <stretch>0.5</stretch>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
