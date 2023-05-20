@@ -184,6 +184,9 @@
               <text>Im</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -195,6 +198,9 @@
               <text>Ha</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -216,6 +222,9 @@
               <text>Shem</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>3</text>
+                </Fingering>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -968,8 +977,8 @@
               <text>Sha</text>
               </Lyrics>
             <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1180,6 +1189,9 @@
               <text>Hi</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1303,6 +1315,9 @@
               <text>v'Lo</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1428,6 +1443,9 @@
               <text>Sho</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1554,6 +1572,9 @@
               <text>Sho</text>
               </Lyrics>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>

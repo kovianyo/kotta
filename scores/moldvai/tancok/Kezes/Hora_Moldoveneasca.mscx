@@ -948,6 +948,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -962,6 +965,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>12</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1173,10 +1179,20 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1241,6 +1257,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
