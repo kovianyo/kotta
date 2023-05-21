@@ -6,6 +6,10 @@
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
+    <Style>
+      <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+      <Spatium>1.74978</Spatium>
+      </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
