@@ -426,10 +426,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>14</root>
-            <extension>1</extension>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -464,8 +460,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>15</root>
-            <extension>1</extension>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -480,6 +475,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>

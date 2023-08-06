@@ -175,6 +175,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Fingering>
+                <style>LH Guitar Fingering</style>
+                <text>5</text>
+                </Fingering>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -189,6 +193,10 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <style>LH Guitar Fingering</style>
+                <text>5</text>
+                </Fingering>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -242,6 +250,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>5</text>
+                </Fingering>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -591,6 +602,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
