@@ -176,8 +176,15 @@
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <root>13</root>
+            <root>14</root>
             </Harmony>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-6.17336" y="-2.69643"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -200,6 +207,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -515,6 +525,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -796,8 +809,8 @@ Szeretőm volt tíz esztendős koromba!
 
 Jaj, de szépen ragyognak e csillagok, 
 Kelj fel, rózsám, mert indulni akarok!
-Fel es kelek iháj-háj, mer­ nem birok aludni, 
-Szerettelek, s elakarok búcsuzni!
+Fel es kelek, ihaj-haj, mer­ nem birok aludni, 
+Szerettelek, s el akarok búcsuzni!
 
 Édesanyám kihajlott e kapura, 
 Úgy sirassa, hogy e fia katona. 
@@ -815,11 +828,11 @@ Igyál rózsám, ihaj-haj, míg e fogad elázik,
 S e heljébe­ szőlő bokor virágzik! 
 
 Fecske madár elvitte e kedvemet, 
-Rományia közepibe' letette!
+Románya közepibe' letette!
 Fecske madár, ihaj-haj, hozd vissza e kedvemet, 
 Kedvem után s a régi szeretőmet!
 
-Kondor hajam százfelé fújja e szél, 
+Göndör hajam százfelé fújja e szél, 
 Mond meg rózsám, ha igazán szerettél!
 Kondor hajam, ihaj-haj, százfelé fújja e szél, 
 Mond meg, rózsám, ha igazán szerettél!</text>
