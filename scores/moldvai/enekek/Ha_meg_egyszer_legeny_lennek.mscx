@@ -693,6 +693,16 @@ Csak vasárnap délutánra,
 Áj-ne-ne, áj-ne-ne, vegyelek az ölembe,
 Megcsókollak utoljára!
 
+Én kimentem a kiskertbe,
+Lefeküldtem a zöld gyepre,
+Fügefa levele ráhajlott a fügére,
+Régi babám jut eszembe.
+
+De mi haszna, jut eszembe,
+Mert ő rég el van temetve,
+Esztendeje, hónapja, múl az idő hiába,
+Szívem gyászt visel miatta.
+
 Amikor én tutor voltam,
 A dióért maj' meghaltam,
 De most már, hogy ember vagyok, 
@@ -702,9 +712,7 @@ A szép lányért maj' meghalok!
 Öreg leszek nemsokára,
 Fel mék e kálváriára,
 S úgy áldom Istenemet, hogy szeretett engemet,
-Hogy ő szeretett engemet!
-
-tutor = kicsike</text>
+Hogy ő szeretett engemet!</text>
             </Text>
           </HBox>
         <HBox>
@@ -727,20 +735,14 @@ Csak vasárnap délutánra,
 Gyere, na, gyere, na, vegyelek a karomba,
 Megcsókollak utoljára.
 
-Én kimentem a kiskertbe,
-Lefeküldtem a zöld gyepre,
-Fügefa levele ráhajlott a fügére,
-Régi babám jut eszembe.
-
-De mi haszna, jut eszembe,
-Mert ő rég el van temetve,
-Esztendeje, hónapja, múl az idő hiába,
-Szívem gyászt visel miatta.
-
 Ha még egyszer leány lennék,
 Megválasztanám a legényt,
 Megválasztanám a legényt, mint a piacon az edényt,
-Mint a piacon az edényt.</text>
+Mint a piacon az edényt.
+
+tutor = kicsike
+
+</text>
             </Text>
           </HBox>
         </VBox>

@@ -105,7 +105,7 @@
     <metaTag name="source">https://musescore.com/user/443/scores/5471140</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Ó, ti szép leányok</metaTag>
+    <metaTag name="workTitle">Új guzsalyam mellett</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -184,7 +184,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-6.28747" y="-2.89546"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>

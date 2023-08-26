@@ -175,7 +175,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-7.85078" y="-2.9768"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Harmony>
             <root>14</root>
@@ -588,6 +588,16 @@
             </Rest>
           </voice>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text>Úgy fáj az én gyönge szívem, 
+Nem t'om néked fáje vagy nem. 
+Fáj es annak mit tudsz tenni, 
+Mikor ennek így kell lenni.</text>
+          </Text>
+        </TBox>
       </Staff>
     </Score>
   </museScore>
