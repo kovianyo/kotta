@@ -40,7 +40,7 @@
     <metaTag name="source">https://musescore.com/user/443/scores/8492378</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Felsütött a nap sugára alternatív</metaTag>
+    <metaTag name="workTitle">Felsütött a nap sugára</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orchestral</name>
       <instrument id="piano">
@@ -161,7 +161,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Felsütött a nap sugára alternatív</text>
+          <text>Felsütött a nap sugára</text>
           </Text>
         </VBox>
       <Measure>
@@ -175,7 +175,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-4.91856" y="-2.56753"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Harmony>
             <root>14</root>
