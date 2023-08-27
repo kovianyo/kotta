@@ -749,6 +749,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
