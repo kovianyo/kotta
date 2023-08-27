@@ -180,7 +180,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-6.71573" y="-3.16598"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -681,8 +681,17 @@
 Fehér galamb képébe beülök az ölibe,
 Csirikolok szemibe, mint madárka fészkibe.
 
+Fehér végű kedőbe menjünk ki az erdőbe,
+Veres végű kedőbe menjunk menyekezőbe!
+
+Falu végén kicsi ház, benne, rózsám, mit csinálsz?
+Csinosítom magamat, várom a galambomat!
+
 Fenn a csillag, fenn az ég, majd eszedbe jutok még,
 De már akkor késő lesz, mert a szívem másé lesz.
+
+Ne nézz reám, ne nevess, mert megtudják, hogy szeretsz.
+Reám néztél, nevettél, megtudták, hogy szerettél.
 
 Ne nézz reám, ne kacagj, mert a szívem megszakad,
 Reám néztél, kacagál, nálam nélkül maradál.
@@ -693,26 +702,15 @@ Hogy ne lennék szomorú, elhagyott egy szigorú.
 Elhagyott egy szigorú, felfogott egy nyomorú,
 Árva csihán kert melett, szép szeretőm más mellett.
 
-Csicseriborsó, bablencse, kökény szemű menyecske,
-Hadd üljek az öledbe, kacsincsak a szemedbe!
-
-Falu végén kicsi ház, benne, rózsám, mit csinálsz?
-Csinosítom magamat, várom a galambomat!
-
-Fehér végű kedőbe menjünk ki az erdőbe,
-Veres végű kedőbe menjunk menyekezőbe!
-
-Aki reánk haragszik, egyen békát tavaszig,
-Tavasz első napjáig, még a kökény virágzik!
-
-Aki reánk haragszik, egyen békát tavaszig,
-Tavasz után egeret, míg a szeme kimered!
-
 Hadd, hogy üljön más mellett, ha ingemet nem szeret,
 Nem szerettél, elvettél, mást kerestél, nem leltél.
 
 Mikor nekem kellettél, akkor messze kerültél,
-Most, hogy én neked kellek, én es messze kerüllek.</text>
+Most, hogy én neked kellek, én es messze kerüllek.
+
+Fenn a csillag, fenn az ég, majd eszedbe jutok még,
+De már akkor késő lesz, mert a szívem másé lesz.
+</text>
           </Text>
         </TBox>
       </Staff>

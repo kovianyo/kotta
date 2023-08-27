@@ -933,6 +933,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>19</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
