@@ -180,11 +180,11 @@
             <root>14</root>
             </Harmony>
           <Tempo>
-            <tempo>2.3333300000000001</tempo>
+            <tempo>2.6666666666666665</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-9.15895" y="-3.15541"/>
-            <text><sym>metNoteQuarterUp</sym> = 140</text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 160</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -630,6 +630,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -694,6 +698,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1384,32 +1392,6 @@
             </Rest>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <bottomGap>0</bottomGap>
-        <Text>
-          <style>Frame</style>
-          <text>Táncolj, kecske,
-Ne állj meg,
-Mer' az Isten
-Nem ver meg!
-
-Kukorica csutika, 
-Rázkoródjál Máriska!
-Csuti, boti, csutika, 
-Ketten hálunk Máriska! 
-
-Le patakon, le, le, le 
-Csere bimbó levele.
-Béhullott ez ölembe 
-Szeretőmnek szerelme. 
-
-Azért vagyok lenbingó, 
-Hogy szeressen a bíró.
-S azért vagyok lenvirág, 
-Hogy szeressen a világ. </text>
-          </Text>
-        </TBox>
       </Staff>
     </Score>
   </museScore>
