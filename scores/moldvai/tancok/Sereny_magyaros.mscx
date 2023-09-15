@@ -171,25 +171,27 @@
           </Text>
         </VBox>
       <Measure>
-        <startRepeat/>
         <voice>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Tempo>
             <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
+            <offset x="8.94871" y="-4.30522"/>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
           <Harmony>
             <root>17</root>
             <name>m</name>
             </Harmony>
+          <RehearsalMark>
+            <minDistance>0.0379609</minDistance>
+            <offset x="-2.07348" y="-2.23609"/>
+            <text>A</text>
+            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -415,6 +417,9 @@
           <Harmony>
             <root>14</root>
             </Harmony>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -664,6 +669,9 @@
           <Harmony>
             <root>15</root>
             </Harmony>
+          <RehearsalMark>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

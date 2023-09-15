@@ -1428,8 +1428,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
-            <name>m</name>
+            <root>16</root>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1480,6 +1479,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1831,6 +1834,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

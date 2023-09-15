@@ -178,10 +178,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Tempo>
             <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
@@ -189,6 +185,14 @@
             <offset x="-7.46826" y="-3.29618"/>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
+          <Harmony>
+            <root>14</root>
+            <play>1</play>
+            </Harmony>
+          <RehearsalMark>
+            <offset x="-1.84726" y="-2.90278"/>
+            <text>A</text>
+            </RehearsalMark>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -255,6 +259,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -331,7 +336,11 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
+          <RehearsalMark>
+            <text>B</text>
+            </RehearsalMark>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -367,6 +376,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -403,6 +413,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -449,6 +460,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -467,6 +479,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -485,7 +498,11 @@
             </BarLine>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
+          <RehearsalMark>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -503,6 +520,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -517,6 +535,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -535,6 +554,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -549,6 +569,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -567,6 +588,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -592,6 +614,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -609,10 +632,12 @@
             </Chord>
           <Harmony>
             <name></name>
+            <play>1</play>
             </Harmony>
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -628,6 +653,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -711,6 +737,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -798,6 +825,7 @@
           <Harmony>
             <root>17</root>
             <name>m</name>
+            <play>1</play>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -867,6 +895,7 @@
         <voice>
           <Harmony>
             <root>15</root>
+            <play>1</play>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
