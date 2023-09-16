@@ -451,7 +451,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
+              <syllabic>middle</syllabic>
               <text>rös</text>
               </Lyrics>
             <Note>
@@ -462,7 +462,7 @@
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
-              <syllabic>begin</syllabic>
+              <syllabic>middle</syllabic>
               <text>kö</text>
               </Lyrics>
             <Note>
@@ -744,16 +744,16 @@
           <style>Frame</style>
           <text>Ez a kicsi Lészped nem jó helyen van, 
 Mer' a templom a közepibe van. 
-Körös körül arany csipke, 
+Körös-körül arany csipke, 
 Rászállott egy bús gerlice.
 
-Nem megmondtam te bús gerlice,
+Nem megmondtam, te, bús gerlice,
 Ne rakj fészket az út szélire?
 Mert az úton sokan járnak,
 Kis fészkedre reátalálnak.
 
 Ne sírj, ne ríj, te bús gerlice,
-Visszajő (még) a te párod ide.
+Visszajő a te párod ide.
 Nem kell nékem a senki párja,
 Ha a babám el van zárva.
 
