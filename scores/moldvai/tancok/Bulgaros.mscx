@@ -1382,7 +1382,9 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
-          <text>Lérem, lérem, utolérem, száz kutyával összetépem!</text>
+          <text>Lérem, lérem, utolérem, száz kutyával összetépem!
+
+lérem = sógorom</text>
           </Text>
         </TBox>
       </Staff>
