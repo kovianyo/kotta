@@ -1115,7 +1115,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1131,6 +1131,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

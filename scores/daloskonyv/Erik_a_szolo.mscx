@@ -152,6 +152,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -168,10 +172,17 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <KeySig>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -245,6 +256,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -321,6 +335,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
@@ -347,6 +365,9 @@
               </Lyrics>
             <StemDirection>down</StemDirection>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -415,6 +436,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -488,6 +512,9 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>13</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -562,6 +589,10 @@
       <Measure>
         <breakMultiMeasureRest>1</breakMultiMeasureRest>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            </Harmony>
           <Beam>
             </Beam>
           <Chord>
