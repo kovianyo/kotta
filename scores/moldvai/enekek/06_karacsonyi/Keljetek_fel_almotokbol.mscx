@@ -137,6 +137,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -150,7 +154,7 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>-6</accidental>
+            <accidental>0</accidental>
             </KeySig>
           <TimeSig>
             <sigN>3</sigN>
@@ -159,8 +163,14 @@
           <Tempo>
             <tempo>1.3333333333333333</tempo>
             <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-4.77047" y="-3.5295"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -168,8 +178,8 @@
               <text>Kel</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -179,8 +189,8 @@
               <text>je</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -191,8 +201,8 @@
               <text>tek</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -202,14 +212,17 @@
               <text>fel</text>
               </Lyrics>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -218,8 +231,8 @@
               <text>ál</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>9</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -229,8 +242,8 @@
               <text>mo</text>
               </Lyrics>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -249,8 +262,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -263,10 +276,14 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -276,14 +293,18 @@
               <text>ból,</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -291,8 +312,8 @@
               <text>Fé</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -303,8 +324,8 @@
               <text>nyes</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -314,8 +335,8 @@
               <text>an</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -327,8 +348,8 @@
               <text>gyal</text>
               </Lyrics>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -338,6 +359,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -345,8 +369,8 @@
               <text>e</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>9</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -356,8 +380,8 @@
               <text>kép</text>
               </Lyrics>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -376,8 +400,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -390,10 +414,14 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -401,14 +429,17 @@
               <text>szól,</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -416,8 +447,8 @@
               <text>Meg</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>9</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -427,8 +458,8 @@
               <text>szü</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -438,10 +469,13 @@
               <text>le</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -451,14 +485,17 @@
               <text>tett</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -466,8 +503,8 @@
               <text>új</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -477,8 +514,8 @@
               <text>ki</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -488,10 +525,13 @@
               <text>rá</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>9</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -501,14 +541,17 @@
               <text>lyunk,</text>
               </Lyrics>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -516,8 +559,8 @@
               <text>A</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>9</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -528,8 +571,8 @@
               <text>kit</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -539,10 +582,13 @@
               <text>rég</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -552,14 +598,17 @@
               <text>től</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -568,8 +617,8 @@
               <text>fog</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -580,8 +629,8 @@
               <text>va</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>7</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -591,10 +640,14 @@
               <text>vár</text>
               </Lyrics>
             <Note>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -603,8 +656,8 @@
               <text>tunk.</text>
               </Lyrics>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
