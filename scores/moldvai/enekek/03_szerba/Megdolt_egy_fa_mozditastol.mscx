@@ -500,12 +500,14 @@
             </BarLine>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <bottomGap>0</bottomGap>
-        <Text>
-          <style>Frame</style>
-          <text>Megdőlt egy fa mozdítástól,
+      <VBox>
+        <height>84.852</height>
+        <boxAutoSize>0</boxAutoSize>
+        <HBox>
+          <width>48.7938</width>
+          <Text>
+            <style>Frame</style>
+            <text>Megdőlt egy fa mozdítástól,
 Megdőlt egy fa mozdítástól,
 Megválunk, rózsám, egymástól!
 
@@ -533,11 +535,59 @@ Búcsúzásom nem szokásom,
 Búcsúzásom nem szokásom,
 Csak e sűrű sóhajtásom.
 
+Ha még sóhajottam volna,
+Ha még sóhajottam volna,
+Szívem meg is szakadt volna.
+
 S úgy meg vagyok keseredve,
 S úgy meg vagyok keseredve,
-Mint e fűzfa tekeredve!</text>
-          </Text>
-        </TBox>
+Mint e fűzfa tekeredve!
+</text>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>46.9418</width>
+          <offset x="60.8076" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Románia nagy hegy alatt,
+Románia nagy hegy alatt
+Van egy forrás titok alatt.
+
+Aki abból vizet iszik,
+Aki abból vizet iszik,
+Babájától elbúcsúzik.
+
+Én es abból vizet ittam,
+Én es abból vizet ittam,
+A babámtól elbúcsúztam.
+
+Utca, utca, bánat utca,
+Utca, utca, bánat utca,
+Bánatkővel van kirakva.
+
+Azt es az én rózsám rakta,
+Azt es az én rózsám rakta,
+Hogy én sírva járjak rajta.
+
+Rekecsini templom előtt,
+Rekecsini templom előtt
+Három ágú diófa nőtt.
+
+Ágas-bogas a levele,
+Ágas-bogas a levele,
+Édesimnek nincsen neve.
+
+Nem tett e pap neki nevet,
+Nem tett e pap neki nevet,
+Mert elömlött a szent kenet.
+
+Fogadjunk egy lószekeret,
+Vigyünk papnak szenteltvizet,
+Vigyen édesimnek vizet!</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
