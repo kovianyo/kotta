@@ -155,6 +155,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -179,6 +183,10 @@
             <offset x="-7.95378" y="-3.25152"/>
             <text><sym>metNoteQuarterUp</sym> = 105</text>
             </Tempo>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -288,6 +296,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -310,6 +321,9 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -400,6 +414,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -481,6 +498,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
