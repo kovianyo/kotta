@@ -171,25 +171,25 @@
           </Text>
         </VBox>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.3</stretch>
         <voice>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2</tempo>
+            <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-7.33341" y="-3.03856"/>
-            <text><sym>metNoteQuarterUp</sym> = 120</text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
             </Tempo>
           <Harmony>
             <root>17</root>
             <name>m</name>
             </Harmony>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>Ki</text>
@@ -200,7 +200,6 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -212,7 +211,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>ma</text>
@@ -223,7 +222,6 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -235,7 +233,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <text>hogy</text>
               </Lyrics>
@@ -245,7 +243,6 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <text>tudsz</text>
@@ -269,7 +266,7 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.3</stretch>
         <voice>
           <Harmony>
             <root>14</root>
@@ -278,6 +275,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/4</ticks_f>
               <text>ni?</text>
               </Lyrics>
             <Note>
@@ -288,13 +286,15 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.3</stretch>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <voice>
           <Harmony>
             <root>14</root>
             </Harmony>
           <Chord>
-            <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -306,9 +306,10 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>csi</text>
               </Lyrics>
             <Note>
@@ -339,7 +340,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Lyrics>
               <text>hogy</text>
               </Lyrics>
@@ -349,7 +350,6 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
               <text>tudsz</text>
@@ -384,8 +384,12 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.5</stretch>
         <voice>
+          <TimeSig>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Harmony>
             <root>15</root>
             </Harmony>
@@ -413,7 +417,7 @@
             </Chord>
           <Chord>
             <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
               <text>nem</text>
               </Lyrics>
@@ -423,9 +427,10 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Lyrics>
-              <text>tudsz</text>
+              <syllabic>begin</syllabic>
+              <text>be</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -468,8 +473,12 @@
           </voice>
         </Measure>
       <Measure>
-        <stretch>0.8</stretch>
+        <stretch>0.5</stretch>
         <voice>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Harmony>
             <root>17</root>
             <name>m</name>
@@ -488,9 +497,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <TBox>
