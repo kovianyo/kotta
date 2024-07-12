@@ -976,55 +976,101 @@
             </Rest>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <bottomGap>0</bottomGap>
-        <Text>
-          <style>Frame</style>
-          <text>Felsütött a nap sugára minden ember ablakára,
-Jaj Istenem, mi az oka, az enyimre nem süt soha?
+      <VBox>
+        <height>98.279</height>
+        <boxAutoSize>0</boxAutoSize>
+        <HBox>
+          <width>53.5782</width>
+          <Text>
+            <style>Frame</style>
+            <text>Felsütött a nap sugára 
+Minden ember ablakára,
+Jaj Istenem, mi az oka, 
+Az enyimre nem süt soha?
 
-Mikor megyek hazafelé, nyílik az ég háromfelé,
-Azért nyílik háromfelé, mer' én menek hazafelé.
+Mikor megyek hazafelé, 
+Nyílik az ég háromfelé,
+Azért nyílik háromfelé, 
+Mer' én menek hazafelé.
 
-Talán meg vagyok átkozva, az Istentől szomorítva,
-Vagy apámtól, vagy anyámtól, vagy a legelső babámtól.
+Talán meg vagyok átkozva, 
+Az Istentől szomorítva,
+Vagy apámtól, vagy anyámtól, 
+Vagy a legelső babámtól.
 
-Babám, babám, kedves babám, több átkot ne kiálts reám,
-S olyan átok alatt vagyok, mer' idegen földön vagyok.
+Babám, babám, kedves babám, 
+Több átkot ne kiálts reám,
+S olyan átok alatt vagyok, 
+Az idegen földön vagyok.
 
-Idegen földön a hazám, minden ember édesapám,
-Idegen földön a hazám, minden asszony édesanyám.
+Idegen földön a hazám, 
+Minden ember édesapám,
+Idegen földön a hazám, 
+Minden asszony édesanyám.
 
-Idegenek, idegenek, ne egyetek meg ingemet,
-Mer' én oda való vagyok, ahol az a csillag ragyog.
+Idegenek, idegenek, 
+Ne egyetek meg ingemet,
+Mer' én oda való vagyok, 
+Ahol az a csillag ragyog.
 
-Pusztinai nagy hegy alatt, pusztinai nagy hegy alatt,
-Egy szép legény kaszál zabat, egy szép legény kaszál zabat.
+Pusztinai nagy hegy alatt, 
+Pusztinai nagy hegy alatt,
+Egy szép legény kaszál zabat, 
+Egy szép legény kaszál zabat.
 
-Zabat kaszál a lovának, zabat kaszál a lovának,
-Szeretőt keres magának, szeretőt keres magának.
+Zabat kaszál a lovának, 
+Zabat kaszál a lovának,
+Szeretőt keres magának, 
+Szeretőt keres magának.</text>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>53.7325</width>
+          <offset x="54.0169" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Kaszálj zabat, ne vadlencsét, 
+Kaszálj zabat, ne vadlencsét,
+Szeress leánt, ne menyecskét, 
+Szeress leánt, ne menyecskét.
 
-Kaszálj zabat, ne vadlencsét, kaszálj zabat, ne vadlencsét,
-Szeress leánt, ne menyecskét, szeress leánt, ne menyecskét.
+Mert én menyecskét szerettem, 
+Mert én menyecskét szerettem,
+Világimat elvesztettem, 
+Világimat elvesztettem.
 
-Mert én menyecskét szerettem, mert én menyecskét szerettem,
-Világimat elvesztettem, világimat elvesztettem.
+Pusztinai nagy hegy alatt, 
+Pusztinai nagy hegy alatt,
+Van egy forrás titok alatt, 
+Van egy forrás titok alatt.
 
-Pusztinai nagy hegy alatt, pusztinai nagy hegy alatt,
-Van egy forrás titok alatt, van egy forrás titok alatt.
+Aki abból vizet iszik, 
+Aki abból vizet iszik,
+Babájától elbúcsúzik, 
+Babájától elbúcsúzik.
 
-Aki abból vizet iszik, aki abból vizet iszik,
-Babájától elbúcsúzik, babájától elbúcsúzik.
+S én es abból vizet ittam, 
+S én es abból vizet ittam,
+A szeretőmtől elbúcsúztam, 
+Szeretőmtől elbúcsúztam.
 
-S én es abból vizet ittam,  s én es abból vizet ittam,
-A szeretőmtől elbúcsúztam, szeretőmtől elbúcsúztam.
+S úgy elbúcsúztam szegénytől, 
+S úgy elbúcsúztam szegénytől,
+Mint ősszel fa levelétől, 
+Mint az elmúlt esztendőtől.
 
-S úgy elbúcsúztam szegénytől, s úgy elbúcsúztam szegénytől,
-Mint ősszel fa levelétől, mint az elmúlt esztendőtől.
-</text>
-          </Text>
-        </TBox>
+Elment János katonának, 
+Elment János katonának,
+Engem itten hagyott másnak, 
+Engem itten hagyott másnak.
+
+Gyere János, mert megvárlak, 
+Gyere János, mert megvárlak!
+Mert ha nem jössz, férjhez adnak, 
+Mert ha nem jössz, férjhez adnak.</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
