@@ -3923,7 +3923,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <root>13</root>
+            <root>14</root>
             </Harmony>
           <Spanner type="Volta">
             <prev>
