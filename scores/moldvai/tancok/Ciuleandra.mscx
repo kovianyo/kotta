@@ -374,7 +374,7 @@
         <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Spanner type="Volta">
             <Volta>
@@ -412,6 +412,9 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -455,7 +458,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -499,6 +502,9 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -868,7 +874,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>15</root>
+            <root>14</root>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -913,6 +919,9 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <root>15</root>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
