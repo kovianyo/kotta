@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.40">
+  <programVersion>4.4.2</programVersion>
+  <programRevision>3130f97</programRevision>
+  <LastEID>6281</LastEID>
+  <Score>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <open>1</open>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="audioComUrl"></metaTag>
+    <metaTag name="composer">Kristóf Nemeth kn.kristofnemeth@gmail.com</metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2024-10-03</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Microsoft Windows</metaTag>
+    <metaTag name="source">http://musescore.com/user/54734073/scores/20967037</metaTag>
+    <metaTag name="sourceRevisionId"></metaTag>
+    <metaTag name="subtitle">Subtitle</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Kicsi Gyurka gyere ki</metaTag>
+    <Order id="orchestral">
+      <name>Orchestral</name>
+      <instrument id="piano">
+        <family id="keyboards">Keyboards</family>
+        </instrument>
+      <section id="woodwind" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>flutes</family>
+        <family>oboes</family>
+        <family>clarinets</family>
+        <family>saxophones</family>
+        <family>bassoons</family>
+        <unsorted group="woodwinds"/>
+        </section>
+      <section id="brass" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>horns</family>
+        <family>trumpets</family>
+        <family>cornets</family>
+        <family>flugelhorns</family>
+        <family>trombones</family>
+        <family>tubas</family>
+        </section>
+      <section id="timpani" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>timpani</family>
+        </section>
+      <section id="percussion" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>keyboard-percussion</family>
+        <family>drums</family>
+        <family>unpitched-metal-percussion</family>
+        <family>unpitched-wooden-percussion</family>
+        <family>other-percussion</family>
+        </section>
+      <family>keyboards</family>
+      <family>harps</family>
+      <family>organs</family>
+      <family>synths</family>
+      <soloists/>
+      <section id="voices" brackets="true" barLineSpan="false" thinBrackets="true">
+        <family>voices</family>
+        <family>voice-groups</family>
+        </section>
+      <section id="strings" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>orchestral-strings</family>
+        </section>
+      <unsorted/>
+      </Order>
+    <Part id="1">
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        <bracket type="1" span="2" col="2" visible="1"/>
+        <barLineSpan>1</barLineSpan>
+        </Staff>
+      <trackName>Piano</trackName>
+      <Instrument id="piano">
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano</instrumentId>
+        <clef staff="2">F</clef>
+        <Articulation>
+          <velocity>100</velocity>
+          <gateTime>95</gateTime>
+          </Articulation>
+        <Articulation name="staccatissimo">
+          <velocity>100</velocity>
+          <gateTime>33</gateTime>
+          </Articulation>
+        <Articulation name="staccato">
+          <velocity>100</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="portato">
+          <velocity>100</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="tenuto">
+          <velocity>100</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="marcato">
+          <velocity>120</velocity>
+          <gateTime>67</gateTime>
+          </Articulation>
+        <Articulation name="sforzato">
+          <velocity>150</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Articulation name="sforzatoStaccato">
+          <velocity>150</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoStaccato">
+          <velocity>120</velocity>
+          <gateTime>50</gateTime>
+          </Articulation>
+        <Articulation name="marcatoTenuto">
+          <velocity>120</velocity>
+          <gateTime>100</gateTime>
+          </Articulation>
+        <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <eid>1529008357498</eid>
+        <Text>
+          <eid>2100239007749</eid>
+          <style>title</style>
+          <text>Kicsi Gyurka gyere ki</text>
+          </Text>
+        <Text>
+          <eid>2108828942341</eid>
+          <style>composer</style>
+          <text>Kristóf Nemeth
+kn.kristofnemeth@gmail.com</text>
+          </Text>
+        </VBox>
+      <Measure>
+        <voice>
+          <KeySig>
+            <eid>1554778161175</eid>
+            <concertKey>0</concertKey>
+            </KeySig>
+          <TimeSig>
+            <eid>1546188226585</eid>
+            <sigN>2</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Tempo>
+            <tempo>1.333333</tempo>
+            <followText>1</followText>
+            <eid>2113123909679</eid>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 80</text>
+            </Tempo>
+          <Chord>
+            <eid>68719476851</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>14624363642920</eid>
+              <text>Ki</text>
+              </Lyrics>
+            <Note>
+              <eid>81604378644</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>85899346035</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>14667313315880</eid>
+              <text>csi</text>
+              </Lyrics>
+            <Note>
+              <eid>98784247828</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>107374182515</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>14778982465576</eid>
+              <text>Gyur</text>
+              </Lyrics>
+            <Note>
+              <eid>120259084308</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>128849018995</eid>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>14839112007720</eid>
+              <text>ka</text>
+              </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>14920716386420</eid>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <eid>141733920788</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>150323855475</eid>
+            <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <eid>163208757268</eid>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                <eid>21522081120272</eid>
+                </Accidental>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>176093659251</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>14959371092008</eid>
+              <text>gye</text>
+              </Lyrics>
+            <Note>
+              <eid>188978561044</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>197568495731</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15010910699560</eid>
+              <text>re</text>
+              </Lyrics>
+            <Note>
+              <eid>210453397524</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>219043332211</eid>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <eid>15053860372520</eid>
+              <text>ki</text>
+              </Lyrics>
+            <Note>
+              <eid>231928234004</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>249108103283</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <eid>15221364097064</eid>
+              <text>Má'</text>
+              </Lyrics>
+            <Note>
+              <eid>261993005076</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>270582939763</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>15281493639208</eid>
+              <text>meg</text>
+              </Lyrics>
+            <Note>
+              <eid>283467841556</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>292057776243</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <eid>15324443312168</eid>
+              <text>fat</text>
+              </Lyrics>
+            <Note>
+              <eid>304942678036</eid>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>313532612723</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15375982919720</eid>
+              <text>tam</text>
+              </Lyrics>
+            <Note>
+              <eid>326417514516</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <LayoutBreak>
+          <eid>19542101196881</eid>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <voice>
+          <Chord>
+            <eid>335007449203</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>15427522527272</eid>
+              <text>i</text>
+              </Lyrics>
+            <Note>
+              <eid>347892350996</eid>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>356482285683</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15453292331048</eid>
+              <text>de</text>
+              </Lyrics>
+            <Note>
+              <eid>369367187476</eid>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>377957122163</eid>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <eid>15496242004008</eid>
+              <text>ki.</text>
+              </Lyrics>
+            <Note>
+              <eid>390842023956</eid>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <startRepeat/>
+        <voice>
+          <Chord>
+            <eid>408021893235</eid>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>15633680957480</eid>
+              <text>Csi</text>
+              </Lyrics>
+            <Note>
+              <eid>420906795028</eid>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>429496729715</eid>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15685220565032</eid>
+              <offset x="-1.38038" y="2.86196"/>
+              <text>nálj</text>
+              </Lyrics>
+            <Note>
+              <eid>442381631508</eid>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>450971566195</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>15745350107176</eid>
+              <text>bur</text>
+              </Lyrics>
+            <Note>
+              <eid>463856467988</eid>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>472446402675</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15788299780136</eid>
+              <text>dét</text>
+              </Lyrics>
+            <Note>
+              <eid>485331304468</eid>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>493921239155</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <eid>15839839387688</eid>
+              <text>bújj</text>
+              </Lyrics>
+            <Note>
+              <eid>506806140948</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>515396075635</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>15891378995240</eid>
+              <text>be</text>
+              </Lyrics>
+            <Note>
+              <eid>528280977428</eid>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>536870912115</eid>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>15994458210344</eid>
+              <text>lé</text>
+              </Lyrics>
+            <Note>
+              <eid>549755813908</eid>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>566935683187</eid>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>16037407883304</eid>
+              <text>in</text>
+              </Lyrics>
+            <Note>
+              <eid>579820584980</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>21676699943027</eid>
+            <durationType>16th</durationType>
+            <Lyrics>
+              <syllabic>middle</syllabic>
+              <eid>21680994910248</eid>
+              <offset x="-1.38038" y="3"/>
+              <text>ge</text>
+              </Lyrics>
+            <Note>
+              <eid>21693879812116</eid>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>609885356147</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>16114717294632</eid>
+              <text>met</text>
+              </Lyrics>
+            <Note>
+              <eid>622770257940</eid>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>631360192627</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <eid>16166256902184</eid>
+              <text>es</text>
+              </Lyrics>
+            <Note>
+              <eid>644245094420</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <endRepeat>2</endRepeat>
+        <voice>
+          <Chord>
+            <eid>674309865587</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <eid>16200616640552</eid>
+              <text>húzz</text>
+              </Lyrics>
+            <Note>
+              <eid>687194767380</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>695784702067</eid>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>begin</syllabic>
+              <eid>16252156248104</eid>
+              <text>be</text>
+              </Lyrics>
+            <Note>
+              <eid>708669603860</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>717259538547</eid>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <eid>16286515986472</eid>
+              <text>lé</text>
+              </Lyrics>
+            <Note>
+              <eid>730144440340</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <TBox>
+        <eid>17592186044539</eid>
+        <Text>
+          <eid>17596481011717</eid>
+          <style>frame</style>
+          <text>Kicsi Gyurka gyere ki 
+mert megfagyok ide ki
+Csinálj burdét bújj belé 
+engemet is húzz belé
+
+Járd ki lábam járd ki most
+nem parancsol senki most
+Az én lábam kijárja 
+csak édesem ne bánja
+
+Ne bánd édes virágom
+hadd éljem a világom 
+Éljed te is nem bánom 
+én szívemből kívánom
+
+Kerek alma falapi
+szeret engem valaki
+De nem mondom meg hogy ki 
+hogy ne tudja meg senki</text>
+          </Text>
+        </TBox>
+      </Staff>
+    </Score>
+  </museScore>
