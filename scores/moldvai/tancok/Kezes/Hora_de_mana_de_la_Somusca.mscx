@@ -657,6 +657,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -835,6 +838,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -854,14 +860,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -875,10 +874,20 @@
             <root>14</root>
             </Harmony>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -905,6 +914,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>4</text>
+                </Fingering>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -970,6 +982,9 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
+              <Fingering>
+                <text>2</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1004,6 +1019,9 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Fingering>
+                <text>1</text>
+                </Fingering>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
