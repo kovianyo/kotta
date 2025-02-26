@@ -150,6 +150,10 @@
           <style>Title</style>
           <text>Mikor megyünk macírozni</text>
           </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Bogdán Ramóna, Magyarfalu, 2006</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -729,18 +733,58 @@
             </Rest>
           </voice>
         </Measure>
-      <TBox>
-        <height>1</height>
-        <Text>
-          <style>Frame</style>
-          <text>Mikor megyünk macírozni, 
+      <VBox>
+        <height>75.3142</height>
+        <boxAutoSize>0</boxAutoSize>
+        <HBox>
+          <width>44.8276</width>
+          <Text>
+            <style>Frame</style>
+            <text>Mikor megyünk macírozni, 
 Kapitányuram-uram?
 Csütörtökön délután, 
 Vagy ebéd, vagy ebéd után, 
 Édes katonám, katonaszolgám!
+
+Mit viszünk az útra, 
+Kapitányuram-uram?
+Tőtött tyúkot, sült malacot,
+Egy kalácsot, s egy kolbászt,
+Édes katonám, katonaszolgám!
+
+Hol elé haladunk,
+Kapitányuram-uram?
+S a nagy vizen, s a nagy Dunán,
+S a nagy vizen, s a nagy Dunán,
+Édes katonám, katonaszolgám!
 </text>
-          </Text>
-        </TBox>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>41.0001</width>
+          <offset x="51.4858" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Hol hálunk az éjszakán,
+Kapitányuram-uram?
+Ott, a Márisnál az ágyban,
+Ott, a Márisnál az ágyban,
+Édes katonám, katonaszolgám!
+
+Elszakadt a nadrágom,
+Kapitányuram-uram?
+Ott, a Márisnál megvarrja,
+Ott, a Márisnál megvarrja,
+Édes katonám, katonaszolgám!
+
+He ha elmerülünk,
+Kapitányuram-uram?
+Többet nem macírozunk,
+Többet nem macírozunk,
+Édes katonám, katonaszolgám!</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
