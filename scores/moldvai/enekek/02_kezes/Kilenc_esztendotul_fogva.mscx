@@ -278,7 +278,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
               <text>fog</text>
@@ -288,7 +288,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>3/16</fractions>
+                  <fractions>1/8</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -305,11 +305,11 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <fractions>-3/16</fractions>
+                  <fractions>-1/8</fractions>
                   </location>
                 </prev>
               </Spanner>
