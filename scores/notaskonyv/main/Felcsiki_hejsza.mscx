@@ -289,14 +289,30 @@
             <root>14</root>
             </Harmony>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -307,7 +323,13 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>quarter</durationType>
             <Note>
               <pitch>76</pitch>
