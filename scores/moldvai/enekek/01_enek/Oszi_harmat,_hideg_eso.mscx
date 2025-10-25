@@ -159,7 +159,7 @@
           <Tempo>
             <tempo>1.8333333333333333</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 110</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -309,8 +309,8 @@
               <text>meg</text>
               </Lyrics>
             <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -319,8 +319,8 @@
               <text>e</text>
               </Lyrics>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>73</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -330,8 +330,8 @@
               <text>sző</text>
               </Lyrics>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -342,8 +342,8 @@
               <text>lő,</text>
               </Lyrics>
             <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
