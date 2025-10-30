@@ -165,6 +165,8 @@
           <Tempo>
             <tempo>1.8333333333333333</tempo>
             <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-7.70777" y="-3.43765"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
             </Tempo>
           <Harmony>
