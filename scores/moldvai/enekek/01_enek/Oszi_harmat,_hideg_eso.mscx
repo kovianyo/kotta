@@ -19,6 +19,7 @@
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2025-10-24</metaTag>
+    <metaTag name="forras">https://zti.hungaricana.hu/hu/98935/</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -137,6 +138,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -148,6 +153,7 @@
           </Text>
         </VBox>
       <Measure>
+        <stretch>0.9</stretch>
         <voice>
           <KeySig>
             <accidental>2</accidental>
@@ -161,6 +167,9 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 110</b></text>
             </Tempo>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -207,6 +216,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -256,6 +268,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -349,7 +362,11 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0.9</stretch>
         <voice>
+          <Harmony>
+            <root>16</root>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -371,6 +388,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <root>17</root>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -409,7 +429,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Vi</text>
+              <text>vi</text>
               </Lyrics>
             <Note>
               <pitch>73</pitch>
@@ -430,6 +450,7 @@
           </voice>
         </Measure>
       <Measure>
+        <stretch>0.9</stretch>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -450,6 +471,75 @@
             </Rest>
           </voice>
         </Measure>
+      <VBox>
+        <height>86.6003</height>
+        <boxAutoSize>0</boxAutoSize>
+        <HBox>
+          <width>39.8308</width>
+          <Text>
+            <style>Frame</style>
+            <text>Őszi harmat, hideg eső,
+Őszvel érik meg e szőlő.
+Haj, rózsám, violám.
+
+Ha megérik, bornak szedjük,
+S e szép liányt férjhez visszük.
+Haj, rózsám, violám.
+
+Recés e szőlő levele,
+János ez édesim neve.
+Haj, rózsám, violám.
+
+Mi haszna ha János neve,
+Ha nem beszélhetek vele.
+Haj, rózsám, violám.
+
+Mi haszna ha János neve,
+Ha nem beszélhetek vele.
+Haj, rózsám, violám.
+
+Várom, várom, s emíg várom,
+Míg szememre jő jez álom.
+Haj, rózsám, violám.
+
+Míg szememre jő jez álom,
+Ajtóm, kapumat bézárom.
+Haj, rózsám, violám.
+</text>
+            </Text>
+          </HBox>
+        <HBox>
+          <width>48.016</width>
+          <offset x="54.8411" y="0"/>
+          <Text>
+            <style>Frame</style>
+            <text>Ajtóm, kapumat bézárom,
+S az lesz nekem csendes álom.
+Haj, rózsám, violám.
+
+Csendes álom, nyugodalom,
+S e szerelem szívfájdalom.
+Haj, rózsám, violám.
+
+Béfogom ez ökröm nyakát,
+Felszántom e kertem alját.
+Haj, rózsám, violám.
+
+Csokros rózsa virágozzál,
+Ifjú legén házasodjál.
+Haj, rózsám, violám.
+
+Házasodni, házt csinálni,
+Nem kell időt várogatni,
+Haj, rózsám, violám.
+
+Mert ha időt várogatsz,
+Soha meg sem házasodsz.
+Haj, rózsám, violám.
+</text>
+            </Text>
+          </HBox>
+        </VBox>
       </Staff>
     </Score>
   </museScore>
