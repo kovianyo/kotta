@@ -416,6 +416,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="52"/>
           <controller ctrl="93" value="30"/>
@@ -438,7 +439,7 @@
         <Text>
           <style>Title</style>
           <family>FreeSerif</family>
-          <text><font face="Times New Roman"></font>Szentélek, jöjj</text>
+          <text><font face="Times New Roman"/>Szentlélek, jöjj</text>
           </Text>
         </VBox>
       <Measure>
