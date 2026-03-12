@@ -170,7 +170,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-6.51509" y="-2.81944"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 120</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -541,11 +541,7 @@ Férjhez akar menni.
 Szökdösik a bolhácska,
 Meg akar házasodni,
 I-hajj, i-hajj,
-Meg akar házasodni.
-
-bácsu = bácsi
-kerpa = kendő
-</text>
+Meg akar házasodni.</text>
             </Text>
           </HBox>
         <HBox>
@@ -571,7 +567,10 @@ Nagy port indítátok.
 Hosszú a hajatok, 
 Rövid az eszetek,
 I-hajj, i-hajj,
-Rövid az eszetek.</text>
+Rövid az eszetek.
+
+bácsu = bácsi
+kerpa = kendő</text>
             </Text>
           </HBox>
         </VBox>
