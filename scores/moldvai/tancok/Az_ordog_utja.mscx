@@ -2245,22 +2245,51 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>81</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
-              <pitch>76</pitch>
+              <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
+            <durationType>eighth</durationType>
             <Note>
-              <pitch>81</pitch>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
